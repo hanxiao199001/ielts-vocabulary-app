@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "word": "copy",
+    "translation": "复印",
+    "phonetic": "/ˈkɒpi/",
+    "example": {
+      "en": "Please make a copy of this document for the meeting.",
+      "zh": "请为会议复印一份这个文件。"
+    },
+    "day": 1
+  },
+  {
+    "id": 2,
+    "word": "clock",
+    "translation": "钟",
+    "phonetic": "/klɒk/",
+    "example": {
+      "en": "The lecture starts at three o'clock in the afternoon.",
+      "zh": "讲座在下午三点开始。"
+    },
+    "day": 1
+  },
+  {
+    "id": 3,
+    "word": "letter",
+    "translation": "信,字母",
+    "phonetic": "/ˈletə(r)/",
+    "example": {
+      "en": "I received a letter from the university about my application.",
+      "zh": "我收到了大学关于我申请的信件。"
+    },
+    "day": 1
+  },
+  {
+    "id": 4,
+    "word": "ticket",
+    "translation": "票",
+    "phonetic": "/ˈtɪkɪt/",
+    "example": {
+      "en": "You need to book your train ticket in advance.",
+      "zh": "你需要提前预订火车票。"
+    },
+    "day": 1
+  },
+  {
+    "id": 5,
+    "word": "transportation",
+    "translation": "交通",
+    "phonetic": "/ˌtrænspɔːˈteɪʃn/",
+    "example": {
+      "en": "Public transportation is very convenient in this city.",
+      "zh": "这个城市的公共交通非常便利。"
+    },
+    "day": 1
+  },
+  {
+    "id": 6,
+    "word": "goals",
+    "translation": "目标",
+    "phonetic": "/ɡəʊlz/",
+    "example": {
+      "en": "Setting clear academic goals helps students achieve better results.",
+      "zh": "设定明确的学术目标有助于学生取得更好的成绩。"
+    },
+    "day": 1
+  },
+  {
+    "id": 7,
+    "word": "energy",
+    "translation": "能量",
+    "phonetic": "/ˈenədʒi/",
+    "example": {
+      "en": "Renewable energy is becoming more important for our environment.",
+      "zh": "可再生能源对我们的环境变得越来越重要。"
+    },
+    "day": 1
+  },
+  {
+    "id": 8,
+    "word": "experience",
+    "translation": "经验",
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "example": {
+      "en": "This internship will give you valuable work experience.",
+      "zh": "这次实习将给你宝贵的工作经验。"
+    },
+    "day": 1
+  },
+  {
+    "id": 9,
+    "word": "January",
+    "translation": "一月",
+    "phonetic": "/ˈdʒænjuəri/",
+    "example": {
+      "en": "The winter semester usually begins in January.",
+      "zh": "冬季学期通常在一月开始。"
+    },
+    "day": 1
+  },
+  {
+    "id": 10,
+    "word": "second",
+    "translation": "第二",
+    "phonetic": "/ˈsekənd/",
+    "example": {
+      "en": "This is the second time I have visited this museum.",
+      "zh": "这是我第二次参观这个博物馆。"
+    },
+    "day": 1
+  },
+  {
+    "id": 11,
+    "word": "America",
+    "translation": "美国",
+    "phonetic": "/əˈmerɪkə/",
+    "example": {
+      "en": "Many international students choose to study in America.",
+      "zh": "许多国际学生选择在美国学习。"
+    },
+    "day": 1
+  },
+  {
+    "id": 12,
+    "word": "Britain",
+    "translation": "英国",
+    "phonetic": "/ˈbrɪtn/",
+    "example": {
+      "en": "Britain has a rich history and cultural heritage.",
+      "zh": "英国拥有丰富的历史和文化遗产。"
+    },
+    "day": 1
+  },
+  {
+    "id": 13,
+    "word": "London",
+    "translation": "伦敦",
+    "phonetic": "/ˈlʌndən/",
+    "example": {
+      "en": "London is one of the most popular destinations for tourists.",
+      "zh": "伦敦是最受游客欢迎的目的地之一。"
+    },
+    "day": 1
+  },
+  {
+    "id": 14,
+    "word": "England",
+    "translation": "英格兰",
+    "phonetic": "/ˈɪŋɡlənd/",
+    "example": {
+      "en": "England has many prestigious universities and colleges.",
+      "zh": "英格兰有许多著名的大学和学院。"
+    },
+    "day": 1
+  },
+  {
+    "id": 15,
+    "word": "Scotland",
+    "translation": "苏格兰",
+    "phonetic": "/ˈskɒtlənd/",
+    "example": {
+      "en": "Scotland is famous for its beautiful landscapes and historic castles.",
+      "zh": "苏格兰以其美丽的风景和历史悠久的城堡而闻名。"
+    },
+    "day": 1
+  },
+  {
+    "id": 16,
+    "word": "Queensland",
+    "translation": "昆士兰",
+    "phonetic": "/ˈkwiːnzlənd/",
+    "example": {
+      "en": "Queensland offers excellent opportunities for studying marine biology.",
+      "zh": "昆士兰为学习海洋生物学提供了绝佳的机会。"
+    },
+    "day": 1
+  },
+  {
+    "id": 17,
+    "word": "Sydney",
+    "translation": "悉尼",
+    "phonetic": "/ˈsɪdni/",
+    "example": {
+      "en": "Sydney is the largest city in Australia.",
+      "zh": "悉尼是澳大利亚最大的城市。"
+    },
+    "day": 1
+  },
+  {
+    "id": 18,
+    "word": "Adelaide",
+    "translation": "阿德莱德",
+    "phonetic": "/ˈædəleɪd/",
+    "example": {
+      "en": "Adelaide is known for its festivals and quality education.",
+      "zh": "阿德莱德以其节日和优质教育而闻名。"
+    },
+    "day": 1
+  },
+  {
+    "id": 19,
+    "word": "Melbourne",
+    "translation": "墨尔本",
+    "phonetic": "/ˈmelbən/",
+    "example": {
+      "en": "Melbourne has a diverse culture and vibrant arts scene.",
+      "zh": "墨尔本拥有多元文化和充满活力的艺术氛围。"
+    },
+    "day": 1
+  },
+  {
+    "id": 20,
+    "word": "Perth",
+    "translation": "珀斯",
+    "phonetic": "/pɜːθ/",
+    "example": {
+      "en": "Perth is located on the west coast of Australia.",
+      "zh": "珀斯位于澳大利亚西海岸。"
+    },
+    "day": 1
+  },
+  {
+    "id": 21,
+    "word": "fire",
+    "translation": "火灾,解雇",
+    "phonetic": "/ˈfaɪə(r)/",
+    "example": {
+      "en": "The fire alarm went off during the examination.",
+      "zh": "考试期间火灾警报响了。"
+    },
+    "day": 1
+  },
+  {
+    "id": 22,
+    "word": "college",
+    "translation": "学院",
+    "phonetic": "/ˈkɒlɪdʒ/",
+    "example": {
+      "en": "She is studying business management at a local college.",
+      "zh": "她在当地一所学院学习商业管理。"
+    },
+    "day": 1
+  },
+  {
+    "id": 23,
+    "word": "teams",
+    "translation": "小组",
+    "phonetic": "/tiːmz/",
+    "example": {
+      "en": "Students are divided into teams for the group project.",
+      "zh": "学生们被分成小组完成小组项目。"
+    },
+    "day": 1
+  },
+  {
+    "id": 24,
+    "word": "membership",
+    "translation": "会员资格",
+    "phonetic": "/ˈmembəʃɪp/",
+    "example": {
+      "en": "The gym membership includes access to all facilities.",
+      "zh": "健身房会员资格包括使用所有设施。"
+    },
+    "day": 1
+  },
+  {
+    "id": 25,
+    "word": "difficulties",
+    "translation": "困难",
+    "phonetic": "/ˈdɪfɪkəltiz/",
+    "example": {
+      "en": "International students may face difficulties adjusting to a new culture.",
+      "zh": "国际学生可能在适应新文化方面面临困难。"
+    },
+    "day": 1
+  },
+  {
+    "id": 26,
+    "word": "beach",
+    "translation": "海滩",
+    "phonetic": "/biːtʃ/",
+    "example": {
+      "en": "The beach is a popular place for relaxation on weekends.",
+      "zh": "海滩是周末放松的热门场所。"
+    },
+    "day": 1
+  },
+  {
+    "id": 27,
+    "word": "underground",
+    "translation": "地下",
+    "phonetic": "/ˌʌndəˈɡraʊnd/",
+    "example": {
+      "en": "The underground train system is the fastest way to travel.",
+      "zh": "地铁系统是最快的出行方式。"
+    },
+    "day": 1
+  },
+  {
+    "id": 28,
+    "word": "spending",
+    "translation": "花费",
+    "phonetic": "/ˈspendɪŋ/",
+    "example": {
+      "en": "Students should plan their spending carefully to manage their budget.",
+      "zh": "学生应该仔细规划支出以管理预算。"
+    },
+    "day": 1
+  },
+  {
+    "id": 29,
+    "word": "site",
+    "translation": "位置",
+    "phonetic": "/saɪt/",
+    "example": {
+      "en": "The construction site is located near the university campus.",
+      "zh": "建筑工地位于大学校园附近。"
+    },
+    "day": 1
+  },
+  {
+    "id": 30,
+    "word": "recreation",
+    "translation": "娱乐",
+    "phonetic": "/ˌrekriˈeɪʃn/",
+    "example": {
+      "en": "The recreation center offers various sports and activities.",
+      "zh": "娱乐中心提供各种运动和活动。"
+    },
+    "day": 1
+  },
+  {
+    "id": 31,
+    "word": "property",
+    "translation": "财产",
+    "phonetic": "/ˈprɒpəti/",
+    "example": {
+      "en": "Renting property near campus can be quite expensive.",
+      "zh": "在校园附近租房可能相当昂贵。"
+    },
+    "day": 1
+  },
+  {
+    "id": 32,
+    "word": "learn",
+    "translation": "学习",
+    "phonetic": "/lɜːn/",
+    "example": {
+      "en": "Students need to learn effective time management skills.",
+      "zh": "学生需要学习有效的时间管理技能。"
+    },
+    "day": 1
+  },
+  {
+    "id": 33,
+    "word": "computers",
+    "translation": "电脑",
+    "phonetic": "/kəmˈpjuːtəz/",
+    "example": {
+      "en": "All students have access to computers in the library.",
+      "zh": "所有学生都可以使用图书馆的电脑。"
+    },
+    "day": 1
+  },
+  {
+    "id": 34,
+    "word": "plant",
+    "translation": "植物",
+    "phonetic": "/plɑːnt/",
+    "example": {
+      "en": "The botany course includes studying different plant species.",
+      "zh": "植物学课程包括研究不同的植物物种。"
+    },
+    "day": 1
+  },
+  {
+    "id": 35,
+    "word": "table",
+    "translation": "桌子",
+    "phonetic": "/ˈteɪbl/",
+    "example": {
+      "en": "Please reserve a table at the study room for our group.",
+      "zh": "请为我们小组在自习室预订一张桌子。"
+    },
+    "day": 1
+  },
+  {
+    "id": 36,
+    "word": "support",
+    "translation": "支持",
+    "phonetic": "/səˈpɔːt/",
+    "example": {
+      "en": "The university provides excellent support services for students.",
+      "zh": "大学为学生提供优秀的支持服务。"
+    },
+    "day": 1
+  },
+  {
+    "id": 37,
+    "word": "choice",
+    "translation": "选择",
+    "phonetic": "/tʃɔɪs/",
+    "example": {
+      "en": "Students have a wide choice of elective courses.",
+      "zh": "学生有广泛的选修课程可供选择。"
+    },
+    "day": 1
+  },
+  {
+    "id": 38,
+    "word": "glass",
+    "translation": "玻璃",
+    "phonetic": "/ɡlɑːs/",
+    "example": {
+      "en": "The library building features beautiful glass architecture.",
+      "zh": "图书馆大楼具有美丽的玻璃建筑特色。"
+    },
+    "day": 1
+  },
+  {
+    "id": 39,
+    "word": "survey",
+    "translation": "调查",
+    "phonetic": "/ˈsɜːveɪ/",
+    "example": {
+      "en": "We conducted a survey to understand student satisfaction.",
+      "zh": "我们进行了一项调查以了解学生满意度。"
+    },
+    "day": 1
+  },
+  {
+    "id": 40,
+    "word": "passport",
+    "translation": "护照",
+    "phonetic": "/ˈpɑːspɔːt/",
+    "example": {
+      "en": "Don't forget to bring your passport for international travel.",
+      "zh": "国际旅行时别忘了带上护照。"
+    },
+    "day": 1
+  },
+  {
+    "id": 41,
+    "word": "range",
+    "translation": "范围",
+    "phonetic": "/reɪndʒ/",
+    "example": {
+      "en": "The library offers a wide range of academic resources.",
+      "zh": "图书馆提供广泛的学术资源。"
+    },
+    "day": 1
+  },
+  {
+    "id": 42,
+    "word": "service",
+    "translation": "服务",
+    "phonetic": "/ˈsɜːvɪs/",
+    "example": {
+      "en": "The customer service at the bookstore is very helpful.",
+      "zh": "书店的客户服务非常有帮助。"
+    },
+    "day": 1
+  },
+  {
+    "id": 43,
+    "word": "exams",
+    "translation": "考试",
+    "phonetic": "/ɪɡˈzæmz/",
+    "example": {
+      "en": "Final exams will be held in the examination hall.",
+      "zh": "期末考试将在考场举行。"
+    },
+    "day": 1
+  },
+  {
+    "id": 44,
+    "word": "failure",
+    "translation": "失败",
+    "phonetic": "/ˈfeɪljə(r)/",
+    "example": {
+      "en": "Failure is an important part of the learning process.",
+      "zh": "失败是学习过程的重要组成部分。"
+    },
+    "day": 1
+  },
+  {
+    "id": 45,
+    "word": "demonstration",
+    "translation": "示威",
+    "phonetic": "/ˌdemənˈstreɪʃn/",
+    "example": {
+      "en": "The professor gave a practical demonstration in the laboratory.",
+      "zh": "教授在实验室进行了实际演示。"
+    },
+    "day": 1
+  },
+  {
+    "id": 46,
+    "word": "festival",
+    "translation": "节日",
+    "phonetic": "/ˈfestɪvl/",
+    "example": {
+      "en": "The university hosts an international festival every year.",
+      "zh": "大学每年举办一次国际节日。"
+    },
+    "day": 1
+  },
+  {
+    "id": 47,
+    "word": "Belfast",
+    "translation": "贝尔法斯特",
+    "phonetic": "/ˈbelfɑːst/",
+    "example": {
+      "en": "Belfast is the capital city of Northern Ireland.",
+      "zh": "贝尔法斯特是北爱尔兰的首府。"
+    },
+    "day": 1
+  },
+  {
+    "id": 48,
+    "word": "Ireland",
+    "translation": "爱尔兰",
+    "phonetic": "/ˈaɪələnd/",
+    "example": {
+      "en": "Ireland is known for its friendly people and green landscapes.",
+      "zh": "爱尔兰以其友好的人民和绿色的风景而闻名。"
+    },
+    "day": 1
+  },
+  {
+    "id": 49,
+    "word": "Dublin",
+    "translation": "都柏林",
+    "phonetic": "/ˈdʌblɪn/",
+    "example": {
+      "en": "Dublin has several world-class universities and research centers.",
+      "zh": "都柏林有几所世界级的大学和研究中心。"
+    },
+    "day": 1
+  },
+  {
+    "id": 50,
+    "word": "Australia",
+    "translation": "澳大利亚",
+    "phonetic": "/ɒˈstreɪliə/",
+    "example": {
+      "en": "Australia attracts thousands of international students each year.",
+      "zh": "澳大利亚每年吸引数千名国际学生。"
+    },
+    "day": 1
+  },
+  {
+    "id": 51,
+    "word": "narrator",
+    "translation": "叙述者",
+    "phonetic": "/nəˈreɪtə(r)/",
+    "example": {
+      "en": "The narrator provides important context throughout the audio recording.",
+      "zh": "叙述者在整个录音中提供重要的背景信息。"
+    },
+    "day": 2
+  },
+  {
+    "id": 52,
+    "word": "costs",
+    "translation": "成本",
+    "phonetic": "/kɒsts/",
+    "example": {
+      "en": "Living costs in major cities are generally higher than in small towns.",
+      "zh": "大城市的生活成本通常高于小城镇。"
+    },
+    "day": 2
+  },
+  {
+    "id": 53,
+    "word": "background",
+    "translation": "背景",
+    "phonetic": "/ˈbækɡraʊnd/",
+    "example": {
+      "en": "Students from different cultural backgrounds enrich classroom discussions.",
+      "zh": "来自不同文化背景的学生丰富了课堂讨论。"
+    },
+    "day": 2
+  },
+  {
+    "id": 54,
+    "word": "avenue",
+    "translation": "大街",
+    "phonetic": "/ˈævənjuː/",
+    "example": {
+      "en": "The main campus is located on Park Avenue.",
+      "zh": "主校区位于公园大道。"
+    },
+    "day": 2
+  },
+  {
+    "id": 55,
+    "word": "senior",
+    "translation": "高级的,大四学生",
+    "phonetic": "/ˈsiːniə(r)/",
+    "example": {
+      "en": "Senior students often mentor first-year undergraduates.",
+      "zh": "大四学生经常指导一年级本科生。"
+    },
+    "day": 2
+  },
+  {
+    "id": 56,
+    "word": "deposit",
+    "translation": "押金",
+    "phonetic": "/dɪˈpɒzɪt/",
+    "example": {
+      "en": "You need to pay a deposit before moving into the apartment.",
+      "zh": "在搬进公寓之前你需要支付押金。"
+    },
+    "day": 2
+  },
+  {
+    "id": 57,
+    "word": "extra",
+    "translation": "额外的",
+    "phonetic": "/ˈekstrə/",
+    "example": {
+      "en": "Students can attend extra tutorials to improve their grades.",
+      "zh": "学生可以参加额外的辅导课来提高成绩。"
+    },
+    "day": 2
+  },
+  {
+    "id": 58,
+    "word": "tape",
+    "translation": "磁带",
+    "phonetic": "/teɪp/",
+    "example": {
+      "en": "Listen to the tape carefully and answer the questions.",
+      "zh": "仔细听录音带并回答问题。"
+    },
+    "day": 2
+  },
+  {
+    "id": 59,
+    "word": "title",
+    "translation": "标题",
+    "phonetic": "/ˈtaɪtl/",
+    "example": {
+      "en": "Choose an appropriate title for your research paper.",
+      "zh": "为你的研究论文选择一个合适的标题。"
+    },
+    "day": 2
+  },
+  {
+    "id": 60,
+    "word": "culture",
+    "translation": "文化",
+    "phonetic": "/ˈkʌltʃə(r)/",
+    "example": {
+      "en": "Understanding local culture helps international students adapt better.",
+      "zh": "了解当地文化有助于国际学生更好地适应。"
+    },
+    "day": 2
+  },
+  {
+    "id": 61,
+    "word": "dark",
+    "translation": "黑暗的",
+    "phonetic": "/dɑːk/",
+    "example": {
+      "en": "The library stays open until dark during exam period.",
+      "zh": "考试期间图书馆一直开放到天黑。"
+    },
+    "day": 2
+  },
+  {
+    "id": 62,
+    "word": "regular",
+    "translation": "规律的",
+    "phonetic": "/ˈreɡjələ(r)/",
+    "example": {
+      "en": "Maintaining regular study habits is essential for academic success.",
+      "zh": "保持规律的学习习惯对学术成功至关重要。"
+    },
+    "day": 2
+  },
+  {
+    "id": 63,
+    "word": "project",
+    "translation": "项目",
+    "phonetic": "/ˈprɒdʒekt/",
+    "example": {
+      "en": "The final project accounts for forty percent of the course grade.",
+      "zh": "期末项目占课程成绩的百分之四十。"
+    },
+    "day": 2
+  },
+  {
+    "id": 64,
+    "word": "December",
+    "translation": "十二月",
+    "phonetic": "/dɪˈsembə(r)/",
+    "example": {
+      "en": "Most universities have winter break in December.",
+      "zh": "大多数大学在十二月有寒假。"
+    },
+    "day": 2
+  },
+  {
+    "id": 65,
+    "word": "November",
+    "translation": "十一月",
+    "phonetic": "/nəʊˈvembə(r)/",
+    "example": {
+      "en": "Assignment submissions are due in November.",
+      "zh": "作业提交截止日期在十一月。"
+    },
+    "day": 2
+  },
+  {
+    "id": 66,
+    "word": "beginning",
+    "translation": "开始",
+    "phonetic": "/bɪˈɡɪnɪŋ/",
+    "example": {
+      "en": "The beginning of the semester is always very busy.",
+      "zh": "学期开始时总是非常忙碌。"
+    },
+    "day": 2
+  },
+  {
+    "id": 67,
+    "word": "purpose",
+    "translation": "目的",
+    "phonetic": "/ˈpɜːpəs/",
+    "example": {
+      "en": "The main purpose of this course is to develop critical thinking.",
+      "zh": "这门课程的主要目的是培养批判性思维。"
+    },
+    "day": 2
+  },
+  {
+    "id": 68,
+    "word": "interest",
+    "translation": "兴趣",
+    "phonetic": "/ˈɪntrəst/",
+    "example": {
+      "en": "Developing an interest in reading improves language skills.",
+      "zh": "培养阅读兴趣可以提高语言技能。"
+    },
+    "day": 2
+  },
+  {
+    "id": 69,
+    "word": "decoration",
+    "translation": "装修,装饰",
+    "phonetic": "/ˌdekəˈreɪʃn/",
+    "example": {
+      "en": "The decoration of the conference hall looks professional.",
+      "zh": "会议厅的装饰看起来很专业。"
+    },
+    "day": 2
+  },
+  {
+    "id": 70,
+    "word": "migration",
+    "translation": "迁徙,移民",
+    "phonetic": "/maɪˈɡreɪʃn/",
+    "example": {
+      "en": "The course covers patterns of human migration throughout history.",
+      "zh": "该课程涵盖了整个历史中人类迁徙的模式。"
+    },
+    "day": 2
+  },
+  {
+    "id": 71,
+    "word": "party",
+    "translation": "晚会",
+    "phonetic": "/ˈpɑːti/",
+    "example": {
+      "en": "The student union is organizing a welcome party.",
+      "zh": "学生会正在组织欢迎晚会。"
+    },
+    "day": 2
+  },
+  {
+    "id": 72,
+    "word": "relationship",
+    "translation": "关系",
+    "phonetic": "/rɪˈleɪʃnʃɪp/",
+    "example": {
+      "en": "Building good relationships with classmates is important.",
+      "zh": "与同学建立良好的关系很重要。"
+    },
+    "day": 2
+  },
+  {
+    "id": 73,
+    "word": "environmental",
+    "translation": "环境的",
+    "phonetic": "/ɪnˌvaɪrənˈmentl/",
+    "example": {
+      "en": "Environmental science is becoming an increasingly popular major.",
+      "zh": "环境科学正在成为越来越受欢迎的专业。"
+    },
+    "day": 2
+  },
+  {
+    "id": 74,
+    "word": "disease",
+    "translation": "疾病",
+    "phonetic": "/dɪˈziːz/",
+    "example": {
+      "en": "Medical researchers are working to find cures for various diseases.",
+      "zh": "医学研究人员正在努力寻找各种疾病的治疗方法。"
+    },
+    "day": 2
+  },
+  {
+    "id": 75,
+    "word": "Monday",
+    "translation": "周一",
+    "phonetic": "/ˈmʌndeɪ/",
+    "example": {
+      "en": "We have a lecture every Monday morning at nine.",
+      "zh": "我们每周一早上九点有一节课。"
+    },
+    "day": 2
+  },
+  {
+    "id": 76,
+    "word": "Wednesday",
+    "translation": "周三",
+    "phonetic": "/ˈwenzdeɪ/",
+    "example": {
+      "en": "The seminar is scheduled for Wednesday afternoon.",
+      "zh": "研讨会安排在周三下午。"
+    },
+    "day": 2
+  },
+  {
+    "id": 77,
+    "word": "century",
+    "translation": "世纪",
+    "phonetic": "/ˈsentʃəri/",
+    "example": {
+      "en": "This building was constructed in the nineteenth century.",
+      "zh": "这座建筑建于十九世纪。"
+    },
+    "day": 2
+  },
+  {
+    "id": 78,
+    "word": "equipment",
+    "translation": "设备",
+    "phonetic": "/ɪˈkwɪpmənt/",
+    "example": {
+      "en": "The laboratory has modern equipment for scientific research.",
+      "zh": "实验室拥有现代化的科学研究设备。"
+    },
+    "day": 2
+  },
+  {
+    "id": 79,
+    "word": "methods",
+    "translation": "方法",
+    "phonetic": "/ˈmeθədz/",
+    "example": {
+      "en": "Different teaching methods work better for different students.",
+      "zh": "不同的教学方法对不同的学生更有效。"
+    },
+    "day": 2
+  },
+  {
+    "id": 80,
+    "word": "location",
+    "translation": "地理位置",
+    "phonetic": "/ləʊˈkeɪʃn/",
+    "example": {
+      "en": "The location of the university is convenient for public transport.",
+      "zh": "大学的地理位置便于公共交通。"
+    },
+    "day": 2
+  },
+  {
+    "id": 81,
+    "word": "transport",
+    "translation": "交通",
+    "phonetic": "/ˈtrænspɔːt/",
+    "example": {
+      "en": "Students can get discounts on public transport.",
+      "zh": "学生可以获得公共交通折扣。"
+    },
+    "day": 2
+  },
+  {
+    "id": 82,
+    "word": "campus",
+    "translation": "校园",
+    "phonetic": "/ˈkæmpəs/",
+    "example": {
+      "en": "The campus has excellent facilities for sports and recreation.",
+      "zh": "校园拥有出色的体育和娱乐设施。"
+    },
+    "day": 2
+  },
+  {
+    "id": 83,
+    "word": "ideas",
+    "translation": "观点",
+    "phonetic": "/aɪˈdɪəz/",
+    "example": {
+      "en": "Students are encouraged to share their ideas in class.",
+      "zh": "鼓励学生在课堂上分享他们的观点。"
+    },
+    "day": 2
+  },
+  {
+    "id": 84,
+    "word": "world",
+    "translation": "世界",
+    "phonetic": "/wɜːld/",
+    "example": {
+      "en": "The university attracts students from all over the world.",
+      "zh": "这所大学吸引来自世界各地的学生。"
+    },
+    "day": 2
+  },
+  {
+    "id": 85,
+    "word": "coffee",
+    "translation": "咖啡",
+    "phonetic": "/ˈkɒfi/",
+    "example": {
+      "en": "Many students study in the coffee shop on campus.",
+      "zh": "许多学生在校园的咖啡店学习。"
+    },
+    "day": 2
+  },
+  {
+    "id": 86,
+    "word": "third",
+    "translation": "第三",
+    "phonetic": "/θɜːd/",
+    "example": {
+      "en": "The meeting room is on the third floor of the building.",
+      "zh": "会议室在大楼的三楼。"
+    },
+    "day": 2
+  },
+  {
+    "id": 87,
+    "word": "fourth",
+    "translation": "第四",
+    "phonetic": "/fɔːθ/",
+    "example": {
+      "en": "This is my fourth year studying at this university.",
+      "zh": "这是我在这所大学学习的第四年。"
+    },
+    "day": 2
+  },
+  {
+    "id": 88,
+    "word": "cause",
+    "translation": "起因",
+    "phonetic": "/kɔːz/",
+    "example": {
+      "en": "Understanding the cause of the problem is the first step.",
+      "zh": "了解问题的起因是第一步。"
+    },
+    "day": 2
+  },
+  {
+    "id": 89,
+    "word": "social",
+    "translation": "社会的",
+    "phonetic": "/ˈsəʊʃl/",
+    "example": {
+      "en": "Social activities help students make new friends.",
+      "zh": "社交活动帮助学生结交新朋友。"
+    },
+    "day": 2
+  },
+  {
+    "id": 90,
+    "word": "session",
+    "translation": "课程,时间",
+    "phonetic": "/ˈseʃn/",
+    "example": {
+      "en": "Each training session lasts approximately two hours.",
+      "zh": "每节培训课程大约持续两小时。"
+    },
+    "day": 2
+  },
+  {
+    "id": 91,
+    "word": "female",
+    "translation": "女性",
+    "phonetic": "/ˈfiːmeɪl/",
+    "example": {
+      "en": "Female students make up sixty percent of the class.",
+      "zh": "女学生占班级的百分之六十。"
+    },
+    "day": 2
+  },
+  {
+    "id": 92,
+    "word": "station",
+    "translation": "车站",
+    "phonetic": "/ˈsteɪʃn/",
+    "example": {
+      "en": "The train station is just five minutes from campus.",
+      "zh": "火车站离校园只有五分钟路程。"
+    },
+    "day": 2
+  },
+  {
+    "id": 93,
+    "word": "kitchen",
+    "translation": "厨房",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "example": {
+      "en": "The shared kitchen in the dormitory is well equipped.",
+      "zh": "宿舍的共用厨房设备齐全。"
+    },
+    "day": 2
+  },
+  {
+    "id": 94,
+    "word": "club",
+    "translation": "俱乐部",
+    "phonetic": "/klʌb/",
+    "example": {
+      "en": "Joining a club is a great way to meet people.",
+      "zh": "加入俱乐部是认识人的好方法。"
+    },
+    "day": 2
+  },
+  {
+    "id": 95,
+    "word": "American",
+    "translation": "美国人",
+    "phonetic": "/əˈmerɪkən/",
+    "example": {
+      "en": "American universities are popular among international students.",
+      "zh": "美国大学在国际学生中很受欢迎。"
+    },
+    "day": 2
+  },
+  {
+    "id": 96,
+    "word": "March",
+    "translation": "三月",
+    "phonetic": "/mɑːtʃ/",
+    "example": {
+      "en": "The spring semester usually ends in March.",
+      "zh": "春季学期通常在三月结束。"
+    },
+    "day": 2
+  },
+  {
+    "id": 97,
+    "word": "February",
+    "translation": "二月",
+    "phonetic": "/ˈfebruəri/",
+    "example": {
+      "en": "Registration for next semester opens in February.",
+      "zh": "下学期的注册在二月开放。"
+    },
+    "day": 2
+  },
+  {
+    "id": 98,
+    "word": "New Zealand",
+    "translation": "新西兰",
+    "phonetic": "/njuː ˈziːlənd/",
+    "example": {
+      "en": "New Zealand offers high-quality education in a beautiful environment.",
+      "zh": "新西兰在优美的环境中提供高质量的教育。"
+    },
+    "day": 2
+  },
+  {
+    "id": 99,
+    "word": "Cambridge",
+    "translation": "剑桥",
+    "phonetic": "/ˈkeɪmbrɪdʒ/",
+    "example": {
+      "en": "Cambridge is one of the oldest and most prestigious universities.",
+      "zh": "剑桥是最古老和最负盛名的大学之一。"
+    },
+    "day": 2
+  },
+  {
+    "id": 100,
+    "word": "media",
+    "translation": "媒体",
+    "phonetic": "/ˈmiːdiə/",
+    "example": {
+      "en": "Social media has changed the way students communicate.",
+      "zh": "社交媒体改变了学生的交流方式。"
+    },
+    "day": 2
+  }
+]
