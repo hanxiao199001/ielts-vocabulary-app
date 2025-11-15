@@ -13,6 +13,7 @@ const KEYS = {
 const DEFAULT_SETTINGS: UserSettings = {
   dailyWordLimit: 50,
   voiceAccent: 'GB',
+  speechRate: 'normal',
   darkMode: false,
   hasSeenOnboarding: false,
 };

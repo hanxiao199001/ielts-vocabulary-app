@@ -1,18 +1,19 @@
 'use client';
 
 import { useState } from 'react';
-import { Word } from '@/types';
+import { Word, SpeechRate } from '@/types';
 import { Volume2 } from 'lucide-react';
 import { useSpeech } from '@/hooks/useSpeech';
-import { VoiceAccent } from '@/lib/speech';
+import { VoiceAccent, getSpeechRateValue } from '@/lib/speech';
 
 interface WordCardProps {
   word: Word;
   accent: VoiceAccent;
+  speechRate: SpeechRate;
   onFlip?: (isFlipped: boolean) => void;
 }
 
-export default function WordCard({ word, accent, onFlip }: WordCardProps) {
+export default function WordCard({ word, accent, speechRate, onFlip }: WordCardProps) {
   const [isFlipped, setIsFlipped] = useState(false);
   const { speak, isSpeaking } = useSpeech();
 
@@ -24,7 +25,8 @@ export default function WordCard({ word, accent, onFlip }: WordCardProps) {
 
   const handleSpeak = (text: string, e: React.MouseEvent) => {
     e.stopPropagation();
-    speak(text, accent);
+    const rate = getSpeechRateValue(speechRate);
+    speak(text, accent, rate);
   };
 
   return (

@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Moon, Sun, Volume2, Target, Trash2, AlertCircle } from 'lucide-react';
+import { SpeechRate } from '@/types';
 import { getUserSettings, saveUserSettings, clearLearnData, clearAllData } from '@/lib/storage';
 
 export default function SettingsPage() {
@@ -32,6 +33,12 @@ export default function SettingsPage() {
 
   const handleDailyLimitChange = (limit: number) => {
     const newSettings = { ...settings, dailyWordLimit: limit };
+    setSettings(newSettings);
+    saveUserSettings(newSettings);
+  };
+
+  const handleSpeechRateChange = (rate: SpeechRate) => {
+    const newSettings = { ...settings, speechRate: rate };
     setSettings(newSettings);
     saveUserSettings(newSettings);
   };
@@ -146,6 +153,71 @@ export default function SettingsPage() {
                 </div>
                 <div className="text-xs text-gray-500 dark:text-gray-400">
                   American English
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+
+        {/* 语速设置 */}
+        <div className="mt-6">
+          <h3 className="font-medium text-gray-900 dark:text-white mb-3">
+            朗读语速
+          </h3>
+          <div className="grid grid-cols-3 gap-3">
+            <button
+              onClick={() => handleSpeechRateChange('slow')}
+              className={`p-4 rounded-lg border-2 transition-all ${
+                settings.speechRate === 'slow'
+                  ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
+                  : 'border-gray-200 dark:border-gray-700'
+              }`}
+            >
+              <div className="text-center">
+                <div className="text-2xl mb-2">🐢</div>
+                <div className="font-medium text-gray-900 dark:text-white">
+                  慢速
+                </div>
+                <div className="text-xs text-gray-500 dark:text-gray-400">
+                  0.7x
+                </div>
+              </div>
+            </button>
+
+            <button
+              onClick={() => handleSpeechRateChange('normal')}
+              className={`p-4 rounded-lg border-2 transition-all ${
+                settings.speechRate === 'normal'
+                  ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
+                  : 'border-gray-200 dark:border-gray-700'
+              }`}
+            >
+              <div className="text-center">
+                <div className="text-2xl mb-2">🚶</div>
+                <div className="font-medium text-gray-900 dark:text-white">
+                  正常
+                </div>
+                <div className="text-xs text-gray-500 dark:text-gray-400">
+                  0.9x
+                </div>
+              </div>
+            </button>
+
+            <button
+              onClick={() => handleSpeechRateChange('fast')}
+              className={`p-4 rounded-lg border-2 transition-all ${
+                settings.speechRate === 'fast'
+                  ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
+                  : 'border-gray-200 dark:border-gray-700'
+              }`}
+            >
+              <div className="text-center">
+                <div className="text-2xl mb-2">🐰</div>
+                <div className="font-medium text-gray-900 dark:text-white">
+                  快速
+                </div>
+                <div className="text-xs text-gray-500 dark:text-gray-400">
+                  1.1x
                 </div>
               </div>
             </button>

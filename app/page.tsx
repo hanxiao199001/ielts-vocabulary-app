@@ -175,7 +175,7 @@ export default function HomePage() {
 
       {/* 单词卡片 */}
       <div className="flex-1 flex items-center justify-center mb-6">
-        <WordCard word={currentWord} accent={settings.voiceAccent} />
+        <WordCard word={currentWord} accent={settings.voiceAccent} speechRate={settings.speechRate} />
       </div>
 
       {/* 导航按钮 */}
@@ -225,6 +225,8 @@ export default function HomePage() {
           latestRecording={
             currentRecord?.recordings[currentRecord.recordings.length - 1]
           }
+          expectedText={currentWord.example.en}
+          accent={settings.voiceAccent}
         />
       </div>
     </div>

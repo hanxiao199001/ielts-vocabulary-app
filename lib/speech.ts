@@ -1,6 +1,22 @@
 // 语音合成功能
 
+import { SpeechRate } from '@/types';
+
 export type VoiceAccent = 'GB' | 'US';
+
+// 将语速类型转换为实际速率值
+export function getSpeechRateValue(rate: SpeechRate): number {
+  switch (rate) {
+    case 'slow':
+      return 0.7; // 慢速：0.7倍
+    case 'normal':
+      return 0.9; // 正常：0.9倍（比默认稍慢）
+    case 'fast':
+      return 1.1; // 快速：1.1倍
+    default:
+      return 0.9;
+  }
+}
 
 // 检查浏览器是否支持语音合成
 export function isSpeechSynthesisSupported(): boolean {
