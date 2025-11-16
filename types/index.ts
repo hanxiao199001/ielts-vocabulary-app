@@ -74,3 +74,37 @@ export interface ReviewSchedule {
 
 // 艾宾浩斯复习间隔（天）
 export const REVIEW_INTERVALS = [1, 3, 7, 15, 30];
+
+// 每日学习计划
+export interface DailyPlan {
+  date: string; // YYYY-MM-DD
+  wordIds: number[]; // 当天要学习的单词ID列表
+  completed: boolean; // 是否完成
+  createdAt: string; // 创建时间
+}
+
+// 考试题目类型
+export type ExamQuestionType = 'en-to-zh' | 'zh-to-en' | 'spelling' | 'listening';
+
+// 考试题目
+export interface ExamQuestion {
+  id: number;
+  wordId: number;
+  type: ExamQuestionType;
+  question: string;
+  options: string[]; // 选项
+  correctAnswer: string;
+  userAnswer?: string;
+  isCorrect?: boolean;
+}
+
+// 考试结果
+export interface ExamResult {
+  date: string;
+  wordIds: number[]; // 参与考试的单词
+  questions: ExamQuestion[];
+  score: number; // 分数 0-100
+  totalQuestions: number;
+  correctCount: number;
+  completedAt: string;
+}

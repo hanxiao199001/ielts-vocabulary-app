@@ -2,15 +2,16 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Home, BarChart3, RotateCcw, Settings } from 'lucide-react';
+import { Home, BarChart3, RotateCcw, Settings, GraduationCap } from 'lucide-react';
 
 export default function Navigation() {
   const pathname = usePathname();
 
   const navItems = [
     { href: '/', label: '学习', icon: Home },
-    { href: '/stats', label: '统计', icon: BarChart3 },
+    { href: '/exam', label: '测验', icon: GraduationCap },
     { href: '/review', label: '复习', icon: RotateCcw },
+    { href: '/stats', label: '统计', icon: BarChart3 },
     { href: '/settings', label: '设置', icon: Settings },
   ];
 

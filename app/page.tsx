@@ -17,6 +17,13 @@ import {
   getSessionStart,
   updateTodayStudy,
 } from '@/lib/storage';
+import {
+  getTodayPlan,
+  saveTodayPlan,
+  isNewDay,
+  updateLastCheckDate,
+  addWordToPlan,
+} from '@/lib/daily-plan';
 import wordsData from '@/data/words.json';
 
 export default function HomePage() {
@@ -37,17 +44,53 @@ export default function HomePage() {
     }
   }, [settings.hasSeenOnboarding, router]);
 
+  // 检查是否是新的一天，自动刷新学习计划
+  useEffect(() => {
+    if (isNewDay()) {
+      // 新的一天，创建新的学习计划
+      const currentDay = getCurrentDay();
+      const dayWords = (wordsData as Word[]).filter((w: Word) => w.day === currentDay);
+
+      let wordIds: number[];
+      if (dayWords.length > 0) {
+        // 使用当天的单词
+        wordIds = dayWords.slice(0, settings.dailyWordLimit).map((w: Word) => w.id);
+      } else {
+        // 没有当天单词，使用所有单词的前N个
+        wordIds = (wordsData as Word[]).slice(0, settings.dailyWordLimit).map((w: Word) => w.id);
+      }
+
+      saveTodayPlan(wordIds);
+      updateLastCheckDate();
+
+      // 刷新页面
+      window.location.reload();
+    }
+  }, [settings.dailyWordLimit]);
+
   // 获取今日应学习的单词
   const todayWords = useMemo(() => {
-    const currentDay = getCurrentDay();
-    const dayWords = (wordsData as Word[]).filter((w) => w.day === currentDay);
+    // 首先检查是否有今日计划
+    const plan = getTodayPlan();
 
-    // 如果当天单词不足，返回前 dailyWordLimit 个单词
-    if (dayWords.length === 0) {
-      return (wordsData as Word[]).slice(0, settings.dailyWordLimit);
+    if (plan && plan.wordIds.length > 0) {
+      // 使用今日计划的单词
+      return (wordsData as Word[]).filter((w: Word) => plan.wordIds.includes(w.id));
     }
 
-    return dayWords.slice(0, settings.dailyWordLimit);
+    // 没有计划，创建新计划
+    const currentDay = getCurrentDay();
+    const dayWords = (wordsData as Word[]).filter((w: Word) => w.day === currentDay);
+
+    let wordIds: number[];
+    if (dayWords.length > 0) {
+      wordIds = dayWords.slice(0, settings.dailyWordLimit).map((w: Word) => w.id);
+    } else {
+      wordIds = (wordsData as Word[]).slice(0, settings.dailyWordLimit).map((w: Word) => w.id);
+    }
+
+    saveTodayPlan(wordIds);
+    return (wordsData as Word[]).filter((w: Word) => wordIds.includes(w.id));
   }, [settings.dailyWordLimit]);
 
   const currentWord = todayWords[currentWordIndex];
@@ -96,6 +139,9 @@ export default function HomePage() {
 
     saveLearnRecord(newRecord);
     setLearnRecords(getLearnRecords());
+
+    // 添加到今日学习计划
+    addWordToPlan(currentWord.id);
 
     // 自动前往下一个单词
     if (currentWordIndex < todayWords.length - 1) {
