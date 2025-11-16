@@ -13,11 +13,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="zh-CN" className="h-full">
+    <html lang="zh-CN">
       <body
-        className="font-sans antialiased h-full bg-gray-50 dark:bg-gray-900"
+        className="font-sans antialiased min-h-screen bg-gray-50 dark:bg-gray-900"
       >
-        <div className="flex flex-col h-full pb-16">
+        <div className="min-h-screen pb-16">
           {children}
         </div>
         <Navigation />
