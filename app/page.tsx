@@ -25,11 +25,13 @@ import {
   updateLastCheckDate,
   addWordToPlan,
 } from '@/lib/daily-plan';
+import { useProgress } from '@/hooks/useProgress';
 import wordsData from '@/data/words.json';
 
 export default function HomePage() {
   const router = useRouter();
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
+  const [isInitialized, setIsInitialized] = useState(false);
   const [quizPassed, setQuizPassed] = useState(false);
   const [settings, setSettings] = useState(getUserSettings());
   const [learnRecords, setLearnRecords] = useState(getLearnRecords());
@@ -38,6 +40,25 @@ export default function HomePage() {
     saveSessionStart(Date.now());
     return start;
   });
+
+  // Use progress hook to save/restore learning position
+  const { progress, loading: progressLoading, updateWordIndex } = useProgress();
+
+  // Restore learning position from database
+  useEffect(() => {
+    if (!progressLoading && progress && !isInitialized) {
+      const savedIndex = progress.current_word_index || 0;
+      setCurrentWordIndex(savedIndex);
+      setIsInitialized(true);
+    }
+  }, [progress, progressLoading, isInitialized]);
+
+  // Save current word index to database when it changes
+  useEffect(() => {
+    if (isInitialized && !progressLoading) {
+      updateWordIndex(currentWordIndex);
+    }
+  }, [currentWordIndex, isInitialized, progressLoading, updateWordIndex]);
 
   // 检查是否需要显示引导页
   useEffect(() => {
@@ -65,10 +86,14 @@ export default function HomePage() {
       saveTodayPlan(wordIds);
       updateLastCheckDate();
 
+      // 重置学习位置到第一个单词
+      setCurrentWordIndex(0);
+      updateWordIndex(0);
+
       // 刷新页面
       window.location.reload();
     }
-  }, [settings.dailyWordLimit]);
+  }, [settings.dailyWordLimit, updateWordIndex]);
 
   // 获取今日应学习的单词
   const todayWords = useMemo(() => {

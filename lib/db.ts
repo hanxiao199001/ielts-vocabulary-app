@@ -59,12 +59,22 @@ function initializeDatabase() {
       words_reviewed INTEGER DEFAULT 0,
       quiz_passed INTEGER DEFAULT 0,
       study_time INTEGER DEFAULT 0,
+      current_word_index INTEGER DEFAULT 0,
       created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
       updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,
       FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE,
       UNIQUE(user_id, date)
     );
   `);
+
+  // Add current_word_index column if it doesn't exist (migration)
+  try {
+    db.exec(`
+      ALTER TABLE daily_progress ADD COLUMN current_word_index INTEGER DEFAULT 0;
+    `);
+  } catch (e) {
+    // Column already exists, ignore error
+  }
 
   // User settings table
   db.exec(`
