@@ -6598,5 +6598,6605 @@
       "zh": "演讲是大学生活的重要组成部分。"
     },
     "day": 14
+  },
+  {
+    "id": 601,
+    "word": "entertainment",
+    "translation": "娱乐",
+    "phonetic": "/ˌentəˈteɪnmənt/",
+    "example": {
+      "en": "The entertainment is an important part of university life.",
+      "zh": "娱乐是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 602,
+    "word": "population",
+    "translation": "人口",
+    "phonetic": "/ˌpɒpjuˈleɪʃn/",
+    "example": {
+      "en": "The professor discussed population in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了人口。"
+    },
+    "day": 15
+  },
+  {
+    "id": 603,
+    "word": "medicine",
+    "translation": "医学",
+    "phonetic": "/ˈmedsn/",
+    "example": {
+      "en": "The professor discussed medicine in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了医学。"
+    },
+    "day": 15
+  },
+  {
+    "id": 604,
+    "word": "biology",
+    "translation": "生物学",
+    "phonetic": "/baɪˈɒlədʒi/",
+    "example": {
+      "en": "Students need to understand biology in their studies.",
+      "zh": "学生在学习中需要理解生物学。"
+    },
+    "day": 15
+  },
+  {
+    "id": 605,
+    "word": "chemistry",
+    "translation": "化学",
+    "phonetic": "/ˈkemɪstri/",
+    "example": {
+      "en": "The chemistry is an important part of university life.",
+      "zh": "化学是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 606,
+    "word": "physics",
+    "translation": "物理",
+    "phonetic": "/ˈfɪzɪks/",
+    "example": {
+      "en": "Students need to understand physics in their studies.",
+      "zh": "学生在学习中需要理解物理。"
+    },
+    "day": 15
+  },
+  {
+    "id": 607,
+    "word": "mathematics",
+    "translation": "数学",
+    "phonetic": "/ˌmæθəˈmætɪks/",
+    "example": {
+      "en": "The mathematics is an important part of university life.",
+      "zh": "数学是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 608,
+    "word": "geography",
+    "translation": "地理",
+    "phonetic": "/dʒiˈɒɡrəfi/",
+    "example": {
+      "en": "The geography is an important part of university life.",
+      "zh": "地理是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 609,
+    "word": "psychology",
+    "translation": "心理学",
+    "phonetic": "/saɪˈkɒlədʒi/",
+    "example": {
+      "en": "Students need to understand psychology in their studies.",
+      "zh": "学生在学习中需要理解心理学。"
+    },
+    "day": 15
+  },
+  {
+    "id": 610,
+    "word": "sociology",
+    "translation": "社会学",
+    "phonetic": "/ˌsəʊsiˈɒlədʒi/",
+    "example": {
+      "en": "The professor discussed sociology in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了社会学。"
+    },
+    "day": 15
+  },
+  {
+    "id": 611,
+    "word": "economics",
+    "translation": "经济学",
+    "phonetic": "/ˌiːkəˈnɒmɪks/",
+    "example": {
+      "en": "The professor discussed economics in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了经济学。"
+    },
+    "day": 15
+  },
+  {
+    "id": 612,
+    "word": "philosophy",
+    "translation": "哲学",
+    "phonetic": "/fɪˈlɒsəfi/",
+    "example": {
+      "en": "The philosophy is an important part of university life.",
+      "zh": "哲学是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 613,
+    "word": "engineering",
+    "translation": "工程学",
+    "phonetic": "/ˌendʒɪˈnɪərɪŋ/",
+    "example": {
+      "en": "The professor discussed engineering in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了工程学。"
+    },
+    "day": 15
+  },
+  {
+    "id": 614,
+    "word": "architecture",
+    "translation": "建筑学",
+    "phonetic": "/ˈɑːkɪtektʃə(r)/",
+    "example": {
+      "en": "The architecture is an important part of university life.",
+      "zh": "建筑学是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 615,
+    "word": "agriculture",
+    "translation": "农业",
+    "phonetic": "/ˈæɡrɪkʌltʃə(r)/",
+    "example": {
+      "en": "The agriculture is an important part of university life.",
+      "zh": "农业是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 616,
+    "word": "tourism",
+    "translation": "旅游",
+    "phonetic": "/ˈtʊərɪzəm/",
+    "example": {
+      "en": "Students need to understand tourism in their studies.",
+      "zh": "学生在学习中需要理解旅游。"
+    },
+    "day": 15
+  },
+  {
+    "id": 617,
+    "word": "transportation",
+    "translation": "交通",
+    "phonetic": "/ˌtrænspɔːˈteɪʃn/",
+    "example": {
+      "en": "The professor discussed transportation in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了交通。"
+    },
+    "day": 15
+  },
+  {
+    "id": 618,
+    "word": "accommodation",
+    "translation": "住宿",
+    "phonetic": "/əˌkɒməˈdeɪʃn/",
+    "example": {
+      "en": "The professor discussed accommodation in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了住宿。"
+    },
+    "day": 15
+  },
+  {
+    "id": 619,
+    "word": "reservation",
+    "translation": "预订",
+    "phonetic": "/ˌrezəˈveɪʃn/",
+    "example": {
+      "en": "The professor discussed reservation in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了预订。"
+    },
+    "day": 15
+  },
+  {
+    "id": 620,
+    "word": "destination",
+    "translation": "目的地",
+    "phonetic": "/ˌdestɪˈneɪʃn/",
+    "example": {
+      "en": "Students need to understand destination in their studies.",
+      "zh": "学生在学习中需要理解目的地。"
+    },
+    "day": 15
+  },
+  {
+    "id": 621,
+    "word": "departure",
+    "translation": "出发",
+    "phonetic": "/dɪˈpɑːtʃə(r)/",
+    "example": {
+      "en": "Students need to understand departure in their studies.",
+      "zh": "学生在学习中需要理解出发。"
+    },
+    "day": 15
+  },
+  {
+    "id": 622,
+    "word": "arrival",
+    "translation": "到达",
+    "phonetic": "/əˈraɪvl/",
+    "example": {
+      "en": "The arrival is an important part of university life.",
+      "zh": "到达是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 623,
+    "word": "journey",
+    "translation": "旅程",
+    "phonetic": "/ˈdʒɜːni/",
+    "example": {
+      "en": "Students need to understand journey in their studies.",
+      "zh": "学生在学习中需要理解旅程。"
+    },
+    "day": 15
+  },
+  {
+    "id": 624,
+    "word": "voyage",
+    "translation": "航行",
+    "phonetic": "/ˈvɔɪɪdʒ/",
+    "example": {
+      "en": "The voyage is an important part of university life.",
+      "zh": "航行是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 625,
+    "word": "adventure",
+    "translation": "冒险",
+    "phonetic": "/ədˈventʃə(r)/",
+    "example": {
+      "en": "The adventure is an important part of university life.",
+      "zh": "冒险是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 626,
+    "word": "experience",
+    "translation": "经验",
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "example": {
+      "en": "The experience is an important part of university life.",
+      "zh": "经验是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 627,
+    "word": "knowledge",
+    "translation": "知识",
+    "phonetic": "/ˈnɒlɪdʒ/",
+    "example": {
+      "en": "Students need to understand knowledge in their studies.",
+      "zh": "学生在学习中需要理解知识。"
+    },
+    "day": 15
+  },
+  {
+    "id": 628,
+    "word": "skill",
+    "translation": "技能",
+    "phonetic": "/skɪl/",
+    "example": {
+      "en": "The professor discussed skill in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了技能。"
+    },
+    "day": 15
+  },
+  {
+    "id": 629,
+    "word": "ability",
+    "translation": "能力",
+    "phonetic": "/əˈbɪləti/",
+    "example": {
+      "en": "The professor discussed ability in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了能力。"
+    },
+    "day": 15
+  },
+  {
+    "id": 630,
+    "word": "talent",
+    "translation": "天赋",
+    "phonetic": "/ˈtælənt/",
+    "example": {
+      "en": "The talent is an important part of university life.",
+      "zh": "天赋是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 631,
+    "word": "achievement",
+    "translation": "成就",
+    "phonetic": "/əˈtʃiːvmənt/",
+    "example": {
+      "en": "The achievement is an important part of university life.",
+      "zh": "成就是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 632,
+    "word": "success",
+    "translation": "成功",
+    "phonetic": "/səkˈses/",
+    "example": {
+      "en": "Students need to understand success in their studies.",
+      "zh": "学生在学习中需要理解成功。"
+    },
+    "day": 15
+  },
+  {
+    "id": 633,
+    "word": "failure",
+    "translation": "失败",
+    "phonetic": "/ˈfeɪljə(r)/",
+    "example": {
+      "en": "Students need to understand failure in their studies.",
+      "zh": "学生在学习中需要理解失败。"
+    },
+    "day": 15
+  },
+  {
+    "id": 634,
+    "word": "challenge",
+    "translation": "挑战",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "example": {
+      "en": "The professor discussed challenge in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了挑战。"
+    },
+    "day": 15
+  },
+  {
+    "id": 635,
+    "word": "opportunity",
+    "translation": "机会",
+    "phonetic": "/ˌɒpəˈtjuːnəti/",
+    "example": {
+      "en": "Students need to understand opportunity in their studies.",
+      "zh": "学生在学习中需要理解机会。"
+    },
+    "day": 15
+  },
+  {
+    "id": 636,
+    "word": "possibility",
+    "translation": "可能性",
+    "phonetic": "/ˌpɒsəˈbɪləti/",
+    "example": {
+      "en": "Students need to understand possibility in their studies.",
+      "zh": "学生在学习中需要理解可能性。"
+    },
+    "day": 15
+  },
+  {
+    "id": 637,
+    "word": "probability",
+    "translation": "概率",
+    "phonetic": "/ˌprɒbəˈbɪləti/",
+    "example": {
+      "en": "The probability is an important part of university life.",
+      "zh": "概率是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 638,
+    "word": "certainty",
+    "translation": "确定性",
+    "phonetic": "/ˈsɜːtnti/",
+    "example": {
+      "en": "Students need to understand certainty in their studies.",
+      "zh": "学生在学习中需要理解确定性。"
+    },
+    "day": 15
+  },
+  {
+    "id": 639,
+    "word": "uncertainty",
+    "translation": "不确定性",
+    "phonetic": "/ʌnˈsɜːtnti/",
+    "example": {
+      "en": "Students need to understand uncertainty in their studies.",
+      "zh": "学生在学习中需要理解不确定性。"
+    },
+    "day": 15
+  },
+  {
+    "id": 640,
+    "word": "confidence",
+    "translation": "信心",
+    "phonetic": "/ˈkɒnfɪdəns/",
+    "example": {
+      "en": "The confidence is an important part of university life.",
+      "zh": "信心是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 641,
+    "word": "doubt",
+    "translation": "怀疑",
+    "phonetic": "/daʊt/",
+    "example": {
+      "en": "The doubt is an important part of university life.",
+      "zh": "怀疑是大学生活的重要组成部分。"
+    },
+    "day": 15
+  },
+  {
+    "id": 642,
+    "word": "belief",
+    "translation": "信念",
+    "phonetic": "/bɪˈliːf/",
+    "example": {
+      "en": "Students need to understand belief in their studies.",
+      "zh": "学生在学习中需要理解信念。"
+    },
+    "day": 15
+  },
+  {
+    "id": 643,
+    "word": "opinion",
+    "translation": "观点",
+    "phonetic": "/əˈpɪnjən/",
+    "example": {
+      "en": "Students need to understand opinion in their studies.",
+      "zh": "学生在学习中需要理解观点。"
+    },
+    "day": 15
+  },
+  {
+    "id": 644,
+    "word": "attitude",
+    "translation": "态度",
+    "phonetic": "/ˈætɪtjuːd/",
+    "example": {
+      "en": "The attitude is an important part of university life.",
+      "zh": "态度是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 645,
+    "word": "behavior",
+    "translation": "行为",
+    "phonetic": "/bɪˈheɪvjə(r)/",
+    "example": {
+      "en": "The professor discussed behavior in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了行为。"
+    },
+    "day": 16
+  },
+  {
+    "id": 646,
+    "word": "character",
+    "translation": "性格",
+    "phonetic": "/ˈkærəktə(r)/",
+    "example": {
+      "en": "Students need to understand character in their studies.",
+      "zh": "学生在学习中需要理解性格。"
+    },
+    "day": 16
+  },
+  {
+    "id": 647,
+    "word": "emotion",
+    "translation": "情感",
+    "phonetic": "/ɪˈməʊʃn/",
+    "example": {
+      "en": "The emotion is an important part of university life.",
+      "zh": "情感是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 648,
+    "word": "feeling",
+    "translation": "感觉",
+    "phonetic": "/ˈfiːlɪŋ/",
+    "example": {
+      "en": "The professor discussed feeling in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了感觉。"
+    },
+    "day": 16
+  },
+  {
+    "id": 649,
+    "word": "mood",
+    "translation": "心情",
+    "phonetic": "/muːd/",
+    "example": {
+      "en": "The professor discussed mood in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了心情。"
+    },
+    "day": 16
+  },
+  {
+    "id": 650,
+    "word": "passion",
+    "translation": "激情",
+    "phonetic": "/ˈpæʃn/",
+    "example": {
+      "en": "The professor discussed passion in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了激情。"
+    },
+    "day": 16
+  },
+  {
+    "id": 651,
+    "word": "enthusiasm",
+    "translation": "热情",
+    "phonetic": "/ɪnˈθjuːziæzəm/",
+    "example": {
+      "en": "The professor discussed enthusiasm in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了热情。"
+    },
+    "day": 16
+  },
+  {
+    "id": 652,
+    "word": "motivation",
+    "translation": "动机",
+    "phonetic": "/ˌməʊtɪˈveɪʃn/",
+    "example": {
+      "en": "Students need to understand motivation in their studies.",
+      "zh": "学生在学习中需要理解动机。"
+    },
+    "day": 16
+  },
+  {
+    "id": 653,
+    "word": "inspiration",
+    "translation": "灵感",
+    "phonetic": "/ˌɪnspəˈreɪʃn/",
+    "example": {
+      "en": "Students need to understand inspiration in their studies.",
+      "zh": "学生在学习中需要理解灵感。"
+    },
+    "day": 16
+  },
+  {
+    "id": 654,
+    "word": "creativity",
+    "translation": "创造力",
+    "phonetic": "/ˌkriːeɪˈtɪvəti/",
+    "example": {
+      "en": "Students need to understand creativity in their studies.",
+      "zh": "学生在学习中需要理解创造力。"
+    },
+    "day": 16
+  },
+  {
+    "id": 655,
+    "word": "imagination",
+    "translation": "想象力",
+    "phonetic": "/ɪˌmædʒɪˈneɪʃn/",
+    "example": {
+      "en": "The professor discussed imagination in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了想象力。"
+    },
+    "day": 16
+  },
+  {
+    "id": 656,
+    "word": "innovation",
+    "translation": "创新",
+    "phonetic": "/ˌɪnəˈveɪʃn/",
+    "example": {
+      "en": "The innovation is an important part of university life.",
+      "zh": "创新是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 657,
+    "word": "invention",
+    "translation": "发明",
+    "phonetic": "/ɪnˈvenʃn/",
+    "example": {
+      "en": "Students need to understand invention in their studies.",
+      "zh": "学生在学习中需要理解发明。"
+    },
+    "day": 16
+  },
+  {
+    "id": 658,
+    "word": "discovery",
+    "translation": "发现",
+    "phonetic": "/dɪˈskʌvəri/",
+    "example": {
+      "en": "The professor discussed discovery in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了发现。"
+    },
+    "day": 16
+  },
+  {
+    "id": 659,
+    "word": "exploration",
+    "translation": "探索",
+    "phonetic": "/ˌekspləˈreɪʃn/",
+    "example": {
+      "en": "The professor discussed exploration in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了探索。"
+    },
+    "day": 16
+  },
+  {
+    "id": 660,
+    "word": "investigation",
+    "translation": "调查",
+    "phonetic": "/ɪnˌvestɪˈɡeɪʃn/",
+    "example": {
+      "en": "Students need to understand investigation in their studies.",
+      "zh": "学生在学习中需要理解调查。"
+    },
+    "day": 16
+  },
+  {
+    "id": 661,
+    "word": "research",
+    "translation": "研究",
+    "phonetic": "/rɪˈsɜːtʃ/",
+    "example": {
+      "en": "Students need to understand research in their studies.",
+      "zh": "学生在学习中需要理解研究。"
+    },
+    "day": 16
+  },
+  {
+    "id": 662,
+    "word": "analysis",
+    "translation": "分析",
+    "phonetic": "/əˈnæləsɪs/",
+    "example": {
+      "en": "The analysis is an important part of university life.",
+      "zh": "分析是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 663,
+    "word": "evaluation",
+    "translation": "评估",
+    "phonetic": "/ɪˌvæljuˈeɪʃn/",
+    "example": {
+      "en": "The evaluation is an important part of university life.",
+      "zh": "评估是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 664,
+    "word": "assessment",
+    "translation": "评定",
+    "phonetic": "/əˈsesmənt/",
+    "example": {
+      "en": "The professor discussed assessment in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了评定。"
+    },
+    "day": 16
+  },
+  {
+    "id": 665,
+    "word": "examination",
+    "translation": "考试",
+    "phonetic": "/ɪɡˌzæmɪˈneɪʃn/",
+    "example": {
+      "en": "Students need to understand examination in their studies.",
+      "zh": "学生在学习中需要理解考试。"
+    },
+    "day": 16
+  },
+  {
+    "id": 666,
+    "word": "test",
+    "translation": "测试",
+    "phonetic": "/test/",
+    "example": {
+      "en": "Students need to understand test in their studies.",
+      "zh": "学生在学习中需要理解测试。"
+    },
+    "day": 16
+  },
+  {
+    "id": 667,
+    "word": "quiz",
+    "translation": "小测验",
+    "phonetic": "/kwɪz/",
+    "example": {
+      "en": "Students need to understand quiz in their studies.",
+      "zh": "学生在学习中需要理解小测验。"
+    },
+    "day": 16
+  },
+  {
+    "id": 668,
+    "word": "assignment",
+    "translation": "作业",
+    "phonetic": "/əˈsaɪnmənt/",
+    "example": {
+      "en": "The assignment is an important part of university life.",
+      "zh": "作业是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 669,
+    "word": "homework",
+    "translation": "家庭作业",
+    "phonetic": "/ˈhəʊmwɜːk/",
+    "example": {
+      "en": "Students need to understand homework in their studies.",
+      "zh": "学生在学习中需要理解家庭作业。"
+    },
+    "day": 16
+  },
+  {
+    "id": 670,
+    "word": "project",
+    "translation": "项目",
+    "phonetic": "/ˈprɒdʒekt/",
+    "example": {
+      "en": "The professor discussed project in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了项目。"
+    },
+    "day": 16
+  },
+  {
+    "id": 671,
+    "word": "presentation",
+    "translation": "演示",
+    "phonetic": "/ˌpreznˈteɪʃn/",
+    "example": {
+      "en": "The presentation is an important part of university life.",
+      "zh": "演示是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 672,
+    "word": "lecture",
+    "translation": "讲座",
+    "phonetic": "/ˈlektʃə(r)/",
+    "example": {
+      "en": "Students need to understand lecture in their studies.",
+      "zh": "学生在学习中需要理解讲座。"
+    },
+    "day": 16
+  },
+  {
+    "id": 673,
+    "word": "seminar",
+    "translation": "研讨会",
+    "phonetic": "/ˈsemɪnɑː(r)/",
+    "example": {
+      "en": "Students need to understand seminar in their studies.",
+      "zh": "学生在学习中需要理解研讨会。"
+    },
+    "day": 16
+  },
+  {
+    "id": 674,
+    "word": "workshop",
+    "translation": "工作坊",
+    "phonetic": "/ˈwɜːkʃɒp/",
+    "example": {
+      "en": "Students need to understand workshop in their studies.",
+      "zh": "学生在学习中需要理解工作坊。"
+    },
+    "day": 16
+  },
+  {
+    "id": 675,
+    "word": "conference",
+    "translation": "会议",
+    "phonetic": "/ˈkɒnfərəns/",
+    "example": {
+      "en": "Students need to understand conference in their studies.",
+      "zh": "学生在学习中需要理解会议。"
+    },
+    "day": 16
+  },
+  {
+    "id": 676,
+    "word": "meeting",
+    "translation": "会面",
+    "phonetic": "/ˈmiːtɪŋ/",
+    "example": {
+      "en": "The professor discussed meeting in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了会面。"
+    },
+    "day": 16
+  },
+  {
+    "id": 677,
+    "word": "appointment",
+    "translation": "预约",
+    "phonetic": "/əˈpɔɪntmənt/",
+    "example": {
+      "en": "Students need to understand appointment in their studies.",
+      "zh": "学生在学习中需要理解预约。"
+    },
+    "day": 16
+  },
+  {
+    "id": 678,
+    "word": "interview",
+    "translation": "面试",
+    "phonetic": "/ˈɪntəvjuː/",
+    "example": {
+      "en": "The interview is an important part of university life.",
+      "zh": "面试是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 679,
+    "word": "conversation",
+    "translation": "对话",
+    "phonetic": "/ˌkɒnvəˈseɪʃn/",
+    "example": {
+      "en": "The conversation is an important part of university life.",
+      "zh": "对话是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 680,
+    "word": "dialogue",
+    "translation": "对白",
+    "phonetic": "/ˈdaɪəlɒɡ/",
+    "example": {
+      "en": "The dialogue is an important part of university life.",
+      "zh": "对白是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 681,
+    "word": "discussion",
+    "translation": "讨论",
+    "phonetic": "/dɪˈskʌʃn/",
+    "example": {
+      "en": "The discussion is an important part of university life.",
+      "zh": "讨论是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 682,
+    "word": "debate",
+    "translation": "辩论",
+    "phonetic": "/dɪˈbeɪt/",
+    "example": {
+      "en": "The professor discussed debate in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了辩论。"
+    },
+    "day": 16
+  },
+  {
+    "id": 683,
+    "word": "argument",
+    "translation": "争论",
+    "phonetic": "/ˈɑːɡjumənt/",
+    "example": {
+      "en": "The argument is an important part of university life.",
+      "zh": "争论是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 684,
+    "word": "disagreement",
+    "translation": "不同意",
+    "phonetic": "/ˌdɪsəˈɡriːmənt/",
+    "example": {
+      "en": "Students need to understand disagreement in their studies.",
+      "zh": "学生在学习中需要理解不同意。"
+    },
+    "day": 16
+  },
+  {
+    "id": 685,
+    "word": "agreement",
+    "translation": "同意",
+    "phonetic": "/əˈɡriːmənt/",
+    "example": {
+      "en": "The agreement is an important part of university life.",
+      "zh": "同意是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 686,
+    "word": "consensus",
+    "translation": "共识",
+    "phonetic": "/kənˈsensəs/",
+    "example": {
+      "en": "The consensus is an important part of university life.",
+      "zh": "共识是大学生活的重要组成部分。"
+    },
+    "day": 16
+  },
+  {
+    "id": 687,
+    "word": "cooperation",
+    "translation": "合作",
+    "phonetic": "/kəʊˌɒpəˈreɪʃn/",
+    "example": {
+      "en": "The professor discussed cooperation in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了合作。"
+    },
+    "day": 17
+  },
+  {
+    "id": 688,
+    "word": "collaboration",
+    "translation": "协作",
+    "phonetic": "/kəˌlæbəˈreɪʃn/",
+    "example": {
+      "en": "The professor discussed collaboration in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了协作。"
+    },
+    "day": 17
+  },
+  {
+    "id": 689,
+    "word": "partnership",
+    "translation": "伙伴关系",
+    "phonetic": "/ˈpɑːtnəʃɪp/",
+    "example": {
+      "en": "The partnership is an important part of university life.",
+      "zh": "伙伴关系是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 690,
+    "word": "relationship",
+    "translation": "关系",
+    "phonetic": "/rɪˈleɪʃnʃɪp/",
+    "example": {
+      "en": "Students need to understand relationship in their studies.",
+      "zh": "学生在学习中需要理解关系。"
+    },
+    "day": 17
+  },
+  {
+    "id": 691,
+    "word": "friendship",
+    "translation": "友谊",
+    "phonetic": "/ˈfrendʃɪp/",
+    "example": {
+      "en": "The professor discussed friendship in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了友谊。"
+    },
+    "day": 17
+  },
+  {
+    "id": 692,
+    "word": "companionship",
+    "translation": "陪伴",
+    "phonetic": "/kəmˈpæniənʃɪp/",
+    "example": {
+      "en": "The professor discussed companionship in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了陪伴。"
+    },
+    "day": 17
+  },
+  {
+    "id": 693,
+    "word": "connection",
+    "translation": "联系",
+    "phonetic": "/kəˈnekʃn/",
+    "example": {
+      "en": "The connection is an important part of university life.",
+      "zh": "联系是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 694,
+    "word": "communication",
+    "translation": "交流",
+    "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+    "example": {
+      "en": "The professor discussed communication in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了交流。"
+    },
+    "day": 17
+  },
+  {
+    "id": 695,
+    "word": "interaction",
+    "translation": "互动",
+    "phonetic": "/ˌɪntərˈækʃn/",
+    "example": {
+      "en": "The interaction is an important part of university life.",
+      "zh": "互动是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 696,
+    "word": "exchange",
+    "translation": "交换",
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "example": {
+      "en": "The professor discussed exchange in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了交换。"
+    },
+    "day": 17
+  },
+  {
+    "id": 697,
+    "word": "sharing",
+    "translation": "分享",
+    "phonetic": "/ˈʃeərɪŋ/",
+    "example": {
+      "en": "Students need to understand sharing in their studies.",
+      "zh": "学生在学习中需要理解分享。"
+    },
+    "day": 17
+  },
+  {
+    "id": 698,
+    "word": "distribution",
+    "translation": "分配",
+    "phonetic": "/ˌdɪstrɪˈbjuːʃn/",
+    "example": {
+      "en": "The distribution is an important part of university life.",
+      "zh": "分配是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 699,
+    "word": "allocation",
+    "translation": "分配",
+    "phonetic": "/ˌæləˈkeɪʃn/",
+    "example": {
+      "en": "The professor discussed allocation in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了分配。"
+    },
+    "day": 17
+  },
+  {
+    "id": 700,
+    "word": "arrangement",
+    "translation": "安排",
+    "phonetic": "/əˈreɪndʒmənt/",
+    "example": {
+      "en": "The arrangement is an important part of university life.",
+      "zh": "安排是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 701,
+    "word": "organization",
+    "translation": "组织",
+    "phonetic": "/ˌɔːɡənaɪˈzeɪʃn/",
+    "example": {
+      "en": "Students need to understand organization in their studies.",
+      "zh": "学生在学习中需要理解组织。"
+    },
+    "day": 17
+  },
+  {
+    "id": 702,
+    "word": "structure",
+    "translation": "结构",
+    "phonetic": "/ˈstrʌktʃə(r)/",
+    "example": {
+      "en": "The structure is an important part of university life.",
+      "zh": "结构是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 703,
+    "word": "system",
+    "translation": "系统",
+    "phonetic": "/ˈsɪstəm/",
+    "example": {
+      "en": "The system is an important part of university life.",
+      "zh": "系统是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 704,
+    "word": "method",
+    "translation": "方法",
+    "phonetic": "/ˈmeθəd/",
+    "example": {
+      "en": "The professor discussed method in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了方法。"
+    },
+    "day": 17
+  },
+  {
+    "id": 705,
+    "word": "approach",
+    "translation": "途径",
+    "phonetic": "/əˈprəʊtʃ/",
+    "example": {
+      "en": "The professor discussed approach in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了途径。"
+    },
+    "day": 17
+  },
+  {
+    "id": 706,
+    "word": "strategy",
+    "translation": "策略",
+    "phonetic": "/ˈstrætədʒi/",
+    "example": {
+      "en": "Students need to understand strategy in their studies.",
+      "zh": "学生在学习中需要理解策略。"
+    },
+    "day": 17
+  },
+  {
+    "id": 707,
+    "word": "technique",
+    "translation": "技术",
+    "phonetic": "/tekˈniːk/",
+    "example": {
+      "en": "The technique is an important part of university life.",
+      "zh": "技术是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 708,
+    "word": "procedure",
+    "translation": "程序",
+    "phonetic": "/prəˈsiːdʒə(r)/",
+    "example": {
+      "en": "Students need to understand procedure in their studies.",
+      "zh": "学生在学习中需要理解程序。"
+    },
+    "day": 17
+  },
+  {
+    "id": 709,
+    "word": "process",
+    "translation": "过程",
+    "phonetic": "/ˈprəʊses/",
+    "example": {
+      "en": "The process is an important part of university life.",
+      "zh": "过程是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 710,
+    "word": "progress",
+    "translation": "进步",
+    "phonetic": "/ˈprəʊɡres/",
+    "example": {
+      "en": "The progress is an important part of university life.",
+      "zh": "进步是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 711,
+    "word": "development",
+    "translation": "发展",
+    "phonetic": "/dɪˈveləpmənt/",
+    "example": {
+      "en": "The development is an important part of university life.",
+      "zh": "发展是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 712,
+    "word": "improvement",
+    "translation": "改进",
+    "phonetic": "/ɪmˈpruːvmənt/",
+    "example": {
+      "en": "Students need to understand improvement in their studies.",
+      "zh": "学生在学习中需要理解改进。"
+    },
+    "day": 17
+  },
+  {
+    "id": 713,
+    "word": "advancement",
+    "translation": "进步",
+    "phonetic": "/ədˈvɑːnsmənt/",
+    "example": {
+      "en": "The professor discussed advancement in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了进步。"
+    },
+    "day": 17
+  },
+  {
+    "id": 714,
+    "word": "evolution",
+    "translation": "演变",
+    "phonetic": "/ˌiːvəˈluːʃn/",
+    "example": {
+      "en": "The evolution is an important part of university life.",
+      "zh": "演变是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 715,
+    "word": "revolution",
+    "translation": "革命",
+    "phonetic": "/ˌrevəˈluːʃn/",
+    "example": {
+      "en": "The revolution is an important part of university life.",
+      "zh": "革命是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 716,
+    "word": "transformation",
+    "translation": "转变",
+    "phonetic": "/ˌtrænsfəˈmeɪʃn/",
+    "example": {
+      "en": "The professor discussed transformation in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了转变。"
+    },
+    "day": 17
+  },
+  {
+    "id": 717,
+    "word": "change",
+    "translation": "变化",
+    "phonetic": "/tʃeɪndʒ/",
+    "example": {
+      "en": "The professor discussed change in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了变化。"
+    },
+    "day": 17
+  },
+  {
+    "id": 718,
+    "word": "modification",
+    "translation": "修改",
+    "phonetic": "/ˌmɒdɪfɪˈkeɪʃn/",
+    "example": {
+      "en": "The professor discussed modification in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了修改。"
+    },
+    "day": 17
+  },
+  {
+    "id": 719,
+    "word": "adjustment",
+    "translation": "调整",
+    "phonetic": "/əˈdʒʌstmənt/",
+    "example": {
+      "en": "The adjustment is an important part of university life.",
+      "zh": "调整是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 720,
+    "word": "adaptation",
+    "translation": "适应",
+    "phonetic": "/ˌædæpˈteɪʃn/",
+    "example": {
+      "en": "The professor discussed adaptation in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了适应。"
+    },
+    "day": 17
+  },
+  {
+    "id": 721,
+    "word": "flexibility",
+    "translation": "灵活性",
+    "phonetic": "/ˌfleksəˈbɪləti/",
+    "example": {
+      "en": "The flexibility is an important part of university life.",
+      "zh": "灵活性是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 722,
+    "word": "stability",
+    "translation": "稳定性",
+    "phonetic": "/stəˈbɪləti/",
+    "example": {
+      "en": "Students need to understand stability in their studies.",
+      "zh": "学生在学习中需要理解稳定性。"
+    },
+    "day": 17
+  },
+  {
+    "id": 723,
+    "word": "balance",
+    "translation": "平衡",
+    "phonetic": "/ˈbæləns/",
+    "example": {
+      "en": "Students need to understand balance in their studies.",
+      "zh": "学生在学习中需要理解平衡。"
+    },
+    "day": 17
+  },
+  {
+    "id": 724,
+    "word": "harmony",
+    "translation": "和谐",
+    "phonetic": "/ˈhɑːməni/",
+    "example": {
+      "en": "The professor discussed harmony in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了和谐。"
+    },
+    "day": 17
+  },
+  {
+    "id": 725,
+    "word": "conflict",
+    "translation": "冲突",
+    "phonetic": "/ˈkɒnflɪkt/",
+    "example": {
+      "en": "The professor discussed conflict in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了冲突。"
+    },
+    "day": 17
+  },
+  {
+    "id": 726,
+    "word": "tension",
+    "translation": "紧张",
+    "phonetic": "/ˈtenʃn/",
+    "example": {
+      "en": "The tension is an important part of university life.",
+      "zh": "紧张是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 727,
+    "word": "pressure",
+    "translation": "压力",
+    "phonetic": "/ˈpreʃə(r)/",
+    "example": {
+      "en": "The pressure is an important part of university life.",
+      "zh": "压力是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 728,
+    "word": "stress",
+    "translation": "压力",
+    "phonetic": "/stres/",
+    "example": {
+      "en": "The stress is an important part of university life.",
+      "zh": "压力是大学生活的重要组成部分。"
+    },
+    "day": 17
+  },
+  {
+    "id": 729,
+    "word": "anxiety",
+    "translation": "焦虑",
+    "phonetic": "/æŋˈzaɪəti/",
+    "example": {
+      "en": "Students need to understand anxiety in their studies.",
+      "zh": "学生在学习中需要理解焦虑。"
+    },
+    "day": 17
+  },
+  {
+    "id": 730,
+    "word": "worry",
+    "translation": "担心",
+    "phonetic": "/ˈwʌri/",
+    "example": {
+      "en": "The worry is an important part of university life.",
+      "zh": "担心是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 731,
+    "word": "concern",
+    "translation": "关注",
+    "phonetic": "/kənˈsɜːn/",
+    "example": {
+      "en": "The professor discussed concern in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了关注。"
+    },
+    "day": 18
+  },
+  {
+    "id": 732,
+    "word": "care",
+    "translation": "关心",
+    "phonetic": "/keə(r)/",
+    "example": {
+      "en": "The care is an important part of university life.",
+      "zh": "关心是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 733,
+    "word": "attention",
+    "translation": "注意",
+    "phonetic": "/əˈtenʃn/",
+    "example": {
+      "en": "The attention is an important part of university life.",
+      "zh": "注意是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 734,
+    "word": "focus",
+    "translation": "专注",
+    "phonetic": "/ˈfəʊkəs/",
+    "example": {
+      "en": "The professor discussed focus in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了专注。"
+    },
+    "day": 18
+  },
+  {
+    "id": 735,
+    "word": "concentration",
+    "translation": "集中",
+    "phonetic": "/ˌkɒnsnˈtreɪʃn/",
+    "example": {
+      "en": "The concentration is an important part of university life.",
+      "zh": "集中是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 736,
+    "word": "dedication",
+    "translation": "奉献",
+    "phonetic": "/ˌdedɪˈkeɪʃn/",
+    "example": {
+      "en": "Students need to understand dedication in their studies.",
+      "zh": "学生在学习中需要理解奉献。"
+    },
+    "day": 18
+  },
+  {
+    "id": 737,
+    "word": "commitment",
+    "translation": "承诺",
+    "phonetic": "/kəˈmɪtmənt/",
+    "example": {
+      "en": "Students need to understand commitment in their studies.",
+      "zh": "学生在学习中需要理解承诺。"
+    },
+    "day": 18
+  },
+  {
+    "id": 738,
+    "word": "devotion",
+    "translation": "忠诚",
+    "phonetic": "/dɪˈvəʊʃn/",
+    "example": {
+      "en": "Students need to understand devotion in their studies.",
+      "zh": "学生在学习中需要理解忠诚。"
+    },
+    "day": 18
+  },
+  {
+    "id": 739,
+    "word": "loyalty",
+    "translation": "忠诚",
+    "phonetic": "/ˈlɔɪəlti/",
+    "example": {
+      "en": "The loyalty is an important part of university life.",
+      "zh": "忠诚是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 740,
+    "word": "honesty",
+    "translation": "诚实",
+    "phonetic": "/ˈɒnəsti/",
+    "example": {
+      "en": "The professor discussed honesty in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了诚实。"
+    },
+    "day": 18
+  },
+  {
+    "id": 741,
+    "word": "integrity",
+    "translation": "正直",
+    "phonetic": "/ɪnˈteɡrəti/",
+    "example": {
+      "en": "The integrity is an important part of university life.",
+      "zh": "正直是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 742,
+    "word": "morality",
+    "translation": "道德",
+    "phonetic": "/məˈræləti/",
+    "example": {
+      "en": "The morality is an important part of university life.",
+      "zh": "道德是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 743,
+    "word": "ethics",
+    "translation": "伦理",
+    "phonetic": "/ˈeθɪks/",
+    "example": {
+      "en": "The professor discussed ethics in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了伦理。"
+    },
+    "day": 18
+  },
+  {
+    "id": 744,
+    "word": "principle",
+    "translation": "原则",
+    "phonetic": "/ˈprɪnsəpl/",
+    "example": {
+      "en": "The professor discussed principle in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了原则。"
+    },
+    "day": 18
+  },
+  {
+    "id": 745,
+    "word": "value",
+    "translation": "价值",
+    "phonetic": "/ˈvæljuː/",
+    "example": {
+      "en": "The professor discussed value in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了价值。"
+    },
+    "day": 18
+  },
+  {
+    "id": 746,
+    "word": "importance",
+    "translation": "重要性",
+    "phonetic": "/ɪmˈpɔːtns/",
+    "example": {
+      "en": "Students need to understand importance in their studies.",
+      "zh": "学生在学习中需要理解重要性。"
+    },
+    "day": 18
+  },
+  {
+    "id": 747,
+    "word": "significance",
+    "translation": "意义",
+    "phonetic": "/sɪɡˈnɪfɪkəns/",
+    "example": {
+      "en": "Students need to understand significance in their studies.",
+      "zh": "学生在学习中需要理解意义。"
+    },
+    "day": 18
+  },
+  {
+    "id": 748,
+    "word": "meaning",
+    "translation": "含义",
+    "phonetic": "/ˈmiːnɪŋ/",
+    "example": {
+      "en": "The meaning is an important part of university life.",
+      "zh": "含义是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 749,
+    "word": "purpose",
+    "translation": "目的",
+    "phonetic": "/ˈpɜːpəs/",
+    "example": {
+      "en": "Students need to understand purpose in their studies.",
+      "zh": "学生在学习中需要理解目的。"
+    },
+    "day": 18
+  },
+  {
+    "id": 750,
+    "word": "goal",
+    "translation": "目标",
+    "phonetic": "/ɡəʊl/",
+    "example": {
+      "en": "Students need to understand goal in their studies.",
+      "zh": "学生在学习中需要理解目标。"
+    },
+    "day": 18
+  },
+  {
+    "id": 751,
+    "word": "objective",
+    "translation": "目标",
+    "phonetic": "/əbˈdʒektɪv/",
+    "example": {
+      "en": "The professor discussed objective in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了目标。"
+    },
+    "day": 18
+  },
+  {
+    "id": 752,
+    "word": "target",
+    "translation": "目标",
+    "phonetic": "/ˈtɑːɡɪt/",
+    "example": {
+      "en": "Students need to understand target in their studies.",
+      "zh": "学生在学习中需要理解目标。"
+    },
+    "day": 18
+  },
+  {
+    "id": 753,
+    "word": "ambition",
+    "translation": "抱负",
+    "phonetic": "/æmˈbɪʃn/",
+    "example": {
+      "en": "The professor discussed ambition in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了抱负。"
+    },
+    "day": 18
+  },
+  {
+    "id": 754,
+    "word": "aspiration",
+    "translation": "愿望",
+    "phonetic": "/ˌæspəˈreɪʃn/",
+    "example": {
+      "en": "The professor discussed aspiration in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了愿望。"
+    },
+    "day": 18
+  },
+  {
+    "id": 755,
+    "word": "desire",
+    "translation": "欲望",
+    "phonetic": "/dɪˈzaɪə(r)/",
+    "example": {
+      "en": "The desire is an important part of university life.",
+      "zh": "欲望是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 756,
+    "word": "wish",
+    "translation": "希望",
+    "phonetic": "/wɪʃ/",
+    "example": {
+      "en": "The wish is an important part of university life.",
+      "zh": "希望是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 757,
+    "word": "hope",
+    "translation": "希望",
+    "phonetic": "/həʊp/",
+    "example": {
+      "en": "The hope is an important part of university life.",
+      "zh": "希望是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 758,
+    "word": "expectation",
+    "translation": "期望",
+    "phonetic": "/ˌekspekˈteɪʃn/",
+    "example": {
+      "en": "The expectation is an important part of university life.",
+      "zh": "期望是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 759,
+    "word": "anticipation",
+    "translation": "预期",
+    "phonetic": "/ænˌtɪsɪˈpeɪʃn/",
+    "example": {
+      "en": "Students need to understand anticipation in their studies.",
+      "zh": "学生在学习中需要理解预期。"
+    },
+    "day": 18
+  },
+  {
+    "id": 760,
+    "word": "prediction",
+    "translation": "预测",
+    "phonetic": "/prɪˈdɪkʃn/",
+    "example": {
+      "en": "The professor discussed prediction in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了预测。"
+    },
+    "day": 18
+  },
+  {
+    "id": 761,
+    "word": "forecast",
+    "translation": "预报",
+    "phonetic": "/ˈfɔːkɑːst/",
+    "example": {
+      "en": "The forecast is an important part of university life.",
+      "zh": "预报是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 762,
+    "word": "estimation",
+    "translation": "估计",
+    "phonetic": "/ˌestɪˈmeɪʃn/",
+    "example": {
+      "en": "The professor discussed estimation in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了估计。"
+    },
+    "day": 18
+  },
+  {
+    "id": 763,
+    "word": "calculation",
+    "translation": "计算",
+    "phonetic": "/ˌkælkjuˈleɪʃn/",
+    "example": {
+      "en": "The calculation is an important part of university life.",
+      "zh": "计算是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 764,
+    "word": "measurement",
+    "translation": "测量",
+    "phonetic": "/ˈmeʒəmənt/",
+    "example": {
+      "en": "The professor discussed measurement in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了测量。"
+    },
+    "day": 18
+  },
+  {
+    "id": 765,
+    "word": "quantity",
+    "translation": "数量",
+    "phonetic": "/ˈkwɒntəti/",
+    "example": {
+      "en": "The quantity is an important part of university life.",
+      "zh": "数量是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 766,
+    "word": "amount",
+    "translation": "数额",
+    "phonetic": "/əˈmaʊnt/",
+    "example": {
+      "en": "The amount is an important part of university life.",
+      "zh": "数额是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 767,
+    "word": "number",
+    "translation": "数字",
+    "phonetic": "/ˈnʌmbə(r)/",
+    "example": {
+      "en": "Students need to understand number in their studies.",
+      "zh": "学生在学习中需要理解数字。"
+    },
+    "day": 18
+  },
+  {
+    "id": 768,
+    "word": "figure",
+    "translation": "数字",
+    "phonetic": "/ˈfɪɡə(r)/",
+    "example": {
+      "en": "Students need to understand figure in their studies.",
+      "zh": "学生在学习中需要理解数字。"
+    },
+    "day": 18
+  },
+  {
+    "id": 769,
+    "word": "statistic",
+    "translation": "统计",
+    "phonetic": "/stəˈtɪstɪk/",
+    "example": {
+      "en": "The statistic is an important part of university life.",
+      "zh": "统计是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 770,
+    "word": "data",
+    "translation": "数据",
+    "phonetic": "/ˈdeɪtə/",
+    "example": {
+      "en": "The data is an important part of university life.",
+      "zh": "数据是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 771,
+    "word": "information",
+    "translation": "信息",
+    "phonetic": "/ˌɪnfəˈmeɪʃn/",
+    "example": {
+      "en": "The professor discussed information in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了信息。"
+    },
+    "day": 18
+  },
+  {
+    "id": 772,
+    "word": "detail",
+    "translation": "细节",
+    "phonetic": "/ˈdiːteɪl/",
+    "example": {
+      "en": "The detail is an important part of university life.",
+      "zh": "细节是大学生活的重要组成部分。"
+    },
+    "day": 18
+  },
+  {
+    "id": 773,
+    "word": "particular",
+    "translation": "特别",
+    "phonetic": "/pəˈtɪkjələ(r)/",
+    "example": {
+      "en": "The particular is an important part of university life.",
+      "zh": "特别是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 774,
+    "word": "specific",
+    "translation": "具体",
+    "phonetic": "/spəˈsɪfɪk/",
+    "example": {
+      "en": "The specific is an important part of university life.",
+      "zh": "具体是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 775,
+    "word": "precise",
+    "translation": "精确",
+    "phonetic": "/prɪˈsaɪs/",
+    "example": {
+      "en": "Students need to understand precise in their studies.",
+      "zh": "学生在学习中需要理解精确。"
+    },
+    "day": 19
+  },
+  {
+    "id": 776,
+    "word": "exact",
+    "translation": "确切",
+    "phonetic": "/ɪɡˈzækt/",
+    "example": {
+      "en": "Students need to understand exact in their studies.",
+      "zh": "学生在学习中需要理解确切。"
+    },
+    "day": 19
+  },
+  {
+    "id": 777,
+    "word": "accurate",
+    "translation": "准确",
+    "phonetic": "/ˈækjərət/",
+    "example": {
+      "en": "The accurate is an important part of university life.",
+      "zh": "准确是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 778,
+    "word": "correct",
+    "translation": "正确",
+    "phonetic": "/kəˈrekt/",
+    "example": {
+      "en": "The correct is an important part of university life.",
+      "zh": "正确是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 779,
+    "word": "right",
+    "translation": "对的",
+    "phonetic": "/raɪt/",
+    "example": {
+      "en": "Students need to understand right in their studies.",
+      "zh": "学生在学习中需要理解对的。"
+    },
+    "day": 19
+  },
+  {
+    "id": 780,
+    "word": "proper",
+    "translation": "适当",
+    "phonetic": "/ˈprɒpə(r)/",
+    "example": {
+      "en": "Students need to understand proper in their studies.",
+      "zh": "学生在学习中需要理解适当。"
+    },
+    "day": 19
+  },
+  {
+    "id": 781,
+    "word": "appropriate",
+    "translation": "合适",
+    "phonetic": "/əˈprəʊpriət/",
+    "example": {
+      "en": "The professor discussed appropriate in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了合适。"
+    },
+    "day": 19
+  },
+  {
+    "id": 782,
+    "word": "suitable",
+    "translation": "适合",
+    "phonetic": "/ˈsuːtəbl/",
+    "example": {
+      "en": "The suitable is an important part of university life.",
+      "zh": "适合是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 783,
+    "word": "fit",
+    "translation": "合适",
+    "phonetic": "/fɪt/",
+    "example": {
+      "en": "The fit is an important part of university life.",
+      "zh": "合适是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 784,
+    "word": "match",
+    "translation": "匹配",
+    "phonetic": "/mætʃ/",
+    "example": {
+      "en": "Students need to understand match in their studies.",
+      "zh": "学生在学习中需要理解匹配。"
+    },
+    "day": 19
+  },
+  {
+    "id": 785,
+    "word": "correspond",
+    "translation": "对应",
+    "phonetic": "/ˌkɒrəˈspɒnd/",
+    "example": {
+      "en": "The correspond is an important part of university life.",
+      "zh": "对应是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 786,
+    "word": "relate",
+    "translation": "关联",
+    "phonetic": "/rɪˈleɪt/",
+    "example": {
+      "en": "The professor discussed relate in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了关联。"
+    },
+    "day": 19
+  },
+  {
+    "id": 787,
+    "word": "connect",
+    "translation": "连接",
+    "phonetic": "/kəˈnekt/",
+    "example": {
+      "en": "The connect is an important part of university life.",
+      "zh": "连接是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 788,
+    "word": "link",
+    "translation": "链接",
+    "phonetic": "/lɪŋk/",
+    "example": {
+      "en": "The professor discussed link in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了链接。"
+    },
+    "day": 19
+  },
+  {
+    "id": 789,
+    "word": "attach",
+    "translation": "附加",
+    "phonetic": "/əˈtætʃ/",
+    "example": {
+      "en": "The professor discussed attach in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了附加。"
+    },
+    "day": 19
+  },
+  {
+    "id": 790,
+    "word": "join",
+    "translation": "加入",
+    "phonetic": "/dʒɔɪn/",
+    "example": {
+      "en": "The professor discussed join in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了加入。"
+    },
+    "day": 19
+  },
+  {
+    "id": 791,
+    "word": "combine",
+    "translation": "结合",
+    "phonetic": "/kəmˈbaɪn/",
+    "example": {
+      "en": "The combine is an important part of university life.",
+      "zh": "结合是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 792,
+    "word": "merge",
+    "translation": "合并",
+    "phonetic": "/mɜːdʒ/",
+    "example": {
+      "en": "The merge is an important part of university life.",
+      "zh": "合并是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 793,
+    "word": "unite",
+    "translation": "联合",
+    "phonetic": "/juˈnaɪt/",
+    "example": {
+      "en": "The unite is an important part of university life.",
+      "zh": "联合是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 794,
+    "word": "integrate",
+    "translation": "整合",
+    "phonetic": "/ˈɪntɪɡreɪt/",
+    "example": {
+      "en": "The integrate is an important part of university life.",
+      "zh": "整合是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 795,
+    "word": "incorporate",
+    "translation": "纳入",
+    "phonetic": "/ɪnˈkɔːpəreɪt/",
+    "example": {
+      "en": "The professor discussed incorporate in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了纳入。"
+    },
+    "day": 19
+  },
+  {
+    "id": 796,
+    "word": "include",
+    "translation": "包括",
+    "phonetic": "/ɪnˈkluːd/",
+    "example": {
+      "en": "The professor discussed include in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了包括。"
+    },
+    "day": 19
+  },
+  {
+    "id": 797,
+    "word": "contain",
+    "translation": "包含",
+    "phonetic": "/kənˈteɪn/",
+    "example": {
+      "en": "Students need to understand contain in their studies.",
+      "zh": "学生在学习中需要理解包含。"
+    },
+    "day": 19
+  },
+  {
+    "id": 798,
+    "word": "comprise",
+    "translation": "组成",
+    "phonetic": "/kəmˈpraɪz/",
+    "example": {
+      "en": "The professor discussed comprise in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了组成。"
+    },
+    "day": 19
+  },
+  {
+    "id": 799,
+    "word": "consist",
+    "translation": "由...组成",
+    "phonetic": "/kənˈsɪst/",
+    "example": {
+      "en": "Students need to understand consist in their studies.",
+      "zh": "学生在学习中需要理解由...组成。"
+    },
+    "day": 19
+  },
+  {
+    "id": 800,
+    "word": "compose",
+    "translation": "组成",
+    "phonetic": "/kəmˈpəʊz/",
+    "example": {
+      "en": "The professor discussed compose in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了组成。"
+    },
+    "day": 19
+  },
+  {
+    "id": 801,
+    "word": "constitute",
+    "translation": "构成",
+    "phonetic": "/ˈkɒnstɪtjuːt/",
+    "example": {
+      "en": "The professor discussed constitute in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了构成。"
+    },
+    "day": 19
+  },
+  {
+    "id": 802,
+    "word": "form",
+    "translation": "形成",
+    "phonetic": "/fɔːm/",
+    "example": {
+      "en": "Students need to understand form in their studies.",
+      "zh": "学生在学习中需要理解形成。"
+    },
+    "day": 19
+  },
+  {
+    "id": 803,
+    "word": "create",
+    "translation": "创造",
+    "phonetic": "/kriˈeɪt/",
+    "example": {
+      "en": "The professor discussed create in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了创造。"
+    },
+    "day": 19
+  },
+  {
+    "id": 804,
+    "word": "produce",
+    "translation": "生产",
+    "phonetic": "/prəˈdjuːs/",
+    "example": {
+      "en": "Students need to understand produce in their studies.",
+      "zh": "学生在学习中需要理解生产。"
+    },
+    "day": 19
+  },
+  {
+    "id": 805,
+    "word": "generate",
+    "translation": "产生",
+    "phonetic": "/ˈdʒenəreɪt/",
+    "example": {
+      "en": "The generate is an important part of university life.",
+      "zh": "产生是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 806,
+    "word": "develop",
+    "translation": "开发",
+    "phonetic": "/dɪˈveləp/",
+    "example": {
+      "en": "Students need to understand develop in their studies.",
+      "zh": "学生在学习中需要理解开发。"
+    },
+    "day": 19
+  },
+  {
+    "id": 807,
+    "word": "build",
+    "translation": "建造",
+    "phonetic": "/bɪld/",
+    "example": {
+      "en": "The professor discussed build in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了建造。"
+    },
+    "day": 19
+  },
+  {
+    "id": 808,
+    "word": "construct",
+    "translation": "构建",
+    "phonetic": "/kənˈstrʌkt/",
+    "example": {
+      "en": "The professor discussed construct in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了构建。"
+    },
+    "day": 19
+  },
+  {
+    "id": 809,
+    "word": "establish",
+    "translation": "建立",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "example": {
+      "en": "Students need to understand establish in their studies.",
+      "zh": "学生在学习中需要理解建立。"
+    },
+    "day": 19
+  },
+  {
+    "id": 810,
+    "word": "found",
+    "translation": "创立",
+    "phonetic": "/faʊnd/",
+    "example": {
+      "en": "The found is an important part of university life.",
+      "zh": "创立是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 811,
+    "word": "set",
+    "translation": "设置",
+    "phonetic": "/set/",
+    "example": {
+      "en": "Students need to understand set in their studies.",
+      "zh": "学生在学习中需要理解设置。"
+    },
+    "day": 19
+  },
+  {
+    "id": 812,
+    "word": "arrange",
+    "translation": "安排",
+    "phonetic": "/əˈreɪndʒ/",
+    "example": {
+      "en": "The professor discussed arrange in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了安排。"
+    },
+    "day": 19
+  },
+  {
+    "id": 813,
+    "word": "organize",
+    "translation": "组织",
+    "phonetic": "/ˈɔːɡənaɪz/",
+    "example": {
+      "en": "Students need to understand organize in their studies.",
+      "zh": "学生在学习中需要理解组织。"
+    },
+    "day": 19
+  },
+  {
+    "id": 814,
+    "word": "plan",
+    "translation": "计划",
+    "phonetic": "/plæn/",
+    "example": {
+      "en": "Students need to understand plan in their studies.",
+      "zh": "学生在学习中需要理解计划。"
+    },
+    "day": 19
+  },
+  {
+    "id": 815,
+    "word": "design",
+    "translation": "设计",
+    "phonetic": "/dɪˈzaɪn/",
+    "example": {
+      "en": "The design is an important part of university life.",
+      "zh": "设计是大学生活的重要组成部分。"
+    },
+    "day": 19
+  },
+  {
+    "id": 816,
+    "word": "prepare",
+    "translation": "准备",
+    "phonetic": "/prɪˈpeə(r)/",
+    "example": {
+      "en": "The professor discussed prepare in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了准备。"
+    },
+    "day": 20
+  },
+  {
+    "id": 817,
+    "word": "ready",
+    "translation": "准备好",
+    "phonetic": "/ˈredi/",
+    "example": {
+      "en": "The ready is an important part of university life.",
+      "zh": "准备好是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 818,
+    "word": "available",
+    "translation": "可用",
+    "phonetic": "/əˈveɪləbl/",
+    "example": {
+      "en": "The available is an important part of university life.",
+      "zh": "可用是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 819,
+    "word": "accessible",
+    "translation": "可访问",
+    "phonetic": "/əkˈsesəbl/",
+    "example": {
+      "en": "The accessible is an important part of university life.",
+      "zh": "可访问是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 820,
+    "word": "obtainable",
+    "translation": "可获得",
+    "phonetic": "/əbˈteɪnəbl/",
+    "example": {
+      "en": "The obtainable is an important part of university life.",
+      "zh": "可获得是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 821,
+    "word": "acquire",
+    "translation": "获得",
+    "phonetic": "/əˈkwaɪə(r)/",
+    "example": {
+      "en": "Students need to understand acquire in their studies.",
+      "zh": "学生在学习中需要理解获得。"
+    },
+    "day": 20
+  },
+  {
+    "id": 822,
+    "word": "obtain",
+    "translation": "得到",
+    "phonetic": "/əbˈteɪn/",
+    "example": {
+      "en": "The professor discussed obtain in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了得到。"
+    },
+    "day": 20
+  },
+  {
+    "id": 823,
+    "word": "gain",
+    "translation": "获得",
+    "phonetic": "/ɡeɪn/",
+    "example": {
+      "en": "The professor discussed gain in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了获得。"
+    },
+    "day": 20
+  },
+  {
+    "id": 824,
+    "word": "achieve",
+    "translation": "实现",
+    "phonetic": "/əˈtʃiːv/",
+    "example": {
+      "en": "The achieve is an important part of university life.",
+      "zh": "实现是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 825,
+    "word": "accomplish",
+    "translation": "完成",
+    "phonetic": "/əˈkʌmplɪʃ/",
+    "example": {
+      "en": "Students need to understand accomplish in their studies.",
+      "zh": "学生在学习中需要理解完成。"
+    },
+    "day": 20
+  },
+  {
+    "id": 826,
+    "word": "complete",
+    "translation": "完成",
+    "phonetic": "/kəmˈpliːt/",
+    "example": {
+      "en": "The professor discussed complete in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了完成。"
+    },
+    "day": 20
+  },
+  {
+    "id": 827,
+    "word": "finish",
+    "translation": "结束",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "example": {
+      "en": "The finish is an important part of university life.",
+      "zh": "结束是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 828,
+    "word": "conclude",
+    "translation": "总结",
+    "phonetic": "/kənˈkluːd/",
+    "example": {
+      "en": "Students need to understand conclude in their studies.",
+      "zh": "学生在学习中需要理解总结。"
+    },
+    "day": 20
+  },
+  {
+    "id": 829,
+    "word": "end",
+    "translation": "结束",
+    "phonetic": "/end/",
+    "example": {
+      "en": "Students need to understand end in their studies.",
+      "zh": "学生在学习中需要理解结束。"
+    },
+    "day": 20
+  },
+  {
+    "id": 830,
+    "word": "terminate",
+    "translation": "终止",
+    "phonetic": "/ˈtɜːmɪneɪt/",
+    "example": {
+      "en": "The professor discussed terminate in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了终止。"
+    },
+    "day": 20
+  },
+  {
+    "id": 831,
+    "word": "cease",
+    "translation": "停止",
+    "phonetic": "/siːs/",
+    "example": {
+      "en": "The cease is an important part of university life.",
+      "zh": "停止是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 832,
+    "word": "stop",
+    "translation": "停止",
+    "phonetic": "/stɒp/",
+    "example": {
+      "en": "Students need to understand stop in their studies.",
+      "zh": "学生在学习中需要理解停止。"
+    },
+    "day": 20
+  },
+  {
+    "id": 833,
+    "word": "halt",
+    "translation": "停止",
+    "phonetic": "/hɔːlt/",
+    "example": {
+      "en": "Students need to understand halt in their studies.",
+      "zh": "学生在学习中需要理解停止。"
+    },
+    "day": 20
+  },
+  {
+    "id": 834,
+    "word": "pause",
+    "translation": "暂停",
+    "phonetic": "/pɔːz/",
+    "example": {
+      "en": "The pause is an important part of university life.",
+      "zh": "暂停是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 835,
+    "word": "interrupt",
+    "translation": "中断",
+    "phonetic": "/ˌɪntəˈrʌpt/",
+    "example": {
+      "en": "The professor discussed interrupt in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了中断。"
+    },
+    "day": 20
+  },
+  {
+    "id": 836,
+    "word": "disturb",
+    "translation": "打扰",
+    "phonetic": "/dɪˈstɜːb/",
+    "example": {
+      "en": "Students need to understand disturb in their studies.",
+      "zh": "学生在学习中需要理解打扰。"
+    },
+    "day": 20
+  },
+  {
+    "id": 837,
+    "word": "bother",
+    "translation": "烦扰",
+    "phonetic": "/ˈbɒðə(r)/",
+    "example": {
+      "en": "The bother is an important part of university life.",
+      "zh": "烦扰是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 838,
+    "word": "annoy",
+    "translation": "恼怒",
+    "phonetic": "/əˈnɔɪ/",
+    "example": {
+      "en": "The professor discussed annoy in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了恼怒。"
+    },
+    "day": 20
+  },
+  {
+    "id": 839,
+    "word": "irritate",
+    "translation": "激怒",
+    "phonetic": "/ˈɪrɪteɪt/",
+    "example": {
+      "en": "The irritate is an important part of university life.",
+      "zh": "激怒是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 840,
+    "word": "frustrate",
+    "translation": "挫败",
+    "phonetic": "/frʌˈstreɪt/",
+    "example": {
+      "en": "The professor discussed frustrate in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了挫败。"
+    },
+    "day": 20
+  },
+  {
+    "id": 841,
+    "word": "disappoint",
+    "translation": "失望",
+    "phonetic": "/ˌdɪsəˈpɔɪnt/",
+    "example": {
+      "en": "Students need to understand disappoint in their studies.",
+      "zh": "学生在学习中需要理解失望。"
+    },
+    "day": 20
+  },
+  {
+    "id": 842,
+    "word": "discourage",
+    "translation": "气馁",
+    "phonetic": "/dɪsˈkʌrɪdʒ/",
+    "example": {
+      "en": "The discourage is an important part of university life.",
+      "zh": "气馁是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 843,
+    "word": "prevent",
+    "translation": "防止",
+    "phonetic": "/prɪˈvent/",
+    "example": {
+      "en": "The prevent is an important part of university life.",
+      "zh": "防止是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 844,
+    "word": "avoid",
+    "translation": "避免",
+    "phonetic": "/əˈvɔɪd/",
+    "example": {
+      "en": "Students need to understand avoid in their studies.",
+      "zh": "学生在学习中需要理解避免。"
+    },
+    "day": 20
+  },
+  {
+    "id": 845,
+    "word": "escape",
+    "translation": "逃避",
+    "phonetic": "/ɪˈskeɪp/",
+    "example": {
+      "en": "Students need to understand escape in their studies.",
+      "zh": "学生在学习中需要理解逃避。"
+    },
+    "day": 20
+  },
+  {
+    "id": 846,
+    "word": "evade",
+    "translation": "逃避",
+    "phonetic": "/ɪˈveɪd/",
+    "example": {
+      "en": "The professor discussed evade in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了逃避。"
+    },
+    "day": 20
+  },
+  {
+    "id": 847,
+    "word": "dodge",
+    "translation": "躲避",
+    "phonetic": "/dɒdʒ/",
+    "example": {
+      "en": "The professor discussed dodge in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了躲避。"
+    },
+    "day": 20
+  },
+  {
+    "id": 848,
+    "word": "hide",
+    "translation": "隐藏",
+    "phonetic": "/haɪd/",
+    "example": {
+      "en": "Students need to understand hide in their studies.",
+      "zh": "学生在学习中需要理解隐藏。"
+    },
+    "day": 20
+  },
+  {
+    "id": 849,
+    "word": "conceal",
+    "translation": "隐瞒",
+    "phonetic": "/kənˈsiːl/",
+    "example": {
+      "en": "Students need to understand conceal in their studies.",
+      "zh": "学生在学习中需要理解隐瞒。"
+    },
+    "day": 20
+  },
+  {
+    "id": 850,
+    "word": "cover",
+    "translation": "覆盖",
+    "phonetic": "/ˈkʌvə(r)/",
+    "example": {
+      "en": "The cover is an important part of university life.",
+      "zh": "覆盖是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 851,
+    "word": "protect",
+    "translation": "保护",
+    "phonetic": "/prəˈtekt/",
+    "example": {
+      "en": "Students need to understand protect in their studies.",
+      "zh": "学生在学习中需要理解保护。"
+    },
+    "day": 20
+  },
+  {
+    "id": 852,
+    "word": "defend",
+    "translation": "防御",
+    "phonetic": "/dɪˈfend/",
+    "example": {
+      "en": "The professor discussed defend in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了防御。"
+    },
+    "day": 20
+  },
+  {
+    "id": 853,
+    "word": "guard",
+    "translation": "守卫",
+    "phonetic": "/ɡɑːd/",
+    "example": {
+      "en": "The professor discussed guard in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了守卫。"
+    },
+    "day": 20
+  },
+  {
+    "id": 854,
+    "word": "preserve",
+    "translation": "保存",
+    "phonetic": "/prɪˈzɜːv/",
+    "example": {
+      "en": "The professor discussed preserve in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了保存。"
+    },
+    "day": 20
+  },
+  {
+    "id": 855,
+    "word": "maintain",
+    "translation": "维持",
+    "phonetic": "/meɪnˈteɪn/",
+    "example": {
+      "en": "The maintain is an important part of university life.",
+      "zh": "维持是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 856,
+    "word": "sustain",
+    "translation": "维持",
+    "phonetic": "/səˈsteɪn/",
+    "example": {
+      "en": "The professor discussed sustain in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了维持。"
+    },
+    "day": 20
+  },
+  {
+    "id": 857,
+    "word": "support",
+    "translation": "支持",
+    "phonetic": "/səˈpɔːt/",
+    "example": {
+      "en": "The professor discussed support in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了支持。"
+    },
+    "day": 20
+  },
+  {
+    "id": 858,
+    "word": "assist",
+    "translation": "协助",
+    "phonetic": "/əˈsɪst/",
+    "example": {
+      "en": "The assist is an important part of university life.",
+      "zh": "协助是大学生活的重要组成部分。"
+    },
+    "day": 20
+  },
+  {
+    "id": 859,
+    "word": "help",
+    "translation": "帮助",
+    "phonetic": "/help/",
+    "example": {
+      "en": "Students need to understand help in their studies.",
+      "zh": "学生在学习中需要理解帮助。"
+    },
+    "day": 21
+  },
+  {
+    "id": 860,
+    "word": "aid",
+    "translation": "援助",
+    "phonetic": "/eɪd/",
+    "example": {
+      "en": "Students need to understand aid in their studies.",
+      "zh": "学生在学习中需要理解援助。"
+    },
+    "day": 21
+  },
+  {
+    "id": 861,
+    "word": "facilitate",
+    "translation": "促进",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "example": {
+      "en": "The facilitate is an important part of university life.",
+      "zh": "促进是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 862,
+    "word": "enable",
+    "translation": "使能够",
+    "phonetic": "/ɪˈneɪbl/",
+    "example": {
+      "en": "The professor discussed enable in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了使能够。"
+    },
+    "day": 21
+  },
+  {
+    "id": 863,
+    "word": "allow",
+    "translation": "允许",
+    "phonetic": "/əˈlaʊ/",
+    "example": {
+      "en": "The allow is an important part of university life.",
+      "zh": "允许是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 864,
+    "word": "permit",
+    "translation": "许可",
+    "phonetic": "/pəˈmɪt/",
+    "example": {
+      "en": "Students need to understand permit in their studies.",
+      "zh": "学生在学习中需要理解许可。"
+    },
+    "day": 21
+  },
+  {
+    "id": 865,
+    "word": "authorize",
+    "translation": "授权",
+    "phonetic": "/ˈɔːθəraɪz/",
+    "example": {
+      "en": "Students need to understand authorize in their studies.",
+      "zh": "学生在学习中需要理解授权。"
+    },
+    "day": 21
+  },
+  {
+    "id": 866,
+    "word": "approve",
+    "translation": "批准",
+    "phonetic": "/əˈpruːv/",
+    "example": {
+      "en": "Students need to understand approve in their studies.",
+      "zh": "学生在学习中需要理解批准。"
+    },
+    "day": 21
+  },
+  {
+    "id": 867,
+    "word": "accept",
+    "translation": "接受",
+    "phonetic": "/əkˈsept/",
+    "example": {
+      "en": "The accept is an important part of university life.",
+      "zh": "接受是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 868,
+    "word": "receive",
+    "translation": "收到",
+    "phonetic": "/rɪˈsiːv/",
+    "example": {
+      "en": "The professor discussed receive in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了收到。"
+    },
+    "day": 21
+  },
+  {
+    "id": 869,
+    "word": "take",
+    "translation": "拿取",
+    "phonetic": "/teɪk/",
+    "example": {
+      "en": "The take is an important part of university life.",
+      "zh": "拿取是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 870,
+    "word": "grab",
+    "translation": "抓住",
+    "phonetic": "/ɡræb/",
+    "example": {
+      "en": "The professor discussed grab in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了抓住。"
+    },
+    "day": 21
+  },
+  {
+    "id": 871,
+    "word": "seize",
+    "translation": "抓住",
+    "phonetic": "/siːz/",
+    "example": {
+      "en": "The seize is an important part of university life.",
+      "zh": "抓住是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 872,
+    "word": "capture",
+    "translation": "捕获",
+    "phonetic": "/ˈkæptʃə(r)/",
+    "example": {
+      "en": "The professor discussed capture in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了捕获。"
+    },
+    "day": 21
+  },
+  {
+    "id": 873,
+    "word": "catch",
+    "translation": "抓住",
+    "phonetic": "/kætʃ/",
+    "example": {
+      "en": "The professor discussed catch in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了抓住。"
+    },
+    "day": 21
+  },
+  {
+    "id": 874,
+    "word": "hold",
+    "translation": "持有",
+    "phonetic": "/həʊld/",
+    "example": {
+      "en": "The professor discussed hold in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了持有。"
+    },
+    "day": 21
+  },
+  {
+    "id": 875,
+    "word": "keep",
+    "translation": "保持",
+    "phonetic": "/kiːp/",
+    "example": {
+      "en": "The keep is an important part of university life.",
+      "zh": "保持是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 876,
+    "word": "retain",
+    "translation": "保留",
+    "phonetic": "/rɪˈteɪn/",
+    "example": {
+      "en": "The retain is an important part of university life.",
+      "zh": "保留是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 877,
+    "word": "reserve",
+    "translation": "保留",
+    "phonetic": "/rɪˈzɜːv/",
+    "example": {
+      "en": "The professor discussed reserve in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了保留。"
+    },
+    "day": 21
+  },
+  {
+    "id": 878,
+    "word": "save",
+    "translation": "保存",
+    "phonetic": "/seɪv/",
+    "example": {
+      "en": "The save is an important part of university life.",
+      "zh": "保存是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 879,
+    "word": "store",
+    "translation": "储存",
+    "phonetic": "/stɔː(r)/",
+    "example": {
+      "en": "The professor discussed store in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了储存。"
+    },
+    "day": 21
+  },
+  {
+    "id": 880,
+    "word": "collect",
+    "translation": "收集",
+    "phonetic": "/kəˈlekt/",
+    "example": {
+      "en": "The collect is an important part of university life.",
+      "zh": "收集是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 881,
+    "word": "gather",
+    "translation": "聚集",
+    "phonetic": "/ˈɡæðə(r)/",
+    "example": {
+      "en": "The gather is an important part of university life.",
+      "zh": "聚集是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 882,
+    "word": "assemble",
+    "translation": "集合",
+    "phonetic": "/əˈsembl/",
+    "example": {
+      "en": "The assemble is an important part of university life.",
+      "zh": "集合是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 883,
+    "word": "accumulate",
+    "translation": "积累",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "example": {
+      "en": "Students need to understand accumulate in their studies.",
+      "zh": "学生在学习中需要理解积累。"
+    },
+    "day": 21
+  },
+  {
+    "id": 884,
+    "word": "amass",
+    "translation": "积聚",
+    "phonetic": "/əˈmæs/",
+    "example": {
+      "en": "Students need to understand amass in their studies.",
+      "zh": "学生在学习中需要理解积聚。"
+    },
+    "day": 21
+  },
+  {
+    "id": 885,
+    "word": "compile",
+    "translation": "编辑",
+    "phonetic": "/kəmˈpaɪl/",
+    "example": {
+      "en": "The professor discussed compile in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了编辑。"
+    },
+    "day": 21
+  },
+  {
+    "id": 886,
+    "word": "compose",
+    "translation": "创作",
+    "phonetic": "/kəmˈpəʊz/",
+    "example": {
+      "en": "The compose is an important part of university life.",
+      "zh": "创作是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 887,
+    "word": "write",
+    "translation": "写",
+    "phonetic": "/raɪt/",
+    "example": {
+      "en": "The professor discussed write in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了写。"
+    },
+    "day": 21
+  },
+  {
+    "id": 888,
+    "word": "record",
+    "translation": "记录",
+    "phonetic": "/rɪˈkɔːd/",
+    "example": {
+      "en": "The professor discussed record in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了记录。"
+    },
+    "day": 21
+  },
+  {
+    "id": 889,
+    "word": "document",
+    "translation": "记录",
+    "phonetic": "/ˈdɒkjumənt/",
+    "example": {
+      "en": "The professor discussed document in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了记录。"
+    },
+    "day": 21
+  },
+  {
+    "id": 890,
+    "word": "note",
+    "translation": "注意",
+    "phonetic": "/nəʊt/",
+    "example": {
+      "en": "The professor discussed note in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了注意。"
+    },
+    "day": 21
+  },
+  {
+    "id": 891,
+    "word": "observe",
+    "translation": "观察",
+    "phonetic": "/əbˈzɜːv/",
+    "example": {
+      "en": "Students need to understand observe in their studies.",
+      "zh": "学生在学习中需要理解观察。"
+    },
+    "day": 21
+  },
+  {
+    "id": 892,
+    "word": "watch",
+    "translation": "观看",
+    "phonetic": "/wɒtʃ/",
+    "example": {
+      "en": "The professor discussed watch in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了观看。"
+    },
+    "day": 21
+  },
+  {
+    "id": 893,
+    "word": "see",
+    "translation": "看见",
+    "phonetic": "/siː/",
+    "example": {
+      "en": "The see is an important part of university life.",
+      "zh": "看见是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 894,
+    "word": "view",
+    "translation": "查看",
+    "phonetic": "/vjuː/",
+    "example": {
+      "en": "Students need to understand view in their studies.",
+      "zh": "学生在学习中需要理解查看。"
+    },
+    "day": 21
+  },
+  {
+    "id": 895,
+    "word": "look",
+    "translation": "看",
+    "phonetic": "/lʊk/",
+    "example": {
+      "en": "The look is an important part of university life.",
+      "zh": "看是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 896,
+    "word": "examine",
+    "translation": "检查",
+    "phonetic": "/ɪɡˈzæmɪn/",
+    "example": {
+      "en": "The professor discussed examine in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了检查。"
+    },
+    "day": 21
+  },
+  {
+    "id": 897,
+    "word": "inspect",
+    "translation": "视察",
+    "phonetic": "/ɪnˈspekt/",
+    "example": {
+      "en": "Students need to understand inspect in their studies.",
+      "zh": "学生在学习中需要理解视察。"
+    },
+    "day": 21
+  },
+  {
+    "id": 898,
+    "word": "investigate",
+    "translation": "调查",
+    "phonetic": "/ɪnˈvestɪɡeɪt/",
+    "example": {
+      "en": "The professor discussed investigate in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了调查。"
+    },
+    "day": 21
+  },
+  {
+    "id": 899,
+    "word": "explore",
+    "translation": "探索",
+    "phonetic": "/ɪkˈsplɔː(r)/",
+    "example": {
+      "en": "The explore is an important part of university life.",
+      "zh": "探索是大学生活的重要组成部分。"
+    },
+    "day": 21
+  },
+  {
+    "id": 900,
+    "word": "search",
+    "translation": "搜索",
+    "phonetic": "/sɜːtʃ/",
+    "example": {
+      "en": "Students need to understand search in their studies.",
+      "zh": "学生在学习中需要理解搜索。"
+    },
+    "day": 21
+  },
+  {
+    "id": 901,
+    "word": "seek",
+    "translation": "寻求",
+    "phonetic": "/siːk/",
+    "example": {
+      "en": "The professor discussed seek in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了寻求。"
+    },
+    "day": 21
+  },
+  {
+    "id": 902,
+    "word": "find",
+    "translation": "找到",
+    "phonetic": "/faɪnd/",
+    "example": {
+      "en": "Students need to understand find in their studies.",
+      "zh": "学生在学习中需要理解找到。"
+    },
+    "day": 22
+  },
+  {
+    "id": 903,
+    "word": "discover",
+    "translation": "发现",
+    "phonetic": "/dɪˈskʌvə(r)/",
+    "example": {
+      "en": "Students need to understand discover in their studies.",
+      "zh": "学生在学习中需要理解发现。"
+    },
+    "day": 22
+  },
+  {
+    "id": 904,
+    "word": "detect",
+    "translation": "侦测",
+    "phonetic": "/dɪˈtekt/",
+    "example": {
+      "en": "The professor discussed detect in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了侦测。"
+    },
+    "day": 22
+  },
+  {
+    "id": 905,
+    "word": "identify",
+    "translation": "识别",
+    "phonetic": "/aɪˈdentɪfaɪ/",
+    "example": {
+      "en": "Students need to understand identify in their studies.",
+      "zh": "学生在学习中需要理解识别。"
+    },
+    "day": 22
+  },
+  {
+    "id": 906,
+    "word": "recognize",
+    "translation": "认识",
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "example": {
+      "en": "The recognize is an important part of university life.",
+      "zh": "认识是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 907,
+    "word": "distinguish",
+    "translation": "区分",
+    "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "example": {
+      "en": "Students need to understand distinguish in their studies.",
+      "zh": "学生在学习中需要理解区分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 908,
+    "word": "differentiate",
+    "translation": "区别",
+    "phonetic": "/ˌdɪfəˈrenʃieɪt/",
+    "example": {
+      "en": "The differentiate is an important part of university life.",
+      "zh": "区别是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 909,
+    "word": "separate",
+    "translation": "分开",
+    "phonetic": "/ˈsepərət/",
+    "example": {
+      "en": "The separate is an important part of university life.",
+      "zh": "分开是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 910,
+    "word": "divide",
+    "translation": "分割",
+    "phonetic": "/dɪˈvaɪd/",
+    "example": {
+      "en": "Students need to understand divide in their studies.",
+      "zh": "学生在学习中需要理解分割。"
+    },
+    "day": 22
+  },
+  {
+    "id": 911,
+    "word": "split",
+    "translation": "分裂",
+    "phonetic": "/splɪt/",
+    "example": {
+      "en": "The professor discussed split in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了分裂。"
+    },
+    "day": 22
+  },
+  {
+    "id": 912,
+    "word": "break",
+    "translation": "打破",
+    "phonetic": "/breɪk/",
+    "example": {
+      "en": "Students need to understand break in their studies.",
+      "zh": "学生在学习中需要理解打破。"
+    },
+    "day": 22
+  },
+  {
+    "id": 913,
+    "word": "crack",
+    "translation": "破裂",
+    "phonetic": "/kræk/",
+    "example": {
+      "en": "The crack is an important part of university life.",
+      "zh": "破裂是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 914,
+    "word": "shatter",
+    "translation": "粉碎",
+    "phonetic": "/ˈʃætə(r)/",
+    "example": {
+      "en": "Students need to understand shatter in their studies.",
+      "zh": "学生在学习中需要理解粉碎。"
+    },
+    "day": 22
+  },
+  {
+    "id": 915,
+    "word": "destroy",
+    "translation": "破坏",
+    "phonetic": "/dɪˈstrɔɪ/",
+    "example": {
+      "en": "The professor discussed destroy in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了破坏。"
+    },
+    "day": 22
+  },
+  {
+    "id": 916,
+    "word": "damage",
+    "translation": "损害",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "example": {
+      "en": "The damage is an important part of university life.",
+      "zh": "损害是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 917,
+    "word": "harm",
+    "translation": "伤害",
+    "phonetic": "/hɑːm/",
+    "example": {
+      "en": "The harm is an important part of university life.",
+      "zh": "伤害是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 918,
+    "word": "hurt",
+    "translation": "伤害",
+    "phonetic": "/hɜːt/",
+    "example": {
+      "en": "The professor discussed hurt in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了伤害。"
+    },
+    "day": 22
+  },
+  {
+    "id": 919,
+    "word": "injure",
+    "translation": "受伤",
+    "phonetic": "/ˈɪndʒə(r)/",
+    "example": {
+      "en": "Students need to understand injure in their studies.",
+      "zh": "学生在学习中需要理解受伤。"
+    },
+    "day": 22
+  },
+  {
+    "id": 920,
+    "word": "wound",
+    "translation": "伤口",
+    "phonetic": "/wuːnd/",
+    "example": {
+      "en": "The wound is an important part of university life.",
+      "zh": "伤口是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 921,
+    "word": "pain",
+    "translation": "疼痛",
+    "phonetic": "/peɪn/",
+    "example": {
+      "en": "The pain is an important part of university life.",
+      "zh": "疼痛是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 922,
+    "word": "suffer",
+    "translation": "遭受",
+    "phonetic": "/ˈsʌfə(r)/",
+    "example": {
+      "en": "Students need to understand suffer in their studies.",
+      "zh": "学生在学习中需要理解遭受。"
+    },
+    "day": 22
+  },
+  {
+    "id": 923,
+    "word": "endure",
+    "translation": "忍受",
+    "phonetic": "/ɪnˈdjʊə(r)/",
+    "example": {
+      "en": "The endure is an important part of university life.",
+      "zh": "忍受是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 924,
+    "word": "bear",
+    "translation": "承受",
+    "phonetic": "/beə(r)/",
+    "example": {
+      "en": "The bear is an important part of university life.",
+      "zh": "承受是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 925,
+    "word": "tolerate",
+    "translation": "容忍",
+    "phonetic": "/ˈtɒləreɪt/",
+    "example": {
+      "en": "Students need to understand tolerate in their studies.",
+      "zh": "学生在学习中需要理解容忍。"
+    },
+    "day": 22
+  },
+  {
+    "id": 926,
+    "word": "accept",
+    "translation": "接纳",
+    "phonetic": "/əkˈsept/",
+    "example": {
+      "en": "The accept is an important part of university life.",
+      "zh": "接纳是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 927,
+    "word": "embrace",
+    "translation": "拥抱",
+    "phonetic": "/ɪmˈbreɪs/",
+    "example": {
+      "en": "The embrace is an important part of university life.",
+      "zh": "拥抱是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 928,
+    "word": "welcome",
+    "translation": "欢迎",
+    "phonetic": "/ˈwelkəm/",
+    "example": {
+      "en": "The professor discussed welcome in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了欢迎。"
+    },
+    "day": 22
+  },
+  {
+    "id": 929,
+    "word": "greet",
+    "translation": "问候",
+    "phonetic": "/ɡriːt/",
+    "example": {
+      "en": "Students need to understand greet in their studies.",
+      "zh": "学生在学习中需要理解问候。"
+    },
+    "day": 22
+  },
+  {
+    "id": 930,
+    "word": "meet",
+    "translation": "遇见",
+    "phonetic": "/miːt/",
+    "example": {
+      "en": "The professor discussed meet in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了遇见。"
+    },
+    "day": 22
+  },
+  {
+    "id": 931,
+    "word": "encounter",
+    "translation": "遭遇",
+    "phonetic": "/ɪnˈkaʊntə(r)/",
+    "example": {
+      "en": "The encounter is an important part of university life.",
+      "zh": "遭遇是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 932,
+    "word": "face",
+    "translation": "面对",
+    "phonetic": "/feɪs/",
+    "example": {
+      "en": "The professor discussed face in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了面对。"
+    },
+    "day": 22
+  },
+  {
+    "id": 933,
+    "word": "confront",
+    "translation": "面临",
+    "phonetic": "/kənˈfrʌnt/",
+    "example": {
+      "en": "Students need to understand confront in their studies.",
+      "zh": "学生在学习中需要理解面临。"
+    },
+    "day": 22
+  },
+  {
+    "id": 934,
+    "word": "challenge",
+    "translation": "挑战",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "example": {
+      "en": "The challenge is an important part of university life.",
+      "zh": "挑战是大学生活的重要组成部分。"
+    },
+    "day": 22
+  },
+  {
+    "id": 935,
+    "word": "compete",
+    "translation": "竞争",
+    "phonetic": "/kəmˈpiːt/",
+    "example": {
+      "en": "The professor discussed compete in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了竞争。"
+    },
+    "day": 22
+  },
+  {
+    "id": 936,
+    "word": "contest",
+    "translation": "比赛",
+    "phonetic": "/ˈkɒntest/",
+    "example": {
+      "en": "Students need to understand contest in their studies.",
+      "zh": "学生在学习中需要理解比赛。"
+    },
+    "day": 22
+  },
+  {
+    "id": 937,
+    "word": "fight",
+    "translation": "战斗",
+    "phonetic": "/faɪt/",
+    "example": {
+      "en": "Students need to understand fight in their studies.",
+      "zh": "学生在学习中需要理解战斗。"
+    },
+    "day": 22
+  },
+  {
+    "id": 938,
+    "word": "struggle",
+    "translation": "奋斗",
+    "phonetic": "/ˈstrʌɡl/",
+    "example": {
+      "en": "Students need to understand struggle in their studies.",
+      "zh": "学生在学习中需要理解奋斗。"
+    },
+    "day": 22
+  },
+  {
+    "id": 939,
+    "word": "battle",
+    "translation": "战役",
+    "phonetic": "/ˈbætl/",
+    "example": {
+      "en": "Students need to understand battle in their studies.",
+      "zh": "学生在学习中需要理解战役。"
+    },
+    "day": 22
+  },
+  {
+    "id": 940,
+    "word": "war",
+    "translation": "战争",
+    "phonetic": "/wɔː(r)/",
+    "example": {
+      "en": "Students need to understand war in their studies.",
+      "zh": "学生在学习中需要理解战争。"
+    },
+    "day": 22
+  },
+  {
+    "id": 941,
+    "word": "peace",
+    "translation": "和平",
+    "phonetic": "/piːs/",
+    "example": {
+      "en": "Students need to understand peace in their studies.",
+      "zh": "学生在学习中需要理解和平。"
+    },
+    "day": 22
+  },
+  {
+    "id": 942,
+    "word": "calm",
+    "translation": "平静",
+    "phonetic": "/kɑːm/",
+    "example": {
+      "en": "Students need to understand calm in their studies.",
+      "zh": "学生在学习中需要理解平静。"
+    },
+    "day": 22
+  },
+  {
+    "id": 943,
+    "word": "quiet",
+    "translation": "安静",
+    "phonetic": "/ˈkwaɪət/",
+    "example": {
+      "en": "The professor discussed quiet in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了安静。"
+    },
+    "day": 22
+  },
+  {
+    "id": 944,
+    "word": "silent",
+    "translation": "沉默",
+    "phonetic": "/ˈsaɪlənt/",
+    "example": {
+      "en": "The professor discussed silent in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了沉默。"
+    },
+    "day": 22
+  },
+  {
+    "id": 945,
+    "word": "still",
+    "translation": "静止",
+    "phonetic": "/stɪl/",
+    "example": {
+      "en": "The still is an important part of university life.",
+      "zh": "静止是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 946,
+    "word": "motionless",
+    "translation": "不动",
+    "phonetic": "/ˈməʊʃnləs/",
+    "example": {
+      "en": "Students need to understand motionless in their studies.",
+      "zh": "学生在学习中需要理解不动。"
+    },
+    "day": 23
+  },
+  {
+    "id": 947,
+    "word": "stationary",
+    "translation": "固定",
+    "phonetic": "/ˈsteɪʃənri/",
+    "example": {
+      "en": "The professor discussed stationary in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了固定。"
+    },
+    "day": 23
+  },
+  {
+    "id": 948,
+    "word": "stable",
+    "translation": "稳定",
+    "phonetic": "/ˈsteɪbl/",
+    "example": {
+      "en": "The stable is an important part of university life.",
+      "zh": "稳定是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 949,
+    "word": "steady",
+    "translation": "稳定",
+    "phonetic": "/ˈstedi/",
+    "example": {
+      "en": "The steady is an important part of university life.",
+      "zh": "稳定是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 950,
+    "word": "constant",
+    "translation": "恒定",
+    "phonetic": "/ˈkɒnstənt/",
+    "example": {
+      "en": "The professor discussed constant in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了恒定。"
+    },
+    "day": 23
+  },
+  {
+    "id": 951,
+    "word": "continuous",
+    "translation": "连续",
+    "phonetic": "/kənˈtɪnjuəs/",
+    "example": {
+      "en": "The continuous is an important part of university life.",
+      "zh": "连续是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 952,
+    "word": "continual",
+    "translation": "持续",
+    "phonetic": "/kənˈtɪnjuəl/",
+    "example": {
+      "en": "The continual is an important part of university life.",
+      "zh": "持续是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 953,
+    "word": "permanent",
+    "translation": "永久",
+    "phonetic": "/ˈpɜːmənənt/",
+    "example": {
+      "en": "The professor discussed permanent in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了永久。"
+    },
+    "day": 23
+  },
+  {
+    "id": 954,
+    "word": "lasting",
+    "translation": "持久",
+    "phonetic": "/ˈlɑːstɪŋ/",
+    "example": {
+      "en": "Students need to understand lasting in their studies.",
+      "zh": "学生在学习中需要理解持久。"
+    },
+    "day": 23
+  },
+  {
+    "id": 955,
+    "word": "enduring",
+    "translation": "持久",
+    "phonetic": "/ɪnˈdjʊərɪŋ/",
+    "example": {
+      "en": "Students need to understand enduring in their studies.",
+      "zh": "学生在学习中需要理解持久。"
+    },
+    "day": 23
+  },
+  {
+    "id": 956,
+    "word": "eternal",
+    "translation": "永恒",
+    "phonetic": "/ɪˈtɜːnl/",
+    "example": {
+      "en": "The eternal is an important part of university life.",
+      "zh": "永恒是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 957,
+    "word": "infinite",
+    "translation": "无限",
+    "phonetic": "/ˈɪnfɪnət/",
+    "example": {
+      "en": "The professor discussed infinite in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了无限。"
+    },
+    "day": 23
+  },
+  {
+    "id": 958,
+    "word": "unlimited",
+    "translation": "无限制",
+    "phonetic": "/ʌnˈlɪmɪtɪd/",
+    "example": {
+      "en": "The professor discussed unlimited in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了无限制。"
+    },
+    "day": 23
+  },
+  {
+    "id": 959,
+    "word": "boundless",
+    "translation": "无边",
+    "phonetic": "/ˈbaʊndləs/",
+    "example": {
+      "en": "Students need to understand boundless in their studies.",
+      "zh": "学生在学习中需要理解无边。"
+    },
+    "day": 23
+  },
+  {
+    "id": 960,
+    "word": "endless",
+    "translation": "无尽",
+    "phonetic": "/ˈendləs/",
+    "example": {
+      "en": "Students need to understand endless in their studies.",
+      "zh": "学生在学习中需要理解无尽。"
+    },
+    "day": 23
+  },
+  {
+    "id": 961,
+    "word": "countless",
+    "translation": "无数",
+    "phonetic": "/ˈkaʊntləs/",
+    "example": {
+      "en": "The professor discussed countless in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了无数。"
+    },
+    "day": 23
+  },
+  {
+    "id": 962,
+    "word": "numerous",
+    "translation": "众多",
+    "phonetic": "/ˈnjuːmərəs/",
+    "example": {
+      "en": "The numerous is an important part of university life.",
+      "zh": "众多是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 963,
+    "word": "many",
+    "translation": "许多",
+    "phonetic": "/ˈmeni/",
+    "example": {
+      "en": "Students need to understand many in their studies.",
+      "zh": "学生在学习中需要理解许多。"
+    },
+    "day": 23
+  },
+  {
+    "id": 964,
+    "word": "multiple",
+    "translation": "多个",
+    "phonetic": "/ˈmʌltɪpl/",
+    "example": {
+      "en": "Students need to understand multiple in their studies.",
+      "zh": "学生在学习中需要理解多个。"
+    },
+    "day": 23
+  },
+  {
+    "id": 965,
+    "word": "several",
+    "translation": "几个",
+    "phonetic": "/ˈsevrəl/",
+    "example": {
+      "en": "The professor discussed several in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了几个。"
+    },
+    "day": 23
+  },
+  {
+    "id": 966,
+    "word": "few",
+    "translation": "少数",
+    "phonetic": "/fjuː/",
+    "example": {
+      "en": "Students need to understand few in their studies.",
+      "zh": "学生在学习中需要理解少数。"
+    },
+    "day": 23
+  },
+  {
+    "id": 967,
+    "word": "some",
+    "translation": "一些",
+    "phonetic": "/sʌm/",
+    "example": {
+      "en": "Students need to understand some in their studies.",
+      "zh": "学生在学习中需要理解一些。"
+    },
+    "day": 23
+  },
+  {
+    "id": 968,
+    "word": "any",
+    "translation": "任何",
+    "phonetic": "/ˈeni/",
+    "example": {
+      "en": "The professor discussed any in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了任何。"
+    },
+    "day": 23
+  },
+  {
+    "id": 969,
+    "word": "every",
+    "translation": "每个",
+    "phonetic": "/ˈevri/",
+    "example": {
+      "en": "The every is an important part of university life.",
+      "zh": "每个是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 970,
+    "word": "each",
+    "translation": "各个",
+    "phonetic": "/iːtʃ/",
+    "example": {
+      "en": "The each is an important part of university life.",
+      "zh": "各个是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 971,
+    "word": "all",
+    "translation": "所有",
+    "phonetic": "/ɔːl/",
+    "example": {
+      "en": "Students need to understand all in their studies.",
+      "zh": "学生在学习中需要理解所有。"
+    },
+    "day": 23
+  },
+  {
+    "id": 972,
+    "word": "whole",
+    "translation": "整体",
+    "phonetic": "/həʊl/",
+    "example": {
+      "en": "The whole is an important part of university life.",
+      "zh": "整体是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 973,
+    "word": "entire",
+    "translation": "全部",
+    "phonetic": "/ɪnˈtaɪə(r)/",
+    "example": {
+      "en": "The professor discussed entire in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了全部。"
+    },
+    "day": 23
+  },
+  {
+    "id": 974,
+    "word": "total",
+    "translation": "总计",
+    "phonetic": "/ˈtəʊtl/",
+    "example": {
+      "en": "The professor discussed total in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了总计。"
+    },
+    "day": 23
+  },
+  {
+    "id": 975,
+    "word": "complete",
+    "translation": "完全",
+    "phonetic": "/kəmˈpliːt/",
+    "example": {
+      "en": "The complete is an important part of university life.",
+      "zh": "完全是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 976,
+    "word": "full",
+    "translation": "满的",
+    "phonetic": "/fʊl/",
+    "example": {
+      "en": "Students need to understand full in their studies.",
+      "zh": "学生在学习中需要理解满的。"
+    },
+    "day": 23
+  },
+  {
+    "id": 977,
+    "word": "thorough",
+    "translation": "彻底",
+    "phonetic": "/ˈθʌrə/",
+    "example": {
+      "en": "The professor discussed thorough in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了彻底。"
+    },
+    "day": 23
+  },
+  {
+    "id": 978,
+    "word": "comprehensive",
+    "translation": "全面",
+    "phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "example": {
+      "en": "The professor discussed comprehensive in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了全面。"
+    },
+    "day": 23
+  },
+  {
+    "id": 979,
+    "word": "detailed",
+    "translation": "详细",
+    "phonetic": "/ˈdiːteɪld/",
+    "example": {
+      "en": "The professor discussed detailed in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了详细。"
+    },
+    "day": 23
+  },
+  {
+    "id": 980,
+    "word": "elaborate",
+    "translation": "精心制作",
+    "phonetic": "/ɪˈlæbərət/",
+    "example": {
+      "en": "The professor discussed elaborate in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了精心制作。"
+    },
+    "day": 23
+  },
+  {
+    "id": 981,
+    "word": "complex",
+    "translation": "复杂",
+    "phonetic": "/ˈkɒmpleks/",
+    "example": {
+      "en": "The complex is an important part of university life.",
+      "zh": "复杂是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 982,
+    "word": "complicated",
+    "translation": "复杂",
+    "phonetic": "/ˈkɒmplɪkeɪtɪd/",
+    "example": {
+      "en": "Students need to understand complicated in their studies.",
+      "zh": "学生在学习中需要理解复杂。"
+    },
+    "day": 23
+  },
+  {
+    "id": 983,
+    "word": "difficult",
+    "translation": "困难",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "example": {
+      "en": "The difficult is an important part of university life.",
+      "zh": "困难是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 984,
+    "word": "hard",
+    "translation": "艰难",
+    "phonetic": "/hɑːd/",
+    "example": {
+      "en": "The professor discussed hard in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了艰难。"
+    },
+    "day": 23
+  },
+  {
+    "id": 985,
+    "word": "tough",
+    "translation": "艰苦",
+    "phonetic": "/tʌf/",
+    "example": {
+      "en": "The tough is an important part of university life.",
+      "zh": "艰苦是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 986,
+    "word": "challenging",
+    "translation": "有挑战性",
+    "phonetic": "/ˈtʃælɪndʒɪŋ/",
+    "example": {
+      "en": "The professor discussed challenging in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了有挑战性。"
+    },
+    "day": 23
+  },
+  {
+    "id": 987,
+    "word": "demanding",
+    "translation": "要求高",
+    "phonetic": "/dɪˈmɑːndɪŋ/",
+    "example": {
+      "en": "The demanding is an important part of university life.",
+      "zh": "要求高是大学生活的重要组成部分。"
+    },
+    "day": 23
+  },
+  {
+    "id": 988,
+    "word": "easy",
+    "translation": "容易",
+    "phonetic": "/ˈiːzi/",
+    "example": {
+      "en": "The easy is an important part of university life.",
+      "zh": "容易是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 989,
+    "word": "simple",
+    "translation": "简单",
+    "phonetic": "/ˈsɪmpl/",
+    "example": {
+      "en": "Students need to understand simple in their studies.",
+      "zh": "学生在学习中需要理解简单。"
+    },
+    "day": 24
+  },
+  {
+    "id": 990,
+    "word": "plain",
+    "translation": "简朴",
+    "phonetic": "/pleɪn/",
+    "example": {
+      "en": "Students need to understand plain in their studies.",
+      "zh": "学生在学习中需要理解简朴。"
+    },
+    "day": 24
+  },
+  {
+    "id": 991,
+    "word": "basic",
+    "translation": "基本",
+    "phonetic": "/ˈbeɪsɪk/",
+    "example": {
+      "en": "The professor discussed basic in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了基本。"
+    },
+    "day": 24
+  },
+  {
+    "id": 992,
+    "word": "fundamental",
+    "translation": "基础",
+    "phonetic": "/ˌfʌndəˈmentl/",
+    "example": {
+      "en": "Students need to understand fundamental in their studies.",
+      "zh": "学生在学习中需要理解基础。"
+    },
+    "day": 24
+  },
+  {
+    "id": 993,
+    "word": "essential",
+    "translation": "必要",
+    "phonetic": "/ɪˈsenʃl/",
+    "example": {
+      "en": "The essential is an important part of university life.",
+      "zh": "必要是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 994,
+    "word": "necessary",
+    "translation": "必需",
+    "phonetic": "/ˈnesəsəri/",
+    "example": {
+      "en": "The professor discussed necessary in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了必需。"
+    },
+    "day": 24
+  },
+  {
+    "id": 995,
+    "word": "required",
+    "translation": "必需",
+    "phonetic": "/rɪˈkwaɪəd/",
+    "example": {
+      "en": "The required is an important part of university life.",
+      "zh": "必需是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 996,
+    "word": "compulsory",
+    "translation": "强制",
+    "phonetic": "/kəmˈpʌlsəri/",
+    "example": {
+      "en": "Students need to understand compulsory in their studies.",
+      "zh": "学生在学习中需要理解强制。"
+    },
+    "day": 24
+  },
+  {
+    "id": 997,
+    "word": "mandatory",
+    "translation": "强制性",
+    "phonetic": "/ˈmændətəri/",
+    "example": {
+      "en": "The professor discussed mandatory in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了强制性。"
+    },
+    "day": 24
+  },
+  {
+    "id": 998,
+    "word": "obligatory",
+    "translation": "义务",
+    "phonetic": "/əˈblɪɡətri/",
+    "example": {
+      "en": "Students need to understand obligatory in their studies.",
+      "zh": "学生在学习中需要理解义务。"
+    },
+    "day": 24
+  },
+  {
+    "id": 999,
+    "word": "optional",
+    "translation": "可选",
+    "phonetic": "/ˈɒpʃənl/",
+    "example": {
+      "en": "Students need to understand optional in their studies.",
+      "zh": "学生在学习中需要理解可选。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1000,
+    "word": "voluntary",
+    "translation": "自愿",
+    "phonetic": "/ˈvɒləntri/",
+    "example": {
+      "en": "Students need to understand voluntary in their studies.",
+      "zh": "学生在学习中需要理解自愿。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1001,
+    "word": "willing",
+    "translation": "愿意",
+    "phonetic": "/ˈwɪlɪŋ/",
+    "example": {
+      "en": "Students need to understand willing in their studies.",
+      "zh": "学生在学习中需要理解愿意。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1002,
+    "word": "eager",
+    "translation": "渴望",
+    "phonetic": "/ˈiːɡə(r)/",
+    "example": {
+      "en": "Students need to understand eager in their studies.",
+      "zh": "学生在学习中需要理解渴望。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1003,
+    "word": "keen",
+    "translation": "热衷",
+    "phonetic": "/kiːn/",
+    "example": {
+      "en": "Students need to understand keen in their studies.",
+      "zh": "学生在学习中需要理解热衷。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1004,
+    "word": "interested",
+    "translation": "感兴趣",
+    "phonetic": "/ˈɪntrəstɪd/",
+    "example": {
+      "en": "The professor discussed interested in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了感兴趣。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1005,
+    "word": "curious",
+    "translation": "好奇",
+    "phonetic": "/ˈkjʊəriəs/",
+    "example": {
+      "en": "The curious is an important part of university life.",
+      "zh": "好奇是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1006,
+    "word": "inquisitive",
+    "translation": "好问",
+    "phonetic": "/ɪnˈkwɪzətɪv/",
+    "example": {
+      "en": "The professor discussed inquisitive in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了好问。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1007,
+    "word": "inquiring",
+    "translation": "探究",
+    "phonetic": "/ɪnˈkwaɪərɪŋ/",
+    "example": {
+      "en": "The inquiring is an important part of university life.",
+      "zh": "探究是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1008,
+    "word": "questioning",
+    "translation": "质疑",
+    "phonetic": "/ˈkwestʃənɪŋ/",
+    "example": {
+      "en": "Students need to understand questioning in their studies.",
+      "zh": "学生在学习中需要理解质疑。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1009,
+    "word": "doubtful",
+    "translation": "怀疑",
+    "phonetic": "/ˈdaʊtfl/",
+    "example": {
+      "en": "Students need to understand doubtful in their studies.",
+      "zh": "学生在学习中需要理解怀疑。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1010,
+    "word": "uncertain",
+    "translation": "不确定",
+    "phonetic": "/ʌnˈsɜːtn/",
+    "example": {
+      "en": "The professor discussed uncertain in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了不确定。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1011,
+    "word": "unsure",
+    "translation": "不确信",
+    "phonetic": "/ʌnˈʃʊə(r)/",
+    "example": {
+      "en": "The unsure is an important part of university life.",
+      "zh": "不确信是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1012,
+    "word": "confused",
+    "translation": "困惑",
+    "phonetic": "/kənˈfjuːzd/",
+    "example": {
+      "en": "The professor discussed confused in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了困惑。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1013,
+    "word": "puzzled",
+    "translation": "迷惑",
+    "phonetic": "/ˈpʌzld/",
+    "example": {
+      "en": "The professor discussed puzzled in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了迷惑。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1014,
+    "word": "perplexed",
+    "translation": "困惑",
+    "phonetic": "/pəˈplekst/",
+    "example": {
+      "en": "The perplexed is an important part of university life.",
+      "zh": "困惑是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1015,
+    "word": "bewildered",
+    "translation": "困惑",
+    "phonetic": "/bɪˈwɪldəd/",
+    "example": {
+      "en": "Students need to understand bewildered in their studies.",
+      "zh": "学生在学习中需要理解困惑。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1016,
+    "word": "baffled",
+    "translation": "受挫",
+    "phonetic": "/ˈbæfld/",
+    "example": {
+      "en": "Students need to understand baffled in their studies.",
+      "zh": "学生在学习中需要理解受挫。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1017,
+    "word": "mystified",
+    "translation": "神秘",
+    "phonetic": "/ˈmɪstɪfaɪd/",
+    "example": {
+      "en": "The professor discussed mystified in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了神秘。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1018,
+    "word": "mysterious",
+    "translation": "神秘",
+    "phonetic": "/mɪˈstɪəriəs/",
+    "example": {
+      "en": "The mysterious is an important part of university life.",
+      "zh": "神秘是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1019,
+    "word": "strange",
+    "translation": "奇怪",
+    "phonetic": "/streɪndʒ/",
+    "example": {
+      "en": "The professor discussed strange in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了奇怪。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1020,
+    "word": "odd",
+    "translation": "古怪",
+    "phonetic": "/ɒd/",
+    "example": {
+      "en": "The professor discussed odd in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了古怪。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1021,
+    "word": "peculiar",
+    "translation": "特殊",
+    "phonetic": "/pɪˈkjuːliə(r)/",
+    "example": {
+      "en": "The professor discussed peculiar in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了特殊。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1022,
+    "word": "unusual",
+    "translation": "不寻常",
+    "phonetic": "/ʌnˈjuːʒuəl/",
+    "example": {
+      "en": "Students need to understand unusual in their studies.",
+      "zh": "学生在学习中需要理解不寻常。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1023,
+    "word": "extraordinary",
+    "translation": "非凡",
+    "phonetic": "/ɪkˈstrɔːdnri/",
+    "example": {
+      "en": "Students need to understand extraordinary in their studies.",
+      "zh": "学生在学习中需要理解非凡。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1024,
+    "word": "remarkable",
+    "translation": "非凡",
+    "phonetic": "/rɪˈmɑːkəbl/",
+    "example": {
+      "en": "The professor discussed remarkable in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了非凡。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1025,
+    "word": "outstanding",
+    "translation": "杰出",
+    "phonetic": "/aʊtˈstændɪŋ/",
+    "example": {
+      "en": "The professor discussed outstanding in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了杰出。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1026,
+    "word": "excellent",
+    "translation": "优秀",
+    "phonetic": "/ˈeksələnt/",
+    "example": {
+      "en": "Students need to understand excellent in their studies.",
+      "zh": "学生在学习中需要理解优秀。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1027,
+    "word": "superb",
+    "translation": "极好",
+    "phonetic": "/suːˈpɜːb/",
+    "example": {
+      "en": "The professor discussed superb in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了极好。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1028,
+    "word": "magnificent",
+    "translation": "壮丽",
+    "phonetic": "/mæɡˈnɪfɪsnt/",
+    "example": {
+      "en": "The professor discussed magnificent in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了壮丽。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1029,
+    "word": "splendid",
+    "translation": "辉煌",
+    "phonetic": "/ˈsplendɪd/",
+    "example": {
+      "en": "The splendid is an important part of university life.",
+      "zh": "辉煌是大学生活的重要组成部分。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1030,
+    "word": "wonderful",
+    "translation": "精彩",
+    "phonetic": "/ˈwʌndəfl/",
+    "example": {
+      "en": "The professor discussed wonderful in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了精彩。"
+    },
+    "day": 24
+  },
+  {
+    "id": 1031,
+    "word": "marvelous",
+    "translation": "不可思议",
+    "phonetic": "/ˈmɑːvələs/",
+    "example": {
+      "en": "The marvelous is an important part of university life.",
+      "zh": "不可思议是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1032,
+    "word": "amazing",
+    "translation": "令人惊奇",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "example": {
+      "en": "The amazing is an important part of university life.",
+      "zh": "令人惊奇是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1033,
+    "word": "astonishing",
+    "translation": "惊人",
+    "phonetic": "/əˈstɒnɪʃɪŋ/",
+    "example": {
+      "en": "Students need to understand astonishing in their studies.",
+      "zh": "学生在学习中需要理解惊人。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1034,
+    "word": "surprising",
+    "translation": "令人惊讶",
+    "phonetic": "/səˈpraɪzɪŋ/",
+    "example": {
+      "en": "The surprising is an important part of university life.",
+      "zh": "令人惊讶是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1035,
+    "word": "shocking",
+    "translation": "令人震惊",
+    "phonetic": "/ˈʃɒkɪŋ/",
+    "example": {
+      "en": "Students need to understand shocking in their studies.",
+      "zh": "学生在学习中需要理解令人震惊。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1036,
+    "word": "startling",
+    "translation": "惊人",
+    "phonetic": "/ˈstɑːtlɪŋ/",
+    "example": {
+      "en": "The startling is an important part of university life.",
+      "zh": "惊人是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1037,
+    "word": "alarming",
+    "translation": "惊人",
+    "phonetic": "/əˈlɑːmɪŋ/",
+    "example": {
+      "en": "The professor discussed alarming in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了惊人。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1038,
+    "word": "frightening",
+    "translation": "可怕",
+    "phonetic": "/ˈfraɪtnɪŋ/",
+    "example": {
+      "en": "The frightening is an important part of university life.",
+      "zh": "可怕是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1039,
+    "word": "terrifying",
+    "translation": "恐怖",
+    "phonetic": "/ˈterɪfaɪɪŋ/",
+    "example": {
+      "en": "The terrifying is an important part of university life.",
+      "zh": "恐怖是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1040,
+    "word": "horrible",
+    "translation": "可怕",
+    "phonetic": "/ˈhɒrəbl/",
+    "example": {
+      "en": "The horrible is an important part of university life.",
+      "zh": "可怕是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1041,
+    "word": "terrible",
+    "translation": "糟糕",
+    "phonetic": "/ˈterəbl/",
+    "example": {
+      "en": "The professor discussed terrible in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了糟糕。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1042,
+    "word": "awful",
+    "translation": "可怕",
+    "phonetic": "/ˈɔːfl/",
+    "example": {
+      "en": "The professor discussed awful in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了可怕。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1043,
+    "word": "dreadful",
+    "translation": "可怕",
+    "phonetic": "/ˈdredfl/",
+    "example": {
+      "en": "The professor discussed dreadful in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了可怕。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1044,
+    "word": "bad",
+    "translation": "坏的",
+    "phonetic": "/bæd/",
+    "example": {
+      "en": "The professor discussed bad in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了坏的。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1045,
+    "word": "poor",
+    "translation": "差的",
+    "phonetic": "/pɔː(r)/",
+    "example": {
+      "en": "The poor is an important part of university life.",
+      "zh": "差的是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1046,
+    "word": "inferior",
+    "translation": "低劣",
+    "phonetic": "/ɪnˈfɪəriə(r)/",
+    "example": {
+      "en": "The inferior is an important part of university life.",
+      "zh": "低劣是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1047,
+    "word": "mediocre",
+    "translation": "平庸",
+    "phonetic": "/ˌmiːdiˈəʊkə(r)/",
+    "example": {
+      "en": "The professor discussed mediocre in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了平庸。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1048,
+    "word": "average",
+    "translation": "平均",
+    "phonetic": "/ˈævərɪdʒ/",
+    "example": {
+      "en": "The professor discussed average in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了平均。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1049,
+    "word": "ordinary",
+    "translation": "普通",
+    "phonetic": "/ˈɔːdnri/",
+    "example": {
+      "en": "The ordinary is an important part of university life.",
+      "zh": "普通是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1050,
+    "word": "normal",
+    "translation": "正常",
+    "phonetic": "/ˈnɔːml/",
+    "example": {
+      "en": "Students need to understand normal in their studies.",
+      "zh": "学生在学习中需要理解正常。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1051,
+    "word": "regular",
+    "translation": "常规",
+    "phonetic": "/ˈreɡjələ(r)/",
+    "example": {
+      "en": "The regular is an important part of university life.",
+      "zh": "常规是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1052,
+    "word": "standard",
+    "translation": "标准",
+    "phonetic": "/ˈstændəd/",
+    "example": {
+      "en": "The professor discussed standard in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了标准。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1053,
+    "word": "typical",
+    "translation": "典型",
+    "phonetic": "/ˈtɪpɪkl/",
+    "example": {
+      "en": "The typical is an important part of university life.",
+      "zh": "典型是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1054,
+    "word": "conventional",
+    "translation": "传统",
+    "phonetic": "/kənˈvenʃənl/",
+    "example": {
+      "en": "Students need to understand conventional in their studies.",
+      "zh": "学生在学习中需要理解传统。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1055,
+    "word": "traditional",
+    "translation": "传统",
+    "phonetic": "/trəˈdɪʃənl/",
+    "example": {
+      "en": "The traditional is an important part of university life.",
+      "zh": "传统是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1056,
+    "word": "classical",
+    "translation": "古典",
+    "phonetic": "/ˈklæsɪkl/",
+    "example": {
+      "en": "The professor discussed classical in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了古典。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1057,
+    "word": "ancient",
+    "translation": "古老",
+    "phonetic": "/ˈeɪnʃənt/",
+    "example": {
+      "en": "The professor discussed ancient in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了古老。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1058,
+    "word": "old",
+    "translation": "旧的",
+    "phonetic": "/əʊld/",
+    "example": {
+      "en": "Students need to understand old in their studies.",
+      "zh": "学生在学习中需要理解旧的。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1059,
+    "word": "aged",
+    "translation": "年老",
+    "phonetic": "/eɪdʒd/",
+    "example": {
+      "en": "Students need to understand aged in their studies.",
+      "zh": "学生在学习中需要理解年老。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1060,
+    "word": "elderly",
+    "translation": "年长",
+    "phonetic": "/ˈeldəli/",
+    "example": {
+      "en": "The elderly is an important part of university life.",
+      "zh": "年长是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1061,
+    "word": "mature",
+    "translation": "成熟",
+    "phonetic": "/məˈtʃʊə(r)/",
+    "example": {
+      "en": "The mature is an important part of university life.",
+      "zh": "成熟是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1062,
+    "word": "adult",
+    "translation": "成年",
+    "phonetic": "/ˈædʌlt/",
+    "example": {
+      "en": "The professor discussed adult in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了成年。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1063,
+    "word": "grown",
+    "translation": "成长",
+    "phonetic": "/ɡrəʊn/",
+    "example": {
+      "en": "Students need to understand grown in their studies.",
+      "zh": "学生在学习中需要理解成长。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1064,
+    "word": "developed",
+    "translation": "发达",
+    "phonetic": "/dɪˈveləpt/",
+    "example": {
+      "en": "The developed is an important part of university life.",
+      "zh": "发达是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1065,
+    "word": "advanced",
+    "translation": "先进",
+    "phonetic": "/ədˈvɑːnst/",
+    "example": {
+      "en": "The professor discussed advanced in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了先进。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1066,
+    "word": "modern",
+    "translation": "现代",
+    "phonetic": "/ˈmɒdn/",
+    "example": {
+      "en": "The modern is an important part of university life.",
+      "zh": "现代是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1067,
+    "word": "contemporary",
+    "translation": "当代",
+    "phonetic": "/kənˈtemprəri/",
+    "example": {
+      "en": "Students need to understand contemporary in their studies.",
+      "zh": "学生在学习中需要理解当代。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1068,
+    "word": "current",
+    "translation": "当前",
+    "phonetic": "/ˈkʌrənt/",
+    "example": {
+      "en": "The current is an important part of university life.",
+      "zh": "当前是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1069,
+    "word": "present",
+    "translation": "现在",
+    "phonetic": "/ˈpreznt/",
+    "example": {
+      "en": "Students need to understand present in their studies.",
+      "zh": "学生在学习中需要理解现在。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1070,
+    "word": "recent",
+    "translation": "最近",
+    "phonetic": "/ˈriːsnt/",
+    "example": {
+      "en": "The professor discussed recent in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了最近。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1071,
+    "word": "latest",
+    "translation": "最新",
+    "phonetic": "/ˈleɪtɪst/",
+    "example": {
+      "en": "The latest is an important part of university life.",
+      "zh": "最新是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1072,
+    "word": "new",
+    "translation": "新的",
+    "phonetic": "/njuː/",
+    "example": {
+      "en": "The new is an important part of university life.",
+      "zh": "新的是大学生活的重要组成部分。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1073,
+    "word": "fresh",
+    "translation": "新鲜",
+    "phonetic": "/freʃ/",
+    "example": {
+      "en": "Students need to understand fresh in their studies.",
+      "zh": "学生在学习中需要理解新鲜。"
+    },
+    "day": 25
+  },
+  {
+    "id": 1074,
+    "word": "novel",
+    "translation": "新颖",
+    "phonetic": "/ˈnɒvl/",
+    "example": {
+      "en": "The professor discussed novel in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了新颖。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1075,
+    "word": "original",
+    "translation": "原创",
+    "phonetic": "/əˈrɪdʒənl/",
+    "example": {
+      "en": "The professor discussed original in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了原创。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1076,
+    "word": "unique",
+    "translation": "独特",
+    "phonetic": "/juˈniːk/",
+    "example": {
+      "en": "Students need to understand unique in their studies.",
+      "zh": "学生在学习中需要理解独特。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1077,
+    "word": "distinctive",
+    "translation": "独特",
+    "phonetic": "/dɪˈstɪŋktɪv/",
+    "example": {
+      "en": "The distinctive is an important part of university life.",
+      "zh": "独特是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1078,
+    "word": "special",
+    "translation": "特殊",
+    "phonetic": "/ˈspeʃl/",
+    "example": {
+      "en": "The special is an important part of university life.",
+      "zh": "特殊是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1079,
+    "word": "particular",
+    "translation": "特定",
+    "phonetic": "/pəˈtɪkjələ(r)/",
+    "example": {
+      "en": "Students need to understand particular in their studies.",
+      "zh": "学生在学习中需要理解特定。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1080,
+    "word": "individual",
+    "translation": "个人",
+    "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+    "example": {
+      "en": "The professor discussed individual in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了个人。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1081,
+    "word": "single",
+    "translation": "单一",
+    "phonetic": "/ˈsɪŋɡl/",
+    "example": {
+      "en": "The professor discussed single in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了单一。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1082,
+    "word": "sole",
+    "translation": "唯一",
+    "phonetic": "/səʊl/",
+    "example": {
+      "en": "The professor discussed sole in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了唯一。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1083,
+    "word": "only",
+    "translation": "仅仅",
+    "phonetic": "/ˈəʊnli/",
+    "example": {
+      "en": "The only is an important part of university life.",
+      "zh": "仅仅是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1084,
+    "word": "alone",
+    "translation": "独自",
+    "phonetic": "/əˈləʊn/",
+    "example": {
+      "en": "The professor discussed alone in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了独自。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1085,
+    "word": "lonely",
+    "translation": "孤独",
+    "phonetic": "/ˈləʊnli/",
+    "example": {
+      "en": "The professor discussed lonely in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了孤独。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1086,
+    "word": "isolated",
+    "translation": "孤立",
+    "phonetic": "/ˈaɪsəleɪtɪd/",
+    "example": {
+      "en": "Students need to understand isolated in their studies.",
+      "zh": "学生在学习中需要理解孤立。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1087,
+    "word": "remote",
+    "translation": "偏远",
+    "phonetic": "/rɪˈməʊt/",
+    "example": {
+      "en": "The remote is an important part of university life.",
+      "zh": "偏远是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1088,
+    "word": "distant",
+    "translation": "遥远",
+    "phonetic": "/ˈdɪstənt/",
+    "example": {
+      "en": "The professor discussed distant in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了遥远。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1089,
+    "word": "far",
+    "translation": "远的",
+    "phonetic": "/fɑː(r)/",
+    "example": {
+      "en": "The far is an important part of university life.",
+      "zh": "远的是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1090,
+    "word": "near",
+    "translation": "近的",
+    "phonetic": "/nɪə(r)/",
+    "example": {
+      "en": "The near is an important part of university life.",
+      "zh": "近的是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1091,
+    "word": "close",
+    "translation": "接近",
+    "phonetic": "/kləʊs/",
+    "example": {
+      "en": "The professor discussed close in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了接近。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1092,
+    "word": "adjacent",
+    "translation": "邻近",
+    "phonetic": "/əˈdʒeɪsnt/",
+    "example": {
+      "en": "Students need to understand adjacent in their studies.",
+      "zh": "学生在学习中需要理解邻近。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1093,
+    "word": "neighboring",
+    "translation": "相邻",
+    "phonetic": "/ˈneɪbərɪŋ/",
+    "example": {
+      "en": "The neighboring is an important part of university life.",
+      "zh": "相邻是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1094,
+    "word": "nearby",
+    "translation": "附近",
+    "phonetic": "/ˌnɪəˈbaɪ/",
+    "example": {
+      "en": "Students need to understand nearby in their studies.",
+      "zh": "学生在学习中需要理解附近。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1095,
+    "word": "surrounding",
+    "translation": "周围",
+    "phonetic": "/səˈraʊndɪŋ/",
+    "example": {
+      "en": "The professor discussed surrounding in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了周围。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1096,
+    "word": "environment",
+    "translation": "环境",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "example": {
+      "en": "Students need to understand environment in their studies.",
+      "zh": "学生在学习中需要理解环境。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1097,
+    "word": "setting",
+    "translation": "环境",
+    "phonetic": "/ˈsetɪŋ/",
+    "example": {
+      "en": "The professor discussed setting in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了环境。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1098,
+    "word": "context",
+    "translation": "背景",
+    "phonetic": "/ˈkɒntekst/",
+    "example": {
+      "en": "The context is an important part of university life.",
+      "zh": "背景是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1099,
+    "word": "background",
+    "translation": "背景",
+    "phonetic": "/ˈbækɡraʊnd/",
+    "example": {
+      "en": "The background is an important part of university life.",
+      "zh": "背景是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1100,
+    "word": "history",
+    "translation": "历史",
+    "phonetic": "/ˈhɪstri/",
+    "example": {
+      "en": "The history is an important part of university life.",
+      "zh": "历史是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1101,
+    "word": "past",
+    "translation": "过去",
+    "phonetic": "/pɑːst/",
+    "example": {
+      "en": "Students need to understand past in their studies.",
+      "zh": "学生在学习中需要理解过去。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1102,
+    "word": "previous",
+    "translation": "之前",
+    "phonetic": "/ˈpriːviəs/",
+    "example": {
+      "en": "The professor discussed previous in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了之前。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1103,
+    "word": "former",
+    "translation": "以前",
+    "phonetic": "/ˈfɔːmə(r)/",
+    "example": {
+      "en": "The former is an important part of university life.",
+      "zh": "以前是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1104,
+    "word": "prior",
+    "translation": "先前",
+    "phonetic": "/ˈpraɪə(r)/",
+    "example": {
+      "en": "The prior is an important part of university life.",
+      "zh": "先前是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1105,
+    "word": "earlier",
+    "translation": "更早",
+    "phonetic": "/ˈɜːliə(r)/",
+    "example": {
+      "en": "The earlier is an important part of university life.",
+      "zh": "更早是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1106,
+    "word": "before",
+    "translation": "之前",
+    "phonetic": "/bɪˈfɔː(r)/",
+    "example": {
+      "en": "Students need to understand before in their studies.",
+      "zh": "学生在学习中需要理解之前。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1107,
+    "word": "after",
+    "translation": "之后",
+    "phonetic": "/ˈɑːftə(r)/",
+    "example": {
+      "en": "Students need to understand after in their studies.",
+      "zh": "学生在学习中需要理解之后。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1108,
+    "word": "later",
+    "translation": "后来",
+    "phonetic": "/ˈleɪtə(r)/",
+    "example": {
+      "en": "Students need to understand later in their studies.",
+      "zh": "学生在学习中需要理解后来。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1109,
+    "word": "following",
+    "translation": "接下来",
+    "phonetic": "/ˈfɒləʊɪŋ/",
+    "example": {
+      "en": "The professor discussed following in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了接下来。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1110,
+    "word": "next",
+    "translation": "下一个",
+    "phonetic": "/nekst/",
+    "example": {
+      "en": "Students need to understand next in their studies.",
+      "zh": "学生在学习中需要理解下一个。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1111,
+    "word": "subsequent",
+    "translation": "后续",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "example": {
+      "en": "The subsequent is an important part of university life.",
+      "zh": "后续是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1112,
+    "word": "future",
+    "translation": "未来",
+    "phonetic": "/ˈfjuːtʃə(r)/",
+    "example": {
+      "en": "The future is an important part of university life.",
+      "zh": "未来是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1113,
+    "word": "coming",
+    "translation": "即将",
+    "phonetic": "/ˈkʌmɪŋ/",
+    "example": {
+      "en": "The professor discussed coming in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了即将。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1114,
+    "word": "approaching",
+    "translation": "接近",
+    "phonetic": "/əˈprəʊtʃɪŋ/",
+    "example": {
+      "en": "The approaching is an important part of university life.",
+      "zh": "接近是大学生活的重要组成部分。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1115,
+    "word": "imminent",
+    "translation": "即将发生",
+    "phonetic": "/ˈɪmɪnənt/",
+    "example": {
+      "en": "The professor discussed imminent in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了即将发生。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1116,
+    "word": "impending",
+    "translation": "即将来临",
+    "phonetic": "/ɪmˈpendɪŋ/",
+    "example": {
+      "en": "Students need to understand impending in their studies.",
+      "zh": "学生在学习中需要理解即将来临。"
+    },
+    "day": 26
+  },
+  {
+    "id": 1117,
+    "word": "upcoming",
+    "translation": "即将到来",
+    "phonetic": "/ˌʌpˈkʌmɪŋ/",
+    "example": {
+      "en": "The professor discussed upcoming in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了即将到来。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1118,
+    "word": "forthcoming",
+    "translation": "即将到来",
+    "phonetic": "/ˌfɔːθˈkʌmɪŋ/",
+    "example": {
+      "en": "The forthcoming is an important part of university life.",
+      "zh": "即将到来是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1119,
+    "word": "prospective",
+    "translation": "预期",
+    "phonetic": "/prəˈspektɪv/",
+    "example": {
+      "en": "The professor discussed prospective in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了预期。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1120,
+    "word": "potential",
+    "translation": "潜在",
+    "phonetic": "/pəˈtenʃl/",
+    "example": {
+      "en": "The potential is an important part of university life.",
+      "zh": "潜在是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1121,
+    "word": "possible",
+    "translation": "可能",
+    "phonetic": "/ˈpɒsəbl/",
+    "example": {
+      "en": "The professor discussed possible in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了可能。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1122,
+    "word": "probable",
+    "translation": "很可能",
+    "phonetic": "/ˈprɒbəbl/",
+    "example": {
+      "en": "The probable is an important part of university life.",
+      "zh": "很可能是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1123,
+    "word": "likely",
+    "translation": "可能",
+    "phonetic": "/ˈlaɪkli/",
+    "example": {
+      "en": "Students need to understand likely in their studies.",
+      "zh": "学生在学习中需要理解可能。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1124,
+    "word": "unlikely",
+    "translation": "不太可能",
+    "phonetic": "/ʌnˈlaɪkli/",
+    "example": {
+      "en": "The unlikely is an important part of university life.",
+      "zh": "不太可能是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1125,
+    "word": "impossible",
+    "translation": "不可能",
+    "phonetic": "/ɪmˈpɒsəbl/",
+    "example": {
+      "en": "The impossible is an important part of university life.",
+      "zh": "不可能是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1126,
+    "word": "improbable",
+    "translation": "不大可能",
+    "phonetic": "/ɪmˈprɒbəbl/",
+    "example": {
+      "en": "The improbable is an important part of university life.",
+      "zh": "不大可能是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1127,
+    "word": "feasible",
+    "translation": "可行",
+    "phonetic": "/ˈfiːzəbl/",
+    "example": {
+      "en": "The feasible is an important part of university life.",
+      "zh": "可行是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1128,
+    "word": "viable",
+    "translation": "可行",
+    "phonetic": "/ˈvaɪəbl/",
+    "example": {
+      "en": "Students need to understand viable in their studies.",
+      "zh": "学生在学习中需要理解可行。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1129,
+    "word": "practical",
+    "translation": "实际",
+    "phonetic": "/ˈpræktɪkl/",
+    "example": {
+      "en": "The professor discussed practical in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了实际。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1130,
+    "word": "realistic",
+    "translation": "现实",
+    "phonetic": "/ˌrɪəˈlɪstɪk/",
+    "example": {
+      "en": "Students need to understand realistic in their studies.",
+      "zh": "学生在学习中需要理解现实。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1131,
+    "word": "actual",
+    "translation": "实际",
+    "phonetic": "/ˈæktʃuəl/",
+    "example": {
+      "en": "The professor discussed actual in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了实际。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1132,
+    "word": "real",
+    "translation": "真实",
+    "phonetic": "/rɪəl/",
+    "example": {
+      "en": "The real is an important part of university life.",
+      "zh": "真实是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1133,
+    "word": "genuine",
+    "translation": "真正",
+    "phonetic": "/ˈdʒenjuɪn/",
+    "example": {
+      "en": "The professor discussed genuine in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了真正。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1134,
+    "word": "authentic",
+    "translation": "真实",
+    "phonetic": "/ɔːˈθentɪk/",
+    "example": {
+      "en": "The authentic is an important part of university life.",
+      "zh": "真实是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1135,
+    "word": "true",
+    "translation": "真的",
+    "phonetic": "/truː/",
+    "example": {
+      "en": "The professor discussed true in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了真的。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1136,
+    "word": "false",
+    "translation": "假的",
+    "phonetic": "/fɔːls/",
+    "example": {
+      "en": "Students need to understand false in their studies.",
+      "zh": "学生在学习中需要理解假的。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1137,
+    "word": "fake",
+    "translation": "伪造",
+    "phonetic": "/feɪk/",
+    "example": {
+      "en": "The fake is an important part of university life.",
+      "zh": "伪造是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1138,
+    "word": "artificial",
+    "translation": "人造",
+    "phonetic": "/ˌɑːtɪˈfɪʃl/",
+    "example": {
+      "en": "The professor discussed artificial in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了人造。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1139,
+    "word": "synthetic",
+    "translation": "合成",
+    "phonetic": "/sɪnˈθetɪk/",
+    "example": {
+      "en": "The professor discussed synthetic in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了合成。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1140,
+    "word": "natural",
+    "translation": "自然",
+    "phonetic": "/ˈnætʃrəl/",
+    "example": {
+      "en": "Students need to understand natural in their studies.",
+      "zh": "学生在学习中需要理解自然。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1141,
+    "word": "organic",
+    "translation": "有机",
+    "phonetic": "/ɔːˈɡænɪk/",
+    "example": {
+      "en": "Students need to understand organic in their studies.",
+      "zh": "学生在学习中需要理解有机。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1142,
+    "word": "biological",
+    "translation": "生物",
+    "phonetic": "/ˌbaɪəˈlɒdʒɪkl/",
+    "example": {
+      "en": "Students need to understand biological in their studies.",
+      "zh": "学生在学习中需要理解生物。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1143,
+    "word": "physical",
+    "translation": "物理",
+    "phonetic": "/ˈfɪzɪkl/",
+    "example": {
+      "en": "The professor discussed physical in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了物理。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1144,
+    "word": "material",
+    "translation": "物质",
+    "phonetic": "/məˈtɪəriəl/",
+    "example": {
+      "en": "Students need to understand material in their studies.",
+      "zh": "学生在学习中需要理解物质。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1145,
+    "word": "substantial",
+    "translation": "实质",
+    "phonetic": "/səbˈstænʃl/",
+    "example": {
+      "en": "The professor discussed substantial in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了实质。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1146,
+    "word": "considerable",
+    "translation": "相当大",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "example": {
+      "en": "The considerable is an important part of university life.",
+      "zh": "相当大是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1147,
+    "word": "significant",
+    "translation": "重要",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "example": {
+      "en": "Students need to understand significant in their studies.",
+      "zh": "学生在学习中需要理解重要。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1148,
+    "word": "important",
+    "translation": "重要",
+    "phonetic": "/ɪmˈpɔːtnt/",
+    "example": {
+      "en": "The professor discussed important in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了重要。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1149,
+    "word": "crucial",
+    "translation": "关键",
+    "phonetic": "/ˈkruːʃl/",
+    "example": {
+      "en": "Students need to understand crucial in their studies.",
+      "zh": "学生在学习中需要理解关键。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1150,
+    "word": "critical",
+    "translation": "关键",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "example": {
+      "en": "The critical is an important part of university life.",
+      "zh": "关键是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1151,
+    "word": "vital",
+    "translation": "至关重要",
+    "phonetic": "/ˈvaɪtl/",
+    "example": {
+      "en": "The professor discussed vital in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了至关重要。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1152,
+    "word": "essential",
+    "translation": "基本",
+    "phonetic": "/ɪˈsenʃl/",
+    "example": {
+      "en": "The essential is an important part of university life.",
+      "zh": "基本是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1153,
+    "word": "key",
+    "translation": "关键",
+    "phonetic": "/kiː/",
+    "example": {
+      "en": "The key is an important part of university life.",
+      "zh": "关键是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1154,
+    "word": "main",
+    "translation": "主要",
+    "phonetic": "/meɪn/",
+    "example": {
+      "en": "The professor discussed main in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了主要。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1155,
+    "word": "primary",
+    "translation": "首要",
+    "phonetic": "/ˈpraɪməri/",
+    "example": {
+      "en": "Students need to understand primary in their studies.",
+      "zh": "学生在学习中需要理解首要。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1156,
+    "word": "principal",
+    "translation": "主要",
+    "phonetic": "/ˈprɪnsəpl/",
+    "example": {
+      "en": "Students need to understand principal in their studies.",
+      "zh": "学生在学习中需要理解主要。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1157,
+    "word": "chief",
+    "translation": "主要",
+    "phonetic": "/tʃiːf/",
+    "example": {
+      "en": "Students need to understand chief in their studies.",
+      "zh": "学生在学习中需要理解主要。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1158,
+    "word": "major",
+    "translation": "主要",
+    "phonetic": "/ˈmeɪdʒə(r)/",
+    "example": {
+      "en": "The major is an important part of university life.",
+      "zh": "主要是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1159,
+    "word": "minor",
+    "translation": "次要",
+    "phonetic": "/ˈmaɪnə(r)/",
+    "example": {
+      "en": "The minor is an important part of university life.",
+      "zh": "次要是大学生活的重要组成部分。"
+    },
+    "day": 27
+  },
+  {
+    "id": 1160,
+    "word": "secondary",
+    "translation": "次要",
+    "phonetic": "/ˈsekəndri/",
+    "example": {
+      "en": "The secondary is an important part of university life.",
+      "zh": "次要是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1161,
+    "word": "subsidiary",
+    "translation": "附属",
+    "phonetic": "/səbˈsɪdiəri/",
+    "example": {
+      "en": "Students need to understand subsidiary in their studies.",
+      "zh": "学生在学习中需要理解附属。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1162,
+    "word": "auxiliary",
+    "translation": "辅助",
+    "phonetic": "/ɔːɡˈzɪliəri/",
+    "example": {
+      "en": "Students need to understand auxiliary in their studies.",
+      "zh": "学生在学习中需要理解辅助。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1163,
+    "word": "supplementary",
+    "translation": "补充",
+    "phonetic": "/ˌsʌplɪˈmentri/",
+    "example": {
+      "en": "The professor discussed supplementary in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了补充。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1164,
+    "word": "additional",
+    "translation": "额外",
+    "phonetic": "/əˈdɪʃənl/",
+    "example": {
+      "en": "The professor discussed additional in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了额外。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1165,
+    "word": "extra",
+    "translation": "额外",
+    "phonetic": "/ˈekstrə/",
+    "example": {
+      "en": "The extra is an important part of university life.",
+      "zh": "额外是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1166,
+    "word": "spare",
+    "translation": "备用",
+    "phonetic": "/speə(r)/",
+    "example": {
+      "en": "The professor discussed spare in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了备用。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1167,
+    "word": "surplus",
+    "translation": "多余",
+    "phonetic": "/ˈsɜːpləs/",
+    "example": {
+      "en": "The professor discussed surplus in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了多余。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1168,
+    "word": "excess",
+    "translation": "过量",
+    "phonetic": "/ɪkˈses/",
+    "example": {
+      "en": "The professor discussed excess in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了过量。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1169,
+    "word": "excessive",
+    "translation": "过度",
+    "phonetic": "/ɪkˈsesɪv/",
+    "example": {
+      "en": "Students need to understand excessive in their studies.",
+      "zh": "学生在学习中需要理解过度。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1170,
+    "word": "extreme",
+    "translation": "极端",
+    "phonetic": "/ɪkˈstriːm/",
+    "example": {
+      "en": "The professor discussed extreme in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了极端。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1171,
+    "word": "intense",
+    "translation": "强烈",
+    "phonetic": "/ɪnˈtens/",
+    "example": {
+      "en": "Students need to understand intense in their studies.",
+      "zh": "学生在学习中需要理解强烈。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1172,
+    "word": "severe",
+    "translation": "严重",
+    "phonetic": "/sɪˈvɪə(r)/",
+    "example": {
+      "en": "The severe is an important part of university life.",
+      "zh": "严重是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1173,
+    "word": "serious",
+    "translation": "严肃",
+    "phonetic": "/ˈsɪəriəs/",
+    "example": {
+      "en": "The professor discussed serious in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了严肃。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1174,
+    "word": "grave",
+    "translation": "严重",
+    "phonetic": "/ɡreɪv/",
+    "example": {
+      "en": "Students need to understand grave in their studies.",
+      "zh": "学生在学习中需要理解严重。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1175,
+    "word": "urgent",
+    "translation": "紧急",
+    "phonetic": "/ˈɜːdʒənt/",
+    "example": {
+      "en": "The urgent is an important part of university life.",
+      "zh": "紧急是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1176,
+    "word": "pressing",
+    "translation": "紧迫",
+    "phonetic": "/ˈpresɪŋ/",
+    "example": {
+      "en": "The professor discussed pressing in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了紧迫。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1177,
+    "word": "immediate",
+    "translation": "立即",
+    "phonetic": "/ɪˈmiːdiət/",
+    "example": {
+      "en": "The immediate is an important part of university life.",
+      "zh": "立即是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1178,
+    "word": "instant",
+    "translation": "立刻",
+    "phonetic": "/ˈɪnstənt/",
+    "example": {
+      "en": "The instant is an important part of university life.",
+      "zh": "立刻是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1179,
+    "word": "prompt",
+    "translation": "迅速",
+    "phonetic": "/prɒmpt/",
+    "example": {
+      "en": "Students need to understand prompt in their studies.",
+      "zh": "学生在学习中需要理解迅速。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1180,
+    "word": "quick",
+    "translation": "快速",
+    "phonetic": "/kwɪk/",
+    "example": {
+      "en": "Students need to understand quick in their studies.",
+      "zh": "学生在学习中需要理解快速。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1181,
+    "word": "rapid",
+    "translation": "迅速",
+    "phonetic": "/ˈræpɪd/",
+    "example": {
+      "en": "The professor discussed rapid in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了迅速。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1182,
+    "word": "swift",
+    "translation": "快的",
+    "phonetic": "/swɪft/",
+    "example": {
+      "en": "The professor discussed swift in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了快的。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1183,
+    "word": "fast",
+    "translation": "快的",
+    "phonetic": "/fɑːst/",
+    "example": {
+      "en": "The professor discussed fast in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了快的。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1184,
+    "word": "slow",
+    "translation": "慢的",
+    "phonetic": "/sləʊ/",
+    "example": {
+      "en": "The slow is an important part of university life.",
+      "zh": "慢的是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1185,
+    "word": "gradual",
+    "translation": "逐渐",
+    "phonetic": "/ˈɡrædʒuəl/",
+    "example": {
+      "en": "The gradual is an important part of university life.",
+      "zh": "逐渐是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1186,
+    "word": "progressive",
+    "translation": "渐进",
+    "phonetic": "/prəˈɡresɪv/",
+    "example": {
+      "en": "The professor discussed progressive in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了渐进。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1187,
+    "word": "incremental",
+    "translation": "增量",
+    "phonetic": "/ˌɪŋkrəˈmentl/",
+    "example": {
+      "en": "The incremental is an important part of university life.",
+      "zh": "增量是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1188,
+    "word": "gradual",
+    "translation": "渐进",
+    "phonetic": "/ˈɡrædʒuəl/",
+    "example": {
+      "en": "Students need to understand gradual in their studies.",
+      "zh": "学生在学习中需要理解渐进。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1189,
+    "word": "steady",
+    "translation": "稳步",
+    "phonetic": "/ˈstedi/",
+    "example": {
+      "en": "Students need to understand steady in their studies.",
+      "zh": "学生在学习中需要理解稳步。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1190,
+    "word": "consistent",
+    "translation": "一致",
+    "phonetic": "/kənˈsɪstənt/",
+    "example": {
+      "en": "The consistent is an important part of university life.",
+      "zh": "一致是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1191,
+    "word": "uniform",
+    "translation": "统一",
+    "phonetic": "/ˈjuːnɪfɔːm/",
+    "example": {
+      "en": "The professor discussed uniform in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了统一。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1192,
+    "word": "equal",
+    "translation": "平等",
+    "phonetic": "/ˈiːkwəl/",
+    "example": {
+      "en": "Students need to understand equal in their studies.",
+      "zh": "学生在学习中需要理解平等。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1193,
+    "word": "identical",
+    "translation": "相同",
+    "phonetic": "/aɪˈdentɪkl/",
+    "example": {
+      "en": "The identical is an important part of university life.",
+      "zh": "相同是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1194,
+    "word": "same",
+    "translation": "相同",
+    "phonetic": "/seɪm/",
+    "example": {
+      "en": "The same is an important part of university life.",
+      "zh": "相同是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1195,
+    "word": "similar",
+    "translation": "相似",
+    "phonetic": "/ˈsɪmələ(r)/",
+    "example": {
+      "en": "The professor discussed similar in today's lecture.",
+      "zh": "教授在今天的讲座中讨论了相似。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1196,
+    "word": "alike",
+    "translation": "相像",
+    "phonetic": "/əˈlaɪk/",
+    "example": {
+      "en": "Students need to understand alike in their studies.",
+      "zh": "学生在学习中需要理解相像。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1197,
+    "word": "comparable",
+    "translation": "可比",
+    "phonetic": "/ˈkɒmpərəbl/",
+    "example": {
+      "en": "The comparable is an important part of university life.",
+      "zh": "可比是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1198,
+    "word": "equivalent",
+    "translation": "等价",
+    "phonetic": "/ɪˈkwɪvələnt/",
+    "example": {
+      "en": "The equivalent is an important part of university life.",
+      "zh": "等价是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1199,
+    "word": "different",
+    "translation": "不同",
+    "phonetic": "/ˈdɪfrənt/",
+    "example": {
+      "en": "The different is an important part of university life.",
+      "zh": "不同是大学生活的重要组成部分。"
+    },
+    "day": 28
+  },
+  {
+    "id": 1200,
+    "word": "diverse",
+    "translation": "多样",
+    "phonetic": "/daɪˈvɜːs/",
+    "example": {
+      "en": "Students need to understand diverse in their studies.",
+      "zh": "学生在学习中需要理解多样。"
+    },
+    "day": 28
   }
 ]
