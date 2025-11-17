@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import WordCard from '@/components/WordCard';
+import WordQuiz from '@/components/WordQuiz';
 import StatusButtons from '@/components/StatusButtons';
 import RecordButton from '@/components/RecordButton';
 import { Word, LearnRecord, LearnStatus } from '@/types';
@@ -29,6 +30,7 @@ import wordsData from '@/data/words.json';
 export default function HomePage() {
   const router = useRouter();
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
+  const [quizPassed, setQuizPassed] = useState(false);
   const [settings, setSettings] = useState(getUserSettings());
   const [learnRecords, setLearnRecords] = useState(getLearnRecords());
   const [sessionStart] = useState(() => {
@@ -146,6 +148,7 @@ export default function HomePage() {
     // 自动前往下一个单词
     if (currentWordIndex < todayWords.length - 1) {
       setCurrentWordIndex(currentWordIndex + 1);
+      setQuizPassed(false); // 重置测验状态
     }
   };
 
@@ -167,13 +170,19 @@ export default function HomePage() {
   const handlePrevious = () => {
     if (currentWordIndex > 0) {
       setCurrentWordIndex(currentWordIndex - 1);
+      setQuizPassed(false); // 重置测验状态
     }
   };
 
   const handleNext = () => {
     if (currentWordIndex < todayWords.length - 1) {
       setCurrentWordIndex(currentWordIndex + 1);
+      setQuizPassed(false); // 重置测验状态
     }
+  };
+
+  const handleQuizCorrect = () => {
+    setQuizPassed(true);
   };
 
   if (!currentWord) {
@@ -219,9 +228,17 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* 单词卡片 */}
+      {/* 单词测验或卡片 */}
       <div className="flex-1 flex items-center justify-center mb-6">
-        <WordCard word={currentWord} accent={settings.voiceAccent} speechRate={settings.speechRate} />
+        {!quizPassed ? (
+          <WordQuiz
+            word={currentWord}
+            allWords={wordsData as Word[]}
+            onCorrect={handleQuizCorrect}
+          />
+        ) : (
+          <WordCard word={currentWord} accent={settings.voiceAccent} speechRate={settings.speechRate} />
+        )}
       </div>
 
       {/* 导航按钮 */}
@@ -253,28 +270,32 @@ export default function HomePage() {
         </button>
       </div>
 
-      {/* 状态按钮 */}
-      <div className="mb-6">
-        <StatusButtons
-          currentStatus={currentRecord?.status}
-          onStatusChange={handleStatusChange}
-        />
-      </div>
+      {/* 状态按钮 - 只在通过测验后显示 */}
+      {quizPassed && (
+        <div className="mb-6">
+          <StatusButtons
+            currentStatus={currentRecord?.status}
+            onStatusChange={handleStatusChange}
+          />
+        </div>
+      )}
 
-      {/* 录音功能 */}
-      <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
-        <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4 text-center">
-          跟读练习
-        </h3>
-        <RecordButton
-          onRecordingComplete={handleRecordingComplete}
-          latestRecording={
-            currentRecord?.recordings[currentRecord.recordings.length - 1]
-          }
-          expectedText={currentWord.example.en}
-          accent={settings.voiceAccent}
-        />
-      </div>
+      {/* 录音功能 - 只在通过测验后显示 */}
+      {quizPassed && (
+        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
+          <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4 text-center">
+            跟读练习
+          </h3>
+          <RecordButton
+            onRecordingComplete={handleRecordingComplete}
+            latestRecording={
+              currentRecord?.recordings[currentRecord.recordings.length - 1]
+            }
+            expectedText={currentWord.example.en}
+            accent={settings.voiceAccent}
+          />
+        </div>
+      )}
     </div>
   );
 }
