@@ -46,8 +46,8 @@ export default function HomePage() {
 
   // Restore learning position from database
   useEffect(() => {
-    if (!progressLoading && progress && !isInitialized) {
-      const savedIndex = progress.current_word_index || 0;
+    if (!progressLoading && !isInitialized) {
+      const savedIndex = progress?.current_word_index || 0;
       setCurrentWordIndex(savedIndex);
       setIsInitialized(true);
     }
