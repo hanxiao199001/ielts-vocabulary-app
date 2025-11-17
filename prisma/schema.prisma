@@ -1,0 +1,70 @@
+// Prisma schema file for IELTS Vocabulary App
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id            String   @id @default(cuid())
+  email         String   @unique
+  password      String
+  name          String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  wordRecords   WordRecord[]
+  dailyProgress DailyProgress[]
+  settings      UserSettings?
+}
+
+model WordRecord {
+  id              String   @id @default(cuid())
+  userId          String
+  wordId          Int
+  status          String   // "new", "learning", "familiar", "mastered"
+  lastReviewDate  DateTime @default(now())
+  nextReviewDate  DateTime?
+  reviewCount     Int      @default(0)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+  @@index([userId, status])
+  @@index([userId, nextReviewDate])
+}
+
+model DailyProgress {
+  id            String   @id @default(cuid())
+  userId        String
+  date          String   // Format: YYYY-MM-DD
+  wordsLearned  Int      @default(0)
+  wordsReviewed Int      @default(0)
+  quizPassed    Int      @default(0)
+  studyTime     Int      @default(0) // in minutes
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, date])
+  @@index([userId, date])
+}
+
+model UserSettings {
+  id          String   @id @default(cuid())
+  userId      String   @unique
+  voiceAccent String   @default("US") // "US" or "GB"
+  speechRate  Float    @default(1.0)
+  dailyGoal   Int      @default(50)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
