@@ -2198,5 +2198,4405 @@
       "zh": "离开时记得锁好你的房间。"
     },
     "day": 4
+  },
+  {
+    "id": 201,
+    "word": "trouble",
+    "translation": "麻烦",
+    "phonetic": "/ˈtrʌbl/",
+    "example": {
+      "en": "The trouble is an important part of university life.",
+      "zh": "麻烦是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 202,
+    "word": "vegetarian",
+    "translation": "素食主义者",
+    "phonetic": "/ˌvedʒəˈteəriən/",
+    "example": {
+      "en": "The vegetarian is an important part of university life.",
+      "zh": "素食主义者是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 203,
+    "word": "hall",
+    "translation": "大厅",
+    "phonetic": "/hɔːl/",
+    "example": {
+      "en": "The hall is an important part of university life.",
+      "zh": "大厅是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 204,
+    "word": "occupation",
+    "translation": "职业",
+    "phonetic": "/ˌɒkjuˈpeɪʃn/",
+    "example": {
+      "en": "The occupation is an important part of university life.",
+      "zh": "职业是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 205,
+    "word": "communication",
+    "translation": "交流",
+    "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+    "example": {
+      "en": "The communication is an important part of university life.",
+      "zh": "交流是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 206,
+    "word": "existing",
+    "translation": "存在",
+    "phonetic": "/ɪɡˈzɪstɪŋ/",
+    "example": {
+      "en": "The existing is an important part of university life.",
+      "zh": "存在是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 207,
+    "word": "international",
+    "translation": "国际的",
+    "phonetic": "/ˌɪntəˈnæʃnəl/",
+    "example": {
+      "en": "The international is an important part of university life.",
+      "zh": "国际的是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 208,
+    "word": "fancy",
+    "translation": "喜欢",
+    "phonetic": "/ˈfænsi/",
+    "example": {
+      "en": "The fancy is an important part of university life.",
+      "zh": "喜欢是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 209,
+    "word": "firm",
+    "translation": "公司",
+    "phonetic": "/fɜːm/",
+    "example": {
+      "en": "The firm is an important part of university life.",
+      "zh": "公司是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 210,
+    "word": "natural",
+    "translation": "自然的",
+    "phonetic": "/ˈnætʃrəl/",
+    "example": {
+      "en": "The natural is an important part of university life.",
+      "zh": "自然的是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 211,
+    "word": "solution",
+    "translation": "解决",
+    "phonetic": "/səˈluːʃn/",
+    "example": {
+      "en": "The solution is an important part of university life.",
+      "zh": "解决是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 212,
+    "word": "priority",
+    "translation": "优先",
+    "phonetic": "/praɪˈɒrəti/",
+    "example": {
+      "en": "The priority is an important part of university life.",
+      "zh": "优先是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 213,
+    "word": "sale",
+    "translation": "销售",
+    "phonetic": "/seɪl/",
+    "example": {
+      "en": "The sale is an important part of university life.",
+      "zh": "销售是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 214,
+    "word": "exhibition",
+    "translation": "展览",
+    "phonetic": "/ˌeksɪˈbɪʃn/",
+    "example": {
+      "en": "The exhibition is an important part of university life.",
+      "zh": "展览是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 215,
+    "word": "recruit",
+    "translation": "招聘",
+    "phonetic": "/rɪˈkruːt/",
+    "example": {
+      "en": "The recruit is an important part of university life.",
+      "zh": "招聘是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 216,
+    "word": "various",
+    "translation": "各种的",
+    "phonetic": "/ˈveəriəs/",
+    "example": {
+      "en": "The various is an important part of university life.",
+      "zh": "各种的是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 217,
+    "word": "credit",
+    "translation": "信用",
+    "phonetic": "/ˈkredɪt/",
+    "example": {
+      "en": "The credit is an important part of university life.",
+      "zh": "信用是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 218,
+    "word": "travelers",
+    "translation": "游客",
+    "phonetic": "/ˈtrævələz/",
+    "example": {
+      "en": "The travelers is an important part of university life.",
+      "zh": "游客是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 219,
+    "word": "Sunday",
+    "translation": "周天",
+    "phonetic": "/ˈsʌndeɪ/",
+    "example": {
+      "en": "The Sunday is an important part of university life.",
+      "zh": "周天是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 220,
+    "word": "first",
+    "translation": "第一",
+    "phonetic": "/fɜːst/",
+    "example": {
+      "en": "The first is an important part of university life.",
+      "zh": "第一是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 221,
+    "word": "history",
+    "translation": "历史",
+    "phonetic": "/ˈhɪstri/",
+    "example": {
+      "en": "The history is an important part of university life.",
+      "zh": "历史是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 222,
+    "word": "radio",
+    "translation": "收音机",
+    "phonetic": "/ˈreɪdiəʊ/",
+    "example": {
+      "en": "The radio is an important part of university life.",
+      "zh": "收音机是大学生活的重要组成部分。"
+    },
+    "day": 5
+  },
+  {
+    "id": 223,
+    "word": "level",
+    "translation": "水平",
+    "phonetic": "/ˈlevl/",
+    "example": {
+      "en": "The level is an important part of university life.",
+      "zh": "水平是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 224,
+    "word": "drinks",
+    "translation": "饮料",
+    "phonetic": "/drɪŋks/",
+    "example": {
+      "en": "The drinks is an important part of university life.",
+      "zh": "饮料是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 225,
+    "word": "union",
+    "translation": "学生会",
+    "phonetic": "/ˈjuːniən/",
+    "example": {
+      "en": "The union is an important part of university life.",
+      "zh": "学生会是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 226,
+    "word": "offer",
+    "translation": "提供",
+    "phonetic": "/ˈɒfə(r)/",
+    "example": {
+      "en": "The offer is an important part of university life.",
+      "zh": "提供是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 227,
+    "word": "return",
+    "translation": "往返",
+    "phonetic": "/rɪˈtɜːn/",
+    "example": {
+      "en": "The return is an important part of university life.",
+      "zh": "往返是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 228,
+    "word": "quality",
+    "translation": "质量",
+    "phonetic": "/ˈkwɒləti/",
+    "example": {
+      "en": "The quality is an important part of university life.",
+      "zh": "质量是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 229,
+    "word": "language",
+    "translation": "语言",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "example": {
+      "en": "The language is an important part of university life.",
+      "zh": "语言是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 230,
+    "word": "environment",
+    "translation": "环境",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "example": {
+      "en": "The environment is an important part of university life.",
+      "zh": "环境是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 231,
+    "word": "experiment",
+    "translation": "实验",
+    "phonetic": "/ɪkˈsperɪmənt/",
+    "example": {
+      "en": "The experiment is an important part of university life.",
+      "zh": "实验是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 232,
+    "word": "readers",
+    "translation": "读者",
+    "phonetic": "/ˈriːdəz/",
+    "example": {
+      "en": "The readers is an important part of university life.",
+      "zh": "读者是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 233,
+    "word": "place",
+    "translation": "位置",
+    "phonetic": "/pleɪs/",
+    "example": {
+      "en": "The place is an important part of university life.",
+      "zh": "位置是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 234,
+    "word": "dress",
+    "translation": "服装",
+    "phonetic": "/dres/",
+    "example": {
+      "en": "The dress is an important part of university life.",
+      "zh": "服装是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 235,
+    "word": "groups",
+    "translation": "团队",
+    "phonetic": "/ɡruːps/",
+    "example": {
+      "en": "The groups is an important part of university life.",
+      "zh": "团队是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 236,
+    "word": "attacks",
+    "translation": "袭击",
+    "phonetic": "/əˈtæks/",
+    "example": {
+      "en": "The attacks is an important part of university life.",
+      "zh": "袭击是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 237,
+    "word": "studies",
+    "translation": "研究",
+    "phonetic": "/ˈstʌdiz/",
+    "example": {
+      "en": "The studies is an important part of university life.",
+      "zh": "研究是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 238,
+    "word": "suggestion",
+    "translation": "建议",
+    "phonetic": "/səˈdʒestʃən/",
+    "example": {
+      "en": "The suggestion is an important part of university life.",
+      "zh": "建议是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 239,
+    "word": "falcons",
+    "translation": "猎鹰",
+    "phonetic": "/ˈfɔːlkənz/",
+    "example": {
+      "en": "The falcons is an important part of university life.",
+      "zh": "猎鹰是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 240,
+    "word": "yellow",
+    "translation": "黄色",
+    "phonetic": "/ˈjeləʊ/",
+    "example": {
+      "en": "The yellow is an important part of university life.",
+      "zh": "黄色是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 241,
+    "word": "cleaning",
+    "translation": "清洁",
+    "phonetic": "/ˈkliːnɪŋ/",
+    "example": {
+      "en": "The cleaning is an important part of university life.",
+      "zh": "清洁是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 242,
+    "word": "management",
+    "translation": "管理",
+    "phonetic": "/ˈmænɪdʒmənt/",
+    "example": {
+      "en": "The management is an important part of university life.",
+      "zh": "管理是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 243,
+    "word": "order",
+    "translation": "命令",
+    "phonetic": "/ˈɔːdə(r)/",
+    "example": {
+      "en": "The order is an important part of university life.",
+      "zh": "命令是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 244,
+    "word": "police",
+    "translation": "警察",
+    "phonetic": "/pəˈliːs/",
+    "example": {
+      "en": "The police is an important part of university life.",
+      "zh": "警察是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 245,
+    "word": "telephone",
+    "translation": "电话",
+    "phonetic": "/ˈtelɪfəʊn/",
+    "example": {
+      "en": "The telephone is an important part of university life.",
+      "zh": "电话是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 246,
+    "word": "birds",
+    "translation": "鸟类",
+    "phonetic": "/bɜːdz/",
+    "example": {
+      "en": "The birds is an important part of university life.",
+      "zh": "鸟类是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 247,
+    "word": "clear",
+    "translation": "清楚",
+    "phonetic": "/klɪə(r)/",
+    "example": {
+      "en": "The clear is an important part of university life.",
+      "zh": "清楚是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 248,
+    "word": "bicycle",
+    "translation": "自行车",
+    "phonetic": "/ˈbaɪsɪkl/",
+    "example": {
+      "en": "The bicycle is an important part of university life.",
+      "zh": "自行车是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 249,
+    "word": "period",
+    "translation": "阶段",
+    "phonetic": "/ˈpɪəriəd/",
+    "example": {
+      "en": "The period is an important part of university life.",
+      "zh": "阶段是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 250,
+    "word": "medical",
+    "translation": "医疗的",
+    "phonetic": "/ˈmedɪkl/",
+    "example": {
+      "en": "The medical is an important part of university life.",
+      "zh": "医疗的是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 251,
+    "word": "therapy",
+    "translation": "理疗",
+    "phonetic": "/ˈθerəpi/",
+    "example": {
+      "en": "The therapy is an important part of university life.",
+      "zh": "理疗是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 252,
+    "word": "schedule",
+    "translation": "课程表",
+    "phonetic": "/ˈʃedjuːl/",
+    "example": {
+      "en": "The schedule is an important part of university life.",
+      "zh": "课程表是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 253,
+    "word": "Australian",
+    "translation": "澳大利亚人",
+    "phonetic": "/ɒˈstreɪliən/",
+    "example": {
+      "en": "The Australian is an important part of university life.",
+      "zh": "澳大利亚人是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 254,
+    "word": "British",
+    "translation": "英国人",
+    "phonetic": "/ˈbrɪtɪʃ/",
+    "example": {
+      "en": "The British is an important part of university life.",
+      "zh": "英国人是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 255,
+    "word": "reception",
+    "translation": "接待处",
+    "phonetic": "/rɪˈsepʃn/",
+    "example": {
+      "en": "The reception is an important part of university life.",
+      "zh": "接待处是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 256,
+    "word": "common",
+    "translation": "普通",
+    "phonetic": "/ˈkɒmən/",
+    "example": {
+      "en": "The common is an important part of university life.",
+      "zh": "普通是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 257,
+    "word": "jam",
+    "translation": "堵塞",
+    "phonetic": "/dʒæm/",
+    "example": {
+      "en": "The jam is an important part of university life.",
+      "zh": "堵塞是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 258,
+    "word": "jacket",
+    "translation": "夹克",
+    "phonetic": "/ˈdʒækɪt/",
+    "example": {
+      "en": "The jacket is an important part of university life.",
+      "zh": "夹克是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 259,
+    "word": "guest",
+    "translation": "客人",
+    "phonetic": "/ɡest/",
+    "example": {
+      "en": "The guest is an important part of university life.",
+      "zh": "客人是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 260,
+    "word": "feature",
+    "translation": "特点",
+    "phonetic": "/ˈfiːtʃə(r)/",
+    "example": {
+      "en": "The feature is an important part of university life.",
+      "zh": "特点是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 261,
+    "word": "point",
+    "translation": "要点",
+    "phonetic": "/pɔɪnt/",
+    "example": {
+      "en": "The point is an important part of university life.",
+      "zh": "要点是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 262,
+    "word": "color",
+    "translation": "颜色",
+    "phonetic": "/ˈkʌlə(r)/",
+    "example": {
+      "en": "The color is an important part of university life.",
+      "zh": "颜色是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 263,
+    "word": "church",
+    "translation": "教堂",
+    "phonetic": "/tʃɜːtʃ/",
+    "example": {
+      "en": "The church is an important part of university life.",
+      "zh": "教堂是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 264,
+    "word": "break",
+    "translation": "休息",
+    "phonetic": "/breɪk/",
+    "example": {
+      "en": "The break is an important part of university life.",
+      "zh": "休息是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 265,
+    "word": "stress",
+    "translation": "重音",
+    "phonetic": "/stres/",
+    "example": {
+      "en": "The stress is an important part of university life.",
+      "zh": "重音是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 266,
+    "word": "wear",
+    "translation": "穿着",
+    "phonetic": "/weə(r)/",
+    "example": {
+      "en": "The wear is an important part of university life.",
+      "zh": "穿着是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 267,
+    "word": "guy",
+    "translation": "家伙",
+    "phonetic": "/ɡaɪ/",
+    "example": {
+      "en": "The guy is an important part of university life.",
+      "zh": "家伙是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 268,
+    "word": "issues",
+    "translation": "问题",
+    "phonetic": "/ˈɪʃuːz/",
+    "example": {
+      "en": "The issues is an important part of university life.",
+      "zh": "问题是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 269,
+    "word": "awareness",
+    "translation": "意识",
+    "phonetic": "/əˈweənəs/",
+    "example": {
+      "en": "The awareness is an important part of university life.",
+      "zh": "意识是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 270,
+    "word": "phone",
+    "translation": "电话",
+    "phonetic": "/fəʊn/",
+    "example": {
+      "en": "The phone is an important part of university life.",
+      "zh": "电话是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 271,
+    "word": "employees",
+    "translation": "员工",
+    "phonetic": "/ɪmˈplɔɪiːz/",
+    "example": {
+      "en": "The employees is an important part of university life.",
+      "zh": "员工是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 272,
+    "word": "fishing",
+    "translation": "钓鱼",
+    "phonetic": "/ˈfɪʃɪŋ/",
+    "example": {
+      "en": "The fishing is an important part of university life.",
+      "zh": "钓鱼是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 273,
+    "word": "recycled",
+    "translation": "回收",
+    "phonetic": "/riːˈsaɪkld/",
+    "example": {
+      "en": "The recycled is an important part of university life.",
+      "zh": "回收是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 274,
+    "word": "discussion",
+    "translation": "讨论",
+    "phonetic": "/dɪˈskʌʃn/",
+    "example": {
+      "en": "The discussion is an important part of university life.",
+      "zh": "讨论是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 275,
+    "word": "deadline",
+    "translation": "最后期限",
+    "phonetic": "/ˈdedlaɪn/",
+    "example": {
+      "en": "The deadline is an important part of university life.",
+      "zh": "最后期限是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 276,
+    "word": "machines",
+    "translation": "机器",
+    "phonetic": "/məˈʃiːnz/",
+    "example": {
+      "en": "The machines is an important part of university life.",
+      "zh": "机器是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 277,
+    "word": "families",
+    "translation": "家庭",
+    "phonetic": "/ˈfæməliz/",
+    "example": {
+      "en": "The families is an important part of university life.",
+      "zh": "家庭是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 278,
+    "word": "complete",
+    "translation": "完成,完全的",
+    "phonetic": "/kəmˈpliːt/",
+    "example": {
+      "en": "The complete is an important part of university life.",
+      "zh": "完成,完全的是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 279,
+    "word": "cards",
+    "translation": "卡片",
+    "phonetic": "/kɑːdz/",
+    "example": {
+      "en": "The cards is an important part of university life.",
+      "zh": "卡片是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 280,
+    "word": "field",
+    "translation": "领域",
+    "phonetic": "/fiːld/",
+    "example": {
+      "en": "The field is an important part of university life.",
+      "zh": "领域是大学生活的重要组成部分。"
+    },
+    "day": 6
+  },
+  {
+    "id": 281,
+    "word": "part-time",
+    "translation": "兼职",
+    "phonetic": "/pɑːt taɪm/",
+    "example": {
+      "en": "The part-time is an important part of university life.",
+      "zh": "兼职是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 282,
+    "word": "town",
+    "translation": "小镇",
+    "phonetic": "/taʊn/",
+    "example": {
+      "en": "The town is an important part of university life.",
+      "zh": "小镇是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 283,
+    "word": "wildlife",
+    "translation": "野生动物,植物",
+    "phonetic": "/ˈwaɪldlaɪf/",
+    "example": {
+      "en": "The wildlife is an important part of university life.",
+      "zh": "野生动物,植物是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 284,
+    "word": "commission",
+    "translation": "委员会",
+    "phonetic": "/kəˈmɪʃn/",
+    "example": {
+      "en": "The commission is an important part of university life.",
+      "zh": "委员会是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 285,
+    "word": "starting",
+    "translation": "开始",
+    "phonetic": "/ˈstɑːtɪŋ/",
+    "example": {
+      "en": "The starting is an important part of university life.",
+      "zh": "开始是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 286,
+    "word": "theoretical",
+    "translation": "理论的",
+    "phonetic": "/ˌθɪəˈretɪkl/",
+    "example": {
+      "en": "The theoretical is an important part of university life.",
+      "zh": "理论的是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 287,
+    "word": "headache",
+    "translation": "头痛",
+    "phonetic": "/ˈhedeɪk/",
+    "example": {
+      "en": "The headache is an important part of university life.",
+      "zh": "头痛是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 288,
+    "word": "penny",
+    "translation": "便士",
+    "phonetic": "/ˈpeni/",
+    "example": {
+      "en": "The penny is an important part of university life.",
+      "zh": "便士是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 289,
+    "word": "insects",
+    "translation": "昆虫",
+    "phonetic": "/ˈɪnsekts/",
+    "example": {
+      "en": "The insects is an important part of university life.",
+      "zh": "昆虫是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 290,
+    "word": "shift",
+    "translation": "倒班",
+    "phonetic": "/ʃɪft/",
+    "example": {
+      "en": "The shift is an important part of university life.",
+      "zh": "倒班是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 291,
+    "word": "sample",
+    "translation": "样本",
+    "phonetic": "/ˈsɑːmpl/",
+    "example": {
+      "en": "The sample is an important part of university life.",
+      "zh": "样本是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 292,
+    "word": "pottery",
+    "translation": "瓷器",
+    "phonetic": "/ˈpɒtəri/",
+    "example": {
+      "en": "The pottery is an important part of university life.",
+      "zh": "瓷器是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 293,
+    "word": "walking",
+    "translation": "步行",
+    "phonetic": "/ˈwɔːkɪŋ/",
+    "example": {
+      "en": "The walking is an important part of university life.",
+      "zh": "步行是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 294,
+    "word": "lack",
+    "translation": "缺乏",
+    "phonetic": "/læk/",
+    "example": {
+      "en": "The lack is an important part of university life.",
+      "zh": "缺乏是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 295,
+    "word": "sense",
+    "translation": "感觉",
+    "phonetic": "/sens/",
+    "example": {
+      "en": "The sense is an important part of university life.",
+      "zh": "感觉是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 296,
+    "word": "pills",
+    "translation": "药片",
+    "phonetic": "/pɪlz/",
+    "example": {
+      "en": "The pills is an important part of university life.",
+      "zh": "药片是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 297,
+    "word": "assessment",
+    "translation": "考核",
+    "phonetic": "/əˈsesmənt/",
+    "example": {
+      "en": "The assessment is an important part of university life.",
+      "zh": "考核是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 298,
+    "word": "currency",
+    "translation": "货币",
+    "phonetic": "/ˈkʌrənsi/",
+    "example": {
+      "en": "The currency is an important part of university life.",
+      "zh": "货币是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 299,
+    "word": "assistant",
+    "translation": "助手",
+    "phonetic": "/əˈsɪstənt/",
+    "example": {
+      "en": "The assistant is an important part of university life.",
+      "zh": "助手是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 300,
+    "word": "condition",
+    "translation": "状况",
+    "phonetic": "/kənˈdɪʃn/",
+    "example": {
+      "en": "The condition is an important part of university life.",
+      "zh": "状况是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 301,
+    "word": "distance",
+    "translation": "距离",
+    "phonetic": "/ˈdɪstəns/",
+    "example": {
+      "en": "The distance is an important part of university life.",
+      "zh": "距离是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 302,
+    "word": "library",
+    "translation": "图书馆",
+    "phonetic": "/ˈlaɪbrəri/",
+    "example": {
+      "en": "The library is an important part of university life.",
+      "zh": "图书馆是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 303,
+    "word": "referee",
+    "translation": "裁判员",
+    "phonetic": "/ˌrefəˈriː/",
+    "example": {
+      "en": "The referee is an important part of university life.",
+      "zh": "裁判员是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 304,
+    "word": "vocabulary",
+    "translation": "词汇",
+    "phonetic": "/vəˈkæbjələri/",
+    "example": {
+      "en": "The vocabulary is an important part of university life.",
+      "zh": "词汇是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 305,
+    "word": "professional",
+    "translation": "专业的",
+    "phonetic": "/prəˈfeʃnəl/",
+    "example": {
+      "en": "The professional is an important part of university life.",
+      "zh": "专业的是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 306,
+    "word": "shortage",
+    "translation": "缺点",
+    "phonetic": "/ˈʃɔːtɪdʒ/",
+    "example": {
+      "en": "The shortage is an important part of university life.",
+      "zh": "缺点是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 307,
+    "word": "charge",
+    "translation": "收费",
+    "phonetic": "/tʃɑːdʒ/",
+    "example": {
+      "en": "The charge is an important part of university life.",
+      "zh": "收费是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 308,
+    "word": "central",
+    "translation": "中央的",
+    "phonetic": "/ˈsentrəl/",
+    "example": {
+      "en": "The central is an important part of university life.",
+      "zh": "中央的是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 309,
+    "word": "material",
+    "translation": "材料",
+    "phonetic": "/məˈtɪəriəl/",
+    "example": {
+      "en": "The material is an important part of university life.",
+      "zh": "材料是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 310,
+    "word": "eyesight",
+    "translation": "视力",
+    "phonetic": "/ˈaɪsaɪt/",
+    "example": {
+      "en": "The eyesight is an important part of university life.",
+      "zh": "视力是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 311,
+    "word": "feet",
+    "translation": "脚",
+    "phonetic": "/fiːt/",
+    "example": {
+      "en": "The feet is an important part of university life.",
+      "zh": "脚是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 312,
+    "word": "quarter",
+    "translation": "四分之一",
+    "phonetic": "/ˈkwɔːtə(r)/",
+    "example": {
+      "en": "The quarter is an important part of university life.",
+      "zh": "四分之一是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 313,
+    "word": "dominant",
+    "translation": "主要的",
+    "phonetic": "/ˈdɒmɪnənt/",
+    "example": {
+      "en": "The dominant is an important part of university life.",
+      "zh": "主要的是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 314,
+    "word": "visas",
+    "translation": "签证",
+    "phonetic": "/ˈviːzəz/",
+    "example": {
+      "en": "The visas is an important part of university life.",
+      "zh": "签证是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 315,
+    "word": "focus",
+    "translation": "集中",
+    "phonetic": "/ˈfəʊkəs/",
+    "example": {
+      "en": "The focus is an important part of university life.",
+      "zh": "集中是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 316,
+    "word": "physical",
+    "translation": "身体的",
+    "phonetic": "/ˈfɪzɪkl/",
+    "example": {
+      "en": "The physical is an important part of university life.",
+      "zh": "身体的是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 317,
+    "word": "sound",
+    "translation": "声音",
+    "phonetic": "/saʊnd/",
+    "example": {
+      "en": "The sound is an important part of university life.",
+      "zh": "声音是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 318,
+    "word": "speaker",
+    "translation": "演讲者",
+    "phonetic": "/ˈspiːkə(r)/",
+    "example": {
+      "en": "The speaker is an important part of university life.",
+      "zh": "演讲者是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 319,
+    "word": "career",
+    "translation": "职业",
+    "phonetic": "/kəˈrɪə(r)/",
+    "example": {
+      "en": "The career is an important part of university life.",
+      "zh": "职业是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 320,
+    "word": "reference",
+    "translation": "参考书目",
+    "phonetic": "/ˈrefrəns/",
+    "example": {
+      "en": "The reference is an important part of university life.",
+      "zh": "参考书目是大学生活的重要组成部分。"
+    },
+    "day": 7
+  },
+  {
+    "id": 321,
+    "word": "landlady",
+    "translation": "房东",
+    "phonetic": "/ˈlændleɪdi/",
+    "example": {
+      "en": "The landlady is an important part of university life.",
+      "zh": "房东是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 322,
+    "word": "test",
+    "translation": "测试",
+    "phonetic": "/test/",
+    "example": {
+      "en": "The test is an important part of university life.",
+      "zh": "测试是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 323,
+    "word": "special",
+    "translation": "特别",
+    "phonetic": "/ˈspeʃl/",
+    "example": {
+      "en": "The special is an important part of university life.",
+      "zh": "特别是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 324,
+    "word": "unusual",
+    "translation": "非同寻常",
+    "phonetic": "/ʌnˈjuːʒuəl/",
+    "example": {
+      "en": "The unusual is an important part of university life.",
+      "zh": "非同寻常是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 325,
+    "word": "weekly",
+    "translation": "每周的",
+    "phonetic": "/ˈwiːkli/",
+    "example": {
+      "en": "The weekly is an important part of university life.",
+      "zh": "每周的是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 326,
+    "word": "power",
+    "translation": "权力",
+    "phonetic": "/ˈpaʊə(r)/",
+    "example": {
+      "en": "The power is an important part of university life.",
+      "zh": "权力是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 327,
+    "word": "cave",
+    "translation": "洞穴",
+    "phonetic": "/keɪv/",
+    "example": {
+      "en": "The cave is an important part of university life.",
+      "zh": "洞穴是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 328,
+    "word": "engine",
+    "translation": "发动机",
+    "phonetic": "/ˈendʒɪn/",
+    "example": {
+      "en": "The engine is an important part of university life.",
+      "zh": "发动机是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 329,
+    "word": "diary",
+    "translation": "日记",
+    "phonetic": "/ˈdaɪəri/",
+    "example": {
+      "en": "The diary is an important part of university life.",
+      "zh": "日记是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 330,
+    "word": "advanced",
+    "translation": "先进的",
+    "phonetic": "/ədˈvɑːnst/",
+    "example": {
+      "en": "The advanced is an important part of university life.",
+      "zh": "先进的是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 331,
+    "word": "luck",
+    "translation": "运气",
+    "phonetic": "/lʌk/",
+    "example": {
+      "en": "The luck is an important part of university life.",
+      "zh": "运气是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 332,
+    "word": "temple",
+    "translation": "寺庙",
+    "phonetic": "/ˈtempl/",
+    "example": {
+      "en": "The temple is an important part of university life.",
+      "zh": "寺庙是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 333,
+    "word": "evening",
+    "translation": "夜晚",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "example": {
+      "en": "The evening is an important part of university life.",
+      "zh": "夜晚是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 334,
+    "word": "review",
+    "translation": "评论",
+    "phonetic": "/rɪˈvjuː/",
+    "example": {
+      "en": "The review is an important part of university life.",
+      "zh": "评论是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 335,
+    "word": "foreign",
+    "translation": "国外",
+    "phonetic": "/ˈfɒrən/",
+    "example": {
+      "en": "The foreign is an important part of university life.",
+      "zh": "国外是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 336,
+    "word": "finding",
+    "translation": "发现",
+    "phonetic": "/ˈfaɪndɪŋ/",
+    "example": {
+      "en": "The finding is an important part of university life.",
+      "zh": "发现是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 337,
+    "word": "relations",
+    "translation": "关系",
+    "phonetic": "/rɪˈleɪʃnz/",
+    "example": {
+      "en": "The relations is an important part of university life.",
+      "zh": "关系是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 338,
+    "word": "result",
+    "translation": "结果",
+    "phonetic": "/rɪˈzʌlt/",
+    "example": {
+      "en": "The result is an important part of university life.",
+      "zh": "结果是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 339,
+    "word": "cinema",
+    "translation": "电影院",
+    "phonetic": "/ˈsɪnəmə/",
+    "example": {
+      "en": "The cinema is an important part of university life.",
+      "zh": "电影院是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 340,
+    "word": "cheese",
+    "translation": "奶酪",
+    "phonetic": "/tʃiːz/",
+    "example": {
+      "en": "The cheese is an important part of university life.",
+      "zh": "奶酪是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 341,
+    "word": "horse",
+    "translation": "马",
+    "phonetic": "/hɔːs/",
+    "example": {
+      "en": "The horse is an important part of university life.",
+      "zh": "马是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 342,
+    "word": "aim",
+    "translation": "目的",
+    "phonetic": "/eɪm/",
+    "example": {
+      "en": "The aim is an important part of university life.",
+      "zh": "目的是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 343,
+    "word": "rare",
+    "translation": "罕见",
+    "phonetic": "/reə(r)/",
+    "example": {
+      "en": "The rare is an important part of university life.",
+      "zh": "罕见是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 344,
+    "word": "current",
+    "translation": "目前的",
+    "phonetic": "/ˈkʌrənt/",
+    "example": {
+      "en": "The current is an important part of university life.",
+      "zh": "目前的是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 345,
+    "word": "French",
+    "translation": "法语",
+    "phonetic": "/frentʃ/",
+    "example": {
+      "en": "The French is an important part of university life.",
+      "zh": "法语是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 346,
+    "word": "worker",
+    "translation": "工人",
+    "phonetic": "/ˈwɜːkə(r)/",
+    "example": {
+      "en": "The worker is an important part of university life.",
+      "zh": "工人是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 347,
+    "word": "loan",
+    "translation": "贷款",
+    "phonetic": "/ləʊn/",
+    "example": {
+      "en": "The loan is an important part of university life.",
+      "zh": "贷款是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 348,
+    "word": "stores",
+    "translation": "商场",
+    "phonetic": "/stɔːz/",
+    "example": {
+      "en": "The stores is an important part of university life.",
+      "zh": "商场是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 349,
+    "word": "kelp",
+    "translation": "海藻",
+    "phonetic": "/kelp/",
+    "example": {
+      "en": "The kelp is an important part of university life.",
+      "zh": "海藻是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 350,
+    "word": "storehouse",
+    "translation": "仓库",
+    "phonetic": "/ˈstɔːhaʊs/",
+    "example": {
+      "en": "The storehouse is an important part of university life.",
+      "zh": "仓库是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 351,
+    "word": "hens",
+    "translation": "母鸡",
+    "phonetic": "/henz/",
+    "example": {
+      "en": "The hens is an important part of university life.",
+      "zh": "母鸡是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 352,
+    "word": "intermediate",
+    "translation": "中级的",
+    "phonetic": "/ˌɪntəˈmiːdiət/",
+    "example": {
+      "en": "The intermediate is an important part of university life.",
+      "zh": "中级的是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 353,
+    "word": "useful",
+    "translation": "有用的",
+    "phonetic": "/ˈjuːsfl/",
+    "example": {
+      "en": "The useful is an important part of university life.",
+      "zh": "有用的是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 354,
+    "word": "forest",
+    "translation": "森林",
+    "phonetic": "/ˈfɒrɪst/",
+    "example": {
+      "en": "The forest is an important part of university life.",
+      "zh": "森林是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 355,
+    "word": "rainfall",
+    "translation": "降水",
+    "phonetic": "/ˈreɪnfɔːl/",
+    "example": {
+      "en": "The rainfall is an important part of university life.",
+      "zh": "降水是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 356,
+    "word": "wetland",
+    "translation": "沼泽地",
+    "phonetic": "/ˈwetlənd/",
+    "example": {
+      "en": "The wetland is an important part of university life.",
+      "zh": "沼泽地是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 357,
+    "word": "emergency",
+    "translation": "紧急",
+    "phonetic": "/ɪˈmɜːdʒənsi/",
+    "example": {
+      "en": "The emergency is an important part of university life.",
+      "zh": "紧急是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 358,
+    "word": "full-time",
+    "translation": "全职",
+    "phonetic": "/fʊl taɪm/",
+    "example": {
+      "en": "The full-time is an important part of university life.",
+      "zh": "全职是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 359,
+    "word": "mother",
+    "translation": "母亲",
+    "phonetic": "/ˈmʌðə(r)/",
+    "example": {
+      "en": "The mother is an important part of university life.",
+      "zh": "母亲是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 360,
+    "word": "mountain",
+    "translation": "山脉",
+    "phonetic": "/ˈmaʊntən/",
+    "example": {
+      "en": "The mountain is an important part of university life.",
+      "zh": "山脉是大学生活的重要组成部分。"
+    },
+    "day": 8
+  },
+  {
+    "id": 361,
+    "word": "meat",
+    "translation": "肉类",
+    "phonetic": "/miːt/",
+    "example": {
+      "en": "The meat is an important part of university life.",
+      "zh": "肉类是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 362,
+    "word": "personality",
+    "translation": "个性",
+    "phonetic": "/ˌpɜːsəˈnæləti/",
+    "example": {
+      "en": "The personality is an important part of university life.",
+      "zh": "个性是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 363,
+    "word": "embassy",
+    "translation": "大使馆",
+    "phonetic": "/ˈembəsi/",
+    "example": {
+      "en": "The embassy is an important part of university life.",
+      "zh": "大使馆是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 364,
+    "word": "gender",
+    "translation": "性别",
+    "phonetic": "/ˈdʒendə(r)/",
+    "example": {
+      "en": "The gender is an important part of university life.",
+      "zh": "性别是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 365,
+    "word": "room",
+    "translation": "房间",
+    "phonetic": "/ruːm/",
+    "example": {
+      "en": "The room is an important part of university life.",
+      "zh": "房间是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 366,
+    "word": "related",
+    "translation": "相关的",
+    "phonetic": "/rɪˈleɪtɪd/",
+    "example": {
+      "en": "The related is an important part of university life.",
+      "zh": "相关的是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 367,
+    "word": "higher",
+    "translation": "更高",
+    "phonetic": "/ˈhaɪə(r)/",
+    "example": {
+      "en": "The higher is an important part of university life.",
+      "zh": "更高是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 368,
+    "word": "government",
+    "translation": "政府",
+    "phonetic": "/ˈɡʌvənmənt/",
+    "example": {
+      "en": "The government is an important part of university life.",
+      "zh": "政府是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 369,
+    "word": "trains",
+    "translation": "火车",
+    "phonetic": "/treɪnz/",
+    "example": {
+      "en": "The trains is an important part of university life.",
+      "zh": "火车是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 370,
+    "word": "swimming",
+    "translation": "游泳",
+    "phonetic": "/ˈswɪmɪŋ/",
+    "example": {
+      "en": "The swimming is an important part of university life.",
+      "zh": "游泳是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 371,
+    "word": "cottage",
+    "translation": "小屋",
+    "phonetic": "/ˈkɒtɪdʒ/",
+    "example": {
+      "en": "The cottage is an important part of university life.",
+      "zh": "小屋是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 372,
+    "word": "business",
+    "translation": "商业",
+    "phonetic": "/ˈbɪznəs/",
+    "example": {
+      "en": "The business is an important part of university life.",
+      "zh": "商业是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 373,
+    "word": "foot",
+    "translation": "脚",
+    "phonetic": "/fʊt/",
+    "example": {
+      "en": "The foot is an important part of university life.",
+      "zh": "脚是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 374,
+    "word": "total",
+    "translation": "总数",
+    "phonetic": "/ˈtəʊtl/",
+    "example": {
+      "en": "The total is an important part of university life.",
+      "zh": "总数是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 375,
+    "word": "difference",
+    "translation": "差异",
+    "phonetic": "/ˈdɪfrəns/",
+    "example": {
+      "en": "The difference is an important part of university life.",
+      "zh": "差异是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 376,
+    "word": "responsibility",
+    "translation": "责任",
+    "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+    "example": {
+      "en": "The responsibility is an important part of university life.",
+      "zh": "责任是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 377,
+    "word": "daily",
+    "translation": "每日",
+    "phonetic": "/ˈdeɪli/",
+    "example": {
+      "en": "The daily is an important part of university life.",
+      "zh": "每日是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 378,
+    "word": "aids",
+    "translation": "帮助",
+    "phonetic": "/eɪdz/",
+    "example": {
+      "en": "The aids is an important part of university life.",
+      "zh": "帮助是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 379,
+    "word": "sport",
+    "translation": "运动",
+    "phonetic": "/spɔːt/",
+    "example": {
+      "en": "The sport is an important part of university life.",
+      "zh": "运动是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 380,
+    "word": "photos",
+    "translation": "照片",
+    "phonetic": "/ˈfəʊtəʊz/",
+    "example": {
+      "en": "The photos is an important part of university life.",
+      "zh": "照片是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 381,
+    "word": "speed",
+    "translation": "速度",
+    "phonetic": "/spiːd/",
+    "example": {
+      "en": "The speed is an important part of university life.",
+      "zh": "速度是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 382,
+    "word": "financial",
+    "translation": "金融的",
+    "phonetic": "/faɪˈnænʃl/",
+    "example": {
+      "en": "The financial is an important part of university life.",
+      "zh": "金融的是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 383,
+    "word": "angry",
+    "translation": "气愤",
+    "phonetic": "/ˈæŋɡri/",
+    "example": {
+      "en": "The angry is an important part of university life.",
+      "zh": "气愤是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 384,
+    "word": "appearance",
+    "translation": "外貌",
+    "phonetic": "/əˈpɪərəns/",
+    "example": {
+      "en": "The appearance is an important part of university life.",
+      "zh": "外貌是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 385,
+    "word": "factory",
+    "translation": "工厂",
+    "phonetic": "/ˈfæktri/",
+    "example": {
+      "en": "The factory is an important part of university life.",
+      "zh": "工厂是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 386,
+    "word": "effects",
+    "translation": "结果",
+    "phonetic": "/ɪˈfekts/",
+    "example": {
+      "en": "The effects is an important part of university life.",
+      "zh": "结果是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 387,
+    "word": "notice",
+    "translation": "注意",
+    "phonetic": "/ˈnəʊtɪs/",
+    "example": {
+      "en": "The notice is an important part of university life.",
+      "zh": "注意是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 388,
+    "word": "experimental",
+    "translation": "实验的",
+    "phonetic": "/ɪkˌsperɪˈmentl/",
+    "example": {
+      "en": "The experimental is an important part of university life.",
+      "zh": "实验的是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 389,
+    "word": "refreshment",
+    "translation": "饮料",
+    "phonetic": "/rɪˈfreʃmənt/",
+    "example": {
+      "en": "The refreshment is an important part of university life.",
+      "zh": "饮料是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 390,
+    "word": "army",
+    "translation": "军队",
+    "phonetic": "/ˈɑːmi/",
+    "example": {
+      "en": "The army is an important part of university life.",
+      "zh": "军队是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 391,
+    "word": "school",
+    "translation": "学校",
+    "phonetic": "/skuːl/",
+    "example": {
+      "en": "The school is an important part of university life.",
+      "zh": "学校是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 392,
+    "word": "fridge",
+    "translation": "冰箱",
+    "phonetic": "/frɪdʒ/",
+    "example": {
+      "en": "The fridge is an important part of university life.",
+      "zh": "冰箱是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 393,
+    "word": "regularly",
+    "translation": "定期地",
+    "phonetic": "/ˈreɡjələli/",
+    "example": {
+      "en": "The regularly is an important part of university life.",
+      "zh": "定期地是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 394,
+    "word": "original",
+    "translation": "最初地",
+    "phonetic": "/əˈrɪdʒənl/",
+    "example": {
+      "en": "The original is an important part of university life.",
+      "zh": "最初地是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 395,
+    "word": "prepare",
+    "translation": "准备",
+    "phonetic": "/prɪˈpeə(r)/",
+    "example": {
+      "en": "The prepare is an important part of university life.",
+      "zh": "准备是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 396,
+    "word": "videos",
+    "translation": "录像",
+    "phonetic": "/ˈvɪdiəʊz/",
+    "example": {
+      "en": "The videos is an important part of university life.",
+      "zh": "录像是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 397,
+    "word": "seafood",
+    "translation": "海鲜",
+    "phonetic": "/ˈsiːfuːd/",
+    "example": {
+      "en": "The seafood is an important part of university life.",
+      "zh": "海鲜是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 398,
+    "word": "postcode",
+    "translation": "邮编",
+    "phonetic": "/ˈpəʊstkəʊd/",
+    "example": {
+      "en": "The postcode is an important part of university life.",
+      "zh": "邮编是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 399,
+    "word": "region",
+    "translation": "地区",
+    "phonetic": "/ˈriːdʒən/",
+    "example": {
+      "en": "The region is an important part of university life.",
+      "zh": "地区是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 400,
+    "word": "advantages",
+    "translation": "优势",
+    "phonetic": "/ədˈvɑːntɪdʒɪz/",
+    "example": {
+      "en": "The advantages is an important part of university life.",
+      "zh": "优势是大学生活的重要组成部分。"
+    },
+    "day": 9
+  },
+  {
+    "id": 401,
+    "word": "mid",
+    "translation": "中间",
+    "phonetic": "/mɪd/",
+    "example": {
+      "en": "The mid is an important part of university life.",
+      "zh": "中间是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 402,
+    "word": "machine",
+    "translation": "机器",
+    "phonetic": "/məˈʃiːn/",
+    "example": {
+      "en": "The machine is an important part of university life.",
+      "zh": "机器是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 403,
+    "word": "weekdays",
+    "translation": "周末",
+    "phonetic": "/ˈwiːkdeɪz/",
+    "example": {
+      "en": "The weekdays is an important part of university life.",
+      "zh": "周末是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 404,
+    "word": "several",
+    "translation": "几个",
+    "phonetic": "/ˈsevrəl/",
+    "example": {
+      "en": "The several is an important part of university life.",
+      "zh": "几个是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 405,
+    "word": "temples",
+    "translation": "寺庙",
+    "phonetic": "/ˈtemplz/",
+    "example": {
+      "en": "The temples is an important part of university life.",
+      "zh": "寺庙是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 406,
+    "word": "participants",
+    "translation": "参加者",
+    "phonetic": "/pɑːˈtɪsɪpənts/",
+    "example": {
+      "en": "The participants is an important part of university life.",
+      "zh": "参加者是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 407,
+    "word": "exercise",
+    "translation": "练习",
+    "phonetic": "/ˈeksəsaɪz/",
+    "example": {
+      "en": "The exercise is an important part of university life.",
+      "zh": "练习是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 408,
+    "word": "nationality",
+    "translation": "国籍",
+    "phonetic": "/ˌnæʃəˈnæləti/",
+    "example": {
+      "en": "The nationality is an important part of university life.",
+      "zh": "国籍是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 409,
+    "word": "plastic",
+    "translation": "塑料",
+    "phonetic": "/ˈplæstɪk/",
+    "example": {
+      "en": "The plastic is an important part of university life.",
+      "zh": "塑料是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 410,
+    "word": "area",
+    "translation": "地区",
+    "phonetic": "/ˈeəriə/",
+    "example": {
+      "en": "The area is an important part of university life.",
+      "zh": "地区是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 411,
+    "word": "thousand",
+    "translation": "千",
+    "phonetic": "/ˈθaʊznd/",
+    "example": {
+      "en": "The thousand is an important part of university life.",
+      "zh": "千是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 412,
+    "word": "photographs",
+    "translation": "照片",
+    "phonetic": "/ˈfəʊtəɡrɑːfs/",
+    "example": {
+      "en": "The photographs is an important part of university life.",
+      "zh": "照片是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 413,
+    "word": "adult",
+    "translation": "成人",
+    "phonetic": "/ˈædʌlt/",
+    "example": {
+      "en": "The adult is an important part of university life.",
+      "zh": "成人是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 414,
+    "word": "company",
+    "translation": "公司",
+    "phonetic": "/ˈkʌmpəni/",
+    "example": {
+      "en": "The company is an important part of university life.",
+      "zh": "公司是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 415,
+    "word": "ocean",
+    "translation": "海洋",
+    "phonetic": "/ˈəʊʃn/",
+    "example": {
+      "en": "The ocean is an important part of university life.",
+      "zh": "海洋是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 416,
+    "word": "wood",
+    "translation": "木材",
+    "phonetic": "/wʊd/",
+    "example": {
+      "en": "The wood is an important part of university life.",
+      "zh": "木材是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 417,
+    "word": "popular",
+    "translation": "流行的",
+    "phonetic": "/ˈpɒpjələ(r)/",
+    "example": {
+      "en": "The popular is an important part of university life.",
+      "zh": "流行的是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 418,
+    "word": "matching",
+    "translation": "搭配",
+    "phonetic": "/ˈmætʃɪŋ/",
+    "example": {
+      "en": "The matching is an important part of university life.",
+      "zh": "搭配是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 419,
+    "word": "supply",
+    "translation": "提供",
+    "phonetic": "/səˈplaɪ/",
+    "example": {
+      "en": "The supply is an important part of university life.",
+      "zh": "提供是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 420,
+    "word": "card",
+    "translation": "卡片",
+    "phonetic": "/kɑːd/",
+    "example": {
+      "en": "The card is an important part of university life.",
+      "zh": "卡片是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 421,
+    "word": "noble",
+    "translation": "高尚的",
+    "phonetic": "/ˈnəʊbl/",
+    "example": {
+      "en": "The noble is an important part of university life.",
+      "zh": "高尚的是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 422,
+    "word": "seminar",
+    "translation": "研讨会",
+    "phonetic": "/ˈsemɪnɑː(r)/",
+    "example": {
+      "en": "The seminar is an important part of university life.",
+      "zh": "研讨会是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 423,
+    "word": "badminton",
+    "translation": "羽毛球",
+    "phonetic": "/ˈbædmɪntən/",
+    "example": {
+      "en": "The badminton is an important part of university life.",
+      "zh": "羽毛球是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 424,
+    "word": "direct",
+    "translation": "直接的",
+    "phonetic": "/dəˈrekt/",
+    "example": {
+      "en": "The direct is an important part of university life.",
+      "zh": "直接的是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 425,
+    "word": "short",
+    "translation": "短的",
+    "phonetic": "/ʃɔːt/",
+    "example": {
+      "en": "The short is an important part of university life.",
+      "zh": "短的是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 426,
+    "word": "scientists",
+    "translation": "科学家",
+    "phonetic": "/ˈsaɪəntɪsts/",
+    "example": {
+      "en": "The scientists is an important part of university life.",
+      "zh": "科学家是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 427,
+    "word": "jeans",
+    "translation": "牛仔服",
+    "phonetic": "/dʒiːnz/",
+    "example": {
+      "en": "The jeans is an important part of university life.",
+      "zh": "牛仔服是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 428,
+    "word": "recorder",
+    "translation": "录音机",
+    "phonetic": "/rɪˈkɔːdə(r)/",
+    "example": {
+      "en": "The recorder is an important part of university life.",
+      "zh": "录音机是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 429,
+    "word": "injury",
+    "translation": "受伤",
+    "phonetic": "/ˈɪndʒəri/",
+    "example": {
+      "en": "The injury is an important part of university life.",
+      "zh": "受伤是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 430,
+    "word": "classical",
+    "translation": "古典的",
+    "phonetic": "/ˈklæsɪkl/",
+    "example": {
+      "en": "The classical is an important part of university life.",
+      "zh": "古典的是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 431,
+    "word": "disco",
+    "translation": "的士高",
+    "phonetic": "/ˈdɪskəʊ/",
+    "example": {
+      "en": "The disco is an important part of university life.",
+      "zh": "的士高是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 432,
+    "word": "cost",
+    "translation": "花费",
+    "phonetic": "/kɒst/",
+    "example": {
+      "en": "The cost is an important part of university life.",
+      "zh": "花费是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 433,
+    "word": "United",
+    "translation": "联合的",
+    "phonetic": "/juˈnaɪtɪd/",
+    "example": {
+      "en": "The United is an important part of university life.",
+      "zh": "联合的是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 434,
+    "word": "normal",
+    "translation": "正常的",
+    "phonetic": "/ˈnɔːml/",
+    "example": {
+      "en": "The normal is an important part of university life.",
+      "zh": "正常的是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 435,
+    "word": "theatre",
+    "translation": "剧院",
+    "phonetic": "/ˈθɪətə(r)/",
+    "example": {
+      "en": "The theatre is an important part of university life.",
+      "zh": "剧院是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 436,
+    "word": "governments",
+    "translation": "政府",
+    "phonetic": "/ˈɡʌvənmənts/",
+    "example": {
+      "en": "The governments is an important part of university life.",
+      "zh": "政府是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 437,
+    "word": "fiber",
+    "translation": "纤维",
+    "phonetic": "/ˈfaɪbə(r)/",
+    "example": {
+      "en": "The fiber is an important part of university life.",
+      "zh": "纤维是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 438,
+    "word": "tribe",
+    "translation": "部落",
+    "phonetic": "/traɪb/",
+    "example": {
+      "en": "The tribe is an important part of university life.",
+      "zh": "部落是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 439,
+    "word": "parent",
+    "translation": "父母",
+    "phonetic": "/ˈpeərənt/",
+    "example": {
+      "en": "The parent is an important part of university life.",
+      "zh": "父母是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 440,
+    "word": "trees",
+    "translation": "树",
+    "phonetic": "/triːz/",
+    "example": {
+      "en": "The trees is an important part of university life.",
+      "zh": "树是大学生活的重要组成部分。"
+    },
+    "day": 10
+  },
+  {
+    "id": 441,
+    "word": "qualifications",
+    "translation": "资格",
+    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃnz/",
+    "example": {
+      "en": "The qualifications is an important part of university life.",
+      "zh": "资格是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 442,
+    "word": "elder",
+    "translation": "长辈",
+    "phonetic": "/ˈeldə(r)/",
+    "example": {
+      "en": "The elder is an important part of university life.",
+      "zh": "长辈是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 443,
+    "word": "collection",
+    "translation": "收集",
+    "phonetic": "/kəˈlekʃn/",
+    "example": {
+      "en": "The collection is an important part of university life.",
+      "zh": "收集是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 444,
+    "word": "consultant",
+    "translation": "咨询者",
+    "phonetic": "/kənˈsʌltənt/",
+    "example": {
+      "en": "The consultant is an important part of university life.",
+      "zh": "咨询者是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 445,
+    "word": "ignorance",
+    "translation": "无知",
+    "phonetic": "/ˈɪɡnərəns/",
+    "example": {
+      "en": "The ignorance is an important part of university life.",
+      "zh": "无知是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 446,
+    "word": "explosion",
+    "translation": "爆炸",
+    "phonetic": "/ɪkˈspləʊʒn/",
+    "example": {
+      "en": "The explosion is an important part of university life.",
+      "zh": "爆炸是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 447,
+    "word": "model",
+    "translation": "模型",
+    "phonetic": "/ˈmɒdl/",
+    "example": {
+      "en": "The model is an important part of university life.",
+      "zh": "模型是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 448,
+    "word": "filmed",
+    "translation": "拍摄",
+    "phonetic": "/fɪlmd/",
+    "example": {
+      "en": "The filmed is an important part of university life.",
+      "zh": "拍摄是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 449,
+    "word": "sleeping",
+    "translation": "睡眠",
+    "phonetic": "/ˈsliːpɪŋ/",
+    "example": {
+      "en": "The sleeping is an important part of university life.",
+      "zh": "睡眠是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 450,
+    "word": "identification",
+    "translation": "识别,身份",
+    "phonetic": "/aɪˌdentɪfɪˈkeɪʃn/",
+    "example": {
+      "en": "The identification is an important part of university life.",
+      "zh": "识别,身份是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 451,
+    "word": "visual",
+    "translation": "视觉的",
+    "phonetic": "/ˈvɪʒuəl/",
+    "example": {
+      "en": "The visual is an important part of university life.",
+      "zh": "视觉的是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 452,
+    "word": "applicants",
+    "translation": "申请者",
+    "phonetic": "/ˈæplɪkənts/",
+    "example": {
+      "en": "The applicants is an important part of university life.",
+      "zh": "申请者是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 453,
+    "word": "council",
+    "translation": "委员会",
+    "phonetic": "/ˈkaʊnsl/",
+    "example": {
+      "en": "The council is an important part of university life.",
+      "zh": "委员会是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 454,
+    "word": "waiter",
+    "translation": "服务生",
+    "phonetic": "/ˈweɪtə(r)/",
+    "example": {
+      "en": "The waiter is an important part of university life.",
+      "zh": "服务生是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 455,
+    "word": "exaggerate",
+    "translation": "夸张",
+    "phonetic": "/ɪɡˈzædʒəreɪt/",
+    "example": {
+      "en": "The exaggerate is an important part of university life.",
+      "zh": "夸张是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 456,
+    "word": "savings",
+    "translation": "存钱",
+    "phonetic": "/ˈseɪvɪŋz/",
+    "example": {
+      "en": "The savings is an important part of university life.",
+      "zh": "存钱是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 457,
+    "word": "side",
+    "translation": "边",
+    "phonetic": "/saɪd/",
+    "example": {
+      "en": "The side is an important part of university life.",
+      "zh": "边是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 458,
+    "word": "tools",
+    "translation": "工具",
+    "phonetic": "/tuːlz/",
+    "example": {
+      "en": "The tools is an important part of university life.",
+      "zh": "工具是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 459,
+    "word": "nature",
+    "translation": "自然",
+    "phonetic": "/ˈneɪtʃə(r)/",
+    "example": {
+      "en": "The nature is an important part of university life.",
+      "zh": "自然是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 460,
+    "word": "green",
+    "translation": "绿色",
+    "phonetic": "/ɡriːn/",
+    "example": {
+      "en": "The green is an important part of university life.",
+      "zh": "绿色是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 461,
+    "word": "resources",
+    "translation": "资源",
+    "phonetic": "/rɪˈsɔːsɪz/",
+    "example": {
+      "en": "The resources is an important part of university life.",
+      "zh": "资源是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 462,
+    "word": "ambition",
+    "translation": "野心,抱负",
+    "phonetic": "/æmˈbɪʃn/",
+    "example": {
+      "en": "The ambition is an important part of university life.",
+      "zh": "野心,抱负是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 463,
+    "word": "skirt",
+    "translation": "短裙",
+    "phonetic": "/skɜːt/",
+    "example": {
+      "en": "The skirt is an important part of university life.",
+      "zh": "短裙是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 464,
+    "word": "thief",
+    "translation": "小偷",
+    "phonetic": "/θiːf/",
+    "example": {
+      "en": "The thief is an important part of university life.",
+      "zh": "小偷是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 465,
+    "word": "pink",
+    "translation": "粉色",
+    "phonetic": "/pɪŋk/",
+    "example": {
+      "en": "The pink is an important part of university life.",
+      "zh": "粉色是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 466,
+    "word": "stronger",
+    "translation": "更强的",
+    "phonetic": "/ˈstrɒŋɡə(r)/",
+    "example": {
+      "en": "The stronger is an important part of university life.",
+      "zh": "更强的是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 467,
+    "word": "weight",
+    "translation": "重量",
+    "phonetic": "/weɪt/",
+    "example": {
+      "en": "The weight is an important part of university life.",
+      "zh": "重量是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 468,
+    "word": "qualification",
+    "translation": "资格",
+    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "example": {
+      "en": "The qualification is an important part of university life.",
+      "zh": "资格是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 469,
+    "word": "selection",
+    "translation": "选择",
+    "phonetic": "/sɪˈlekʃn/",
+    "example": {
+      "en": "The selection is an important part of university life.",
+      "zh": "选择是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 470,
+    "word": "priorities",
+    "translation": "优先权",
+    "phonetic": "/praɪˈɒrətiz/",
+    "example": {
+      "en": "The priorities is an important part of university life.",
+      "zh": "优先权是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 471,
+    "word": "chair",
+    "translation": "椅子",
+    "phonetic": "/tʃeə(r)/",
+    "example": {
+      "en": "The chair is an important part of university life.",
+      "zh": "椅子是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 472,
+    "word": "scholarship",
+    "translation": "奖学金",
+    "phonetic": "/ˈskɒləʃɪp/",
+    "example": {
+      "en": "The scholarship is an important part of university life.",
+      "zh": "奖学金是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 473,
+    "word": "trip",
+    "translation": "旅行",
+    "phonetic": "/trɪp/",
+    "example": {
+      "en": "The trip is an important part of university life.",
+      "zh": "旅行是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 474,
+    "word": "nursing",
+    "translation": "护理",
+    "phonetic": "/ˈnɜːsɪŋ/",
+    "example": {
+      "en": "The nursing is an important part of university life.",
+      "zh": "护理是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 475,
+    "word": "ancient",
+    "translation": "古代的",
+    "phonetic": "/ˈeɪnʃənt/",
+    "example": {
+      "en": "The ancient is an important part of university life.",
+      "zh": "古代的是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 476,
+    "word": "palace",
+    "translation": "宫殿",
+    "phonetic": "/ˈpæləs/",
+    "example": {
+      "en": "The palace is an important part of university life.",
+      "zh": "宫殿是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 477,
+    "word": "pence",
+    "translation": "便士",
+    "phonetic": "/pens/",
+    "example": {
+      "en": "The pence is an important part of university life.",
+      "zh": "便士是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 478,
+    "word": "flowers",
+    "translation": "花朵",
+    "phonetic": "/ˈflaʊəz/",
+    "example": {
+      "en": "The flowers is an important part of university life.",
+      "zh": "花朵是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 479,
+    "word": "tones",
+    "translation": "汉语的音调",
+    "phonetic": "/təʊnz/",
+    "example": {
+      "en": "The tones is an important part of university life.",
+      "zh": "汉语的音调是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 480,
+    "word": "documents",
+    "translation": "文件",
+    "phonetic": "/ˈdɒkjumənts/",
+    "example": {
+      "en": "The documents is an important part of university life.",
+      "zh": "文件是大学生活的重要组成部分。"
+    },
+    "day": 11
+  },
+  {
+    "id": 481,
+    "word": "heavy",
+    "translation": "重的",
+    "phonetic": "/ˈhevi/",
+    "example": {
+      "en": "The heavy is an important part of university life.",
+      "zh": "重的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 482,
+    "word": "objective",
+    "translation": "目标",
+    "phonetic": "/əbˈdʒektɪv/",
+    "example": {
+      "en": "The objective is an important part of university life.",
+      "zh": "目标是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 483,
+    "word": "impact",
+    "translation": "影响",
+    "phonetic": "/ˈɪmpækt/",
+    "example": {
+      "en": "The impact is an important part of university life.",
+      "zh": "影响是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 484,
+    "word": "atmospheric",
+    "translation": "大气的",
+    "phonetic": "/ˌætməsˈferɪk/",
+    "example": {
+      "en": "The atmospheric is an important part of university life.",
+      "zh": "大气的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 485,
+    "word": "attention",
+    "translation": "注意",
+    "phonetic": "/əˈtenʃn/",
+    "example": {
+      "en": "The attention is an important part of university life.",
+      "zh": "注意是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 486,
+    "word": "fashion",
+    "translation": "时髦",
+    "phonetic": "/ˈfæʃn/",
+    "example": {
+      "en": "The fashion is an important part of university life.",
+      "zh": "时髦是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 487,
+    "word": "silver",
+    "translation": "银的",
+    "phonetic": "/ˈsɪlvə(r)/",
+    "example": {
+      "en": "The silver is an important part of university life.",
+      "zh": "银的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 488,
+    "word": "diseases",
+    "translation": "疾病",
+    "phonetic": "/dɪˈziːzɪz/",
+    "example": {
+      "en": "The diseases is an important part of university life.",
+      "zh": "疾病是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 489,
+    "word": "drowsiness",
+    "translation": "嗜睡的",
+    "phonetic": "/ˈdraʊzinəs/",
+    "example": {
+      "en": "The drowsiness is an important part of university life.",
+      "zh": "嗜睡的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 490,
+    "word": "volunteer",
+    "translation": "自愿者",
+    "phonetic": "/ˌvɒlənˈtɪə(r)/",
+    "example": {
+      "en": "The volunteer is an important part of university life.",
+      "zh": "自愿者是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 491,
+    "word": "technology",
+    "translation": "科技",
+    "phonetic": "/tekˈnɒlədʒi/",
+    "example": {
+      "en": "The technology is an important part of university life.",
+      "zh": "科技是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 492,
+    "word": "extensive",
+    "translation": "广泛的",
+    "phonetic": "/ɪkˈstensɪv/",
+    "example": {
+      "en": "The extensive is an important part of university life.",
+      "zh": "广泛的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 493,
+    "word": "architecture",
+    "translation": "建筑物",
+    "phonetic": "/ˈɑːkɪtektʃə(r)/",
+    "example": {
+      "en": "The architecture is an important part of university life.",
+      "zh": "建筑物是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 494,
+    "word": "faculty",
+    "translation": "系",
+    "phonetic": "/ˈfæklti/",
+    "example": {
+      "en": "The faculty is an important part of university life.",
+      "zh": "系是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 495,
+    "word": "overhead",
+    "translation": "头上",
+    "phonetic": "/ˌəʊvəˈhed/",
+    "example": {
+      "en": "The overhead is an important part of university life.",
+      "zh": "头上是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 496,
+    "word": "growth",
+    "translation": "成长",
+    "phonetic": "/ɡrəʊθ/",
+    "example": {
+      "en": "The growth is an important part of university life.",
+      "zh": "成长是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 497,
+    "word": "cassettes",
+    "translation": "磁带",
+    "phonetic": "/kəˈsets/",
+    "example": {
+      "en": "The cassettes is an important part of university life.",
+      "zh": "磁带是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 498,
+    "word": "infection",
+    "translation": "发炎",
+    "phonetic": "/ɪnˈfekʃn/",
+    "example": {
+      "en": "The infection is an important part of university life.",
+      "zh": "发炎是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 499,
+    "word": "cooperation",
+    "translation": "合作",
+    "phonetic": "/kəʊˌɒpəˈreɪʃn/",
+    "example": {
+      "en": "The cooperation is an important part of university life.",
+      "zh": "合作是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 500,
+    "word": "mosquito",
+    "translation": "蚊子",
+    "phonetic": "/məˈskiːtəʊ/",
+    "example": {
+      "en": "The mosquito is an important part of university life.",
+      "zh": "蚊子是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 501,
+    "word": "train",
+    "translation": "火车",
+    "phonetic": "/treɪn/",
+    "example": {
+      "en": "The train is an important part of university life.",
+      "zh": "火车是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 502,
+    "word": "processing",
+    "translation": "处理",
+    "phonetic": "/ˈprəʊsesɪŋ/",
+    "example": {
+      "en": "The processing is an important part of university life.",
+      "zh": "处理是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 503,
+    "word": "placement",
+    "translation": "放置",
+    "phonetic": "/ˈpleɪsmənt/",
+    "example": {
+      "en": "The placement is an important part of university life.",
+      "zh": "放置是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 504,
+    "word": "aware",
+    "translation": "意识",
+    "phonetic": "/əˈweə(r)/",
+    "example": {
+      "en": "The aware is an important part of university life.",
+      "zh": "意识是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 505,
+    "word": "animal",
+    "translation": "动物",
+    "phonetic": "/ˈænɪml/",
+    "example": {
+      "en": "The animal is an important part of university life.",
+      "zh": "动物是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 506,
+    "word": "formal",
+    "translation": "正式的",
+    "phonetic": "/ˈfɔːml/",
+    "example": {
+      "en": "The formal is an important part of university life.",
+      "zh": "正式的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 507,
+    "word": "sheet",
+    "translation": "床单",
+    "phonetic": "/ʃiːt/",
+    "example": {
+      "en": "The sheet is an important part of university life.",
+      "zh": "床单是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 508,
+    "word": "penicillin",
+    "translation": "盘尼西林",
+    "phonetic": "/ˌpenɪˈsɪlɪn/",
+    "example": {
+      "en": "The penicillin is an important part of university life.",
+      "zh": "盘尼西林是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 509,
+    "word": "sports",
+    "translation": "体育",
+    "phonetic": "/spɔːts/",
+    "example": {
+      "en": "The sports is an important part of university life.",
+      "zh": "体育是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 510,
+    "word": "crocodiles",
+    "translation": "鳄鱼",
+    "phonetic": "/ˈkrɒkədaɪlz/",
+    "example": {
+      "en": "The crocodiles is an important part of university life.",
+      "zh": "鳄鱼是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 511,
+    "word": "cocktail",
+    "translation": "鸡尾酒",
+    "phonetic": "/ˈkɒkteɪl/",
+    "example": {
+      "en": "The cocktail is an important part of university life.",
+      "zh": "鸡尾酒是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 512,
+    "word": "breakfast",
+    "translation": "早餐",
+    "phonetic": "/ˈbrekfəst/",
+    "example": {
+      "en": "The breakfast is an important part of university life.",
+      "zh": "早餐是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 513,
+    "word": "habits",
+    "translation": "习惯",
+    "phonetic": "/ˈhæbɪts/",
+    "example": {
+      "en": "The habits is an important part of university life.",
+      "zh": "习惯是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 514,
+    "word": "behavior",
+    "translation": "行为",
+    "phonetic": "/bɪˈheɪvjə(r)/",
+    "example": {
+      "en": "The behavior is an important part of university life.",
+      "zh": "行为是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 515,
+    "word": "guitar",
+    "translation": "吉他",
+    "phonetic": "/ɡɪˈtɑː(r)/",
+    "example": {
+      "en": "The guitar is an important part of university life.",
+      "zh": "吉他是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 516,
+    "word": "identities",
+    "translation": "身份",
+    "phonetic": "/aɪˈdentətiz/",
+    "example": {
+      "en": "The identities is an important part of university life.",
+      "zh": "身份是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 517,
+    "word": "neighboring",
+    "translation": "邻居的",
+    "phonetic": "/ˈneɪbərɪŋ/",
+    "example": {
+      "en": "The neighboring is an important part of university life.",
+      "zh": "邻居的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 518,
+    "word": "picture",
+    "translation": "图",
+    "phonetic": "/ˈpɪktʃə(r)/",
+    "example": {
+      "en": "The picture is an important part of university life.",
+      "zh": "图是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 519,
+    "word": "inspiring",
+    "translation": "鼓舞人心的",
+    "phonetic": "/ɪnˈspaɪərɪŋ/",
+    "example": {
+      "en": "The inspiring is an important part of university life.",
+      "zh": "鼓舞人心的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 520,
+    "word": "rising",
+    "translation": "上升的",
+    "phonetic": "/ˈraɪzɪŋ/",
+    "example": {
+      "en": "The rising is an important part of university life.",
+      "zh": "上升的是大学生活的重要组成部分。"
+    },
+    "day": 12
+  },
+  {
+    "id": 521,
+    "word": "printed",
+    "translation": "打印",
+    "phonetic": "/ˈprɪntɪd/",
+    "example": {
+      "en": "The printed is an important part of university life.",
+      "zh": "打印是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 522,
+    "word": "brochures",
+    "translation": "小册子",
+    "phonetic": "/ˈbrəʊʃəz/",
+    "example": {
+      "en": "The brochures is an important part of university life.",
+      "zh": "小册子是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 523,
+    "word": "papers",
+    "translation": "报纸",
+    "phonetic": "/ˈpeɪpəz/",
+    "example": {
+      "en": "The papers is an important part of university life.",
+      "zh": "报纸是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 524,
+    "word": "trends",
+    "translation": "趋势",
+    "phonetic": "/trendz/",
+    "example": {
+      "en": "The trends is an important part of university life.",
+      "zh": "趋势是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 525,
+    "word": "charges",
+    "translation": "费用",
+    "phonetic": "/tʃɑːdʒɪz/",
+    "example": {
+      "en": "The charges is an important part of university life.",
+      "zh": "费用是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 526,
+    "word": "content",
+    "translation": "内容",
+    "phonetic": "/ˈkɒntent/",
+    "example": {
+      "en": "The content is an important part of university life.",
+      "zh": "内容是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 527,
+    "word": "maximum",
+    "translation": "最大",
+    "phonetic": "/ˈmæksɪməm/",
+    "example": {
+      "en": "The maximum is an important part of university life.",
+      "zh": "最大是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 528,
+    "word": "wide",
+    "translation": "广泛的",
+    "phonetic": "/waɪd/",
+    "example": {
+      "en": "The wide is an important part of university life.",
+      "zh": "广泛的是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 529,
+    "word": "lawyer",
+    "translation": "律师",
+    "phonetic": "/ˈlɔːjə(r)/",
+    "example": {
+      "en": "The lawyer is an important part of university life.",
+      "zh": "律师是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 530,
+    "word": "difficulty",
+    "translation": "困难",
+    "phonetic": "/ˈdɪfɪkəlti/",
+    "example": {
+      "en": "The difficulty is an important part of university life.",
+      "zh": "困难是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 531,
+    "word": "centre",
+    "translation": "中心",
+    "phonetic": "/ˈsentə(r)/",
+    "example": {
+      "en": "The centre is an important part of university life.",
+      "zh": "中心是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 532,
+    "word": "literature",
+    "translation": "文学",
+    "phonetic": "/ˈlɪtrətʃə(r)/",
+    "example": {
+      "en": "The literature is an important part of university life.",
+      "zh": "文学是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 533,
+    "word": "conclusion",
+    "translation": "结论",
+    "phonetic": "/kənˈkluːʒn/",
+    "example": {
+      "en": "The conclusion is an important part of university life.",
+      "zh": "结论是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 534,
+    "word": "secondary",
+    "translation": "第二的",
+    "phonetic": "/ˈsekəndri/",
+    "example": {
+      "en": "The secondary is an important part of university life.",
+      "zh": "第二的是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 535,
+    "word": "newspaper",
+    "translation": "报纸",
+    "phonetic": "/ˈnjuːzpeɪpə(r)/",
+    "example": {
+      "en": "The newspaper is an important part of university life.",
+      "zh": "报纸是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 536,
+    "word": "garage",
+    "translation": "车库",
+    "phonetic": "/ˈɡærɑːʒ/",
+    "example": {
+      "en": "The garage is an important part of university life.",
+      "zh": "车库是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 537,
+    "word": "analysis",
+    "translation": "分析",
+    "phonetic": "/əˈnæləsɪs/",
+    "example": {
+      "en": "The analysis is an important part of university life.",
+      "zh": "分析是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 538,
+    "word": "familiar",
+    "translation": "熟悉的",
+    "phonetic": "/fəˈmɪliə(r)/",
+    "example": {
+      "en": "The familiar is an important part of university life.",
+      "zh": "熟悉的是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 539,
+    "word": "cop",
+    "translation": "警察",
+    "phonetic": "/kɒp/",
+    "example": {
+      "en": "The cop is an important part of university life.",
+      "zh": "警察是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 540,
+    "word": "temper",
+    "translation": "脾气",
+    "phonetic": "/ˈtempə(r)/",
+    "example": {
+      "en": "The temper is an important part of university life.",
+      "zh": "脾气是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 541,
+    "word": "passengers",
+    "translation": "旅客",
+    "phonetic": "/ˈpæsɪndʒəz/",
+    "example": {
+      "en": "The passengers is an important part of university life.",
+      "zh": "旅客是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 542,
+    "word": "sources",
+    "translation": "资源",
+    "phonetic": "/ˈsɔːsɪz/",
+    "example": {
+      "en": "The sources is an important part of university life.",
+      "zh": "资源是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 543,
+    "word": "introduction",
+    "translation": "简介",
+    "phonetic": "/ˌɪntrəˈdʌkʃn/",
+    "example": {
+      "en": "The introduction is an important part of university life.",
+      "zh": "简介是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 544,
+    "word": "warming",
+    "translation": "变暖",
+    "phonetic": "/ˈwɔːmɪŋ/",
+    "example": {
+      "en": "The warming is an important part of university life.",
+      "zh": "变暖是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 545,
+    "word": "role",
+    "translation": "角色",
+    "phonetic": "/rəʊl/",
+    "example": {
+      "en": "The role is an important part of university life.",
+      "zh": "角色是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 546,
+    "word": "states",
+    "translation": "州",
+    "phonetic": "/steɪts/",
+    "example": {
+      "en": "The states is an important part of university life.",
+      "zh": "州是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 547,
+    "word": "report",
+    "translation": "报告",
+    "phonetic": "/rɪˈpɔːt/",
+    "example": {
+      "en": "The report is an important part of university life.",
+      "zh": "报告是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 548,
+    "word": "objectives",
+    "translation": "目的",
+    "phonetic": "/əbˈdʒektɪvz/",
+    "example": {
+      "en": "The objectives is an important part of university life.",
+      "zh": "目的是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 549,
+    "word": "rules",
+    "translation": "规则",
+    "phonetic": "/ruːlz/",
+    "example": {
+      "en": "The rules is an important part of university life.",
+      "zh": "规则是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 550,
+    "word": "places",
+    "translation": "地点",
+    "phonetic": "/ˈpleɪsɪz/",
+    "example": {
+      "en": "The places is an important part of university life.",
+      "zh": "地点是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 551,
+    "word": "association",
+    "translation": "协会",
+    "phonetic": "/əˌsəʊsiˈeɪʃn/",
+    "example": {
+      "en": "The association is an important part of university life.",
+      "zh": "协会是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 552,
+    "word": "crops",
+    "translation": "庄稼",
+    "phonetic": "/krɒps/",
+    "example": {
+      "en": "The crops is an important part of university life.",
+      "zh": "庄稼是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 553,
+    "word": "personal",
+    "translation": "个人的",
+    "phonetic": "/ˈpɜːsənl/",
+    "example": {
+      "en": "The personal is an important part of university life.",
+      "zh": "个人的是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 554,
+    "word": "girlfriend",
+    "translation": "女友",
+    "phonetic": "/ˈɡɜːlfrend/",
+    "example": {
+      "en": "The girlfriend is an important part of university life.",
+      "zh": "女友是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 555,
+    "word": "instructors",
+    "translation": "教练",
+    "phonetic": "/ɪnˈstrʌktəz/",
+    "example": {
+      "en": "The instructors is an important part of university life.",
+      "zh": "教练是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 556,
+    "word": "lift",
+    "translation": "电梯",
+    "phonetic": "/lɪft/",
+    "example": {
+      "en": "The lift is an important part of university life.",
+      "zh": "电梯是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 557,
+    "word": "challenging",
+    "translation": "挑战的",
+    "phonetic": "/ˈtʃælɪndʒɪŋ/",
+    "example": {
+      "en": "The challenging is an important part of university life.",
+      "zh": "挑战的是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 558,
+    "word": "double",
+    "translation": "双的",
+    "phonetic": "/ˈdʌbl/",
+    "example": {
+      "en": "The double is an important part of university life.",
+      "zh": "双的是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 559,
+    "word": "motorcycle",
+    "translation": "摩托车",
+    "phonetic": "/ˈməʊtəsaɪkl/",
+    "example": {
+      "en": "The motorcycle is an important part of university life.",
+      "zh": "摩托车是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 560,
+    "word": "cultivation",
+    "translation": "培育",
+    "phonetic": "/ˌkʌltɪˈveɪʃn/",
+    "example": {
+      "en": "The cultivation is an important part of university life.",
+      "zh": "培育是大学生活的重要组成部分。"
+    },
+    "day": 13
+  },
+  {
+    "id": 561,
+    "word": "graduates",
+    "translation": "毕业生",
+    "phonetic": "/ˈɡrædʒuəts/",
+    "example": {
+      "en": "The graduates is an important part of university life.",
+      "zh": "毕业生是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 562,
+    "word": "lifestyle",
+    "translation": "生活方式",
+    "phonetic": "/ˈlaɪfstaɪl/",
+    "example": {
+      "en": "The lifestyle is an important part of university life.",
+      "zh": "生活方式是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 563,
+    "word": "hobbies",
+    "translation": "爱好",
+    "phonetic": "/ˈhɒbiz/",
+    "example": {
+      "en": "The hobbies is an important part of university life.",
+      "zh": "爱好是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 564,
+    "word": "shoppers",
+    "translation": "购物者",
+    "phonetic": "/ˈʃɒpəz/",
+    "example": {
+      "en": "The shoppers is an important part of university life.",
+      "zh": "购物者是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 565,
+    "word": "contacts",
+    "translation": "接触",
+    "phonetic": "/ˈkɒntækts/",
+    "example": {
+      "en": "The contacts is an important part of university life.",
+      "zh": "接触是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 566,
+    "word": "semester",
+    "translation": "学期",
+    "phonetic": "/sɪˈmestə(r)/",
+    "example": {
+      "en": "The semester is an important part of university life.",
+      "zh": "学期是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 567,
+    "word": "sight",
+    "translation": "视觉",
+    "phonetic": "/saɪt/",
+    "example": {
+      "en": "The sight is an important part of university life.",
+      "zh": "视觉是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 568,
+    "word": "land",
+    "translation": "土地",
+    "phonetic": "/lænd/",
+    "example": {
+      "en": "The land is an important part of university life.",
+      "zh": "土地是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 569,
+    "word": "soil",
+    "translation": "土壤",
+    "phonetic": "/sɔɪl/",
+    "example": {
+      "en": "The soil is an important part of university life.",
+      "zh": "土壤是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 570,
+    "word": "commercials",
+    "translation": "商业",
+    "phonetic": "/kəˈmɜːʃlz/",
+    "example": {
+      "en": "The commercials is an important part of university life.",
+      "zh": "商业是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 571,
+    "word": "midnight",
+    "translation": "午夜",
+    "phonetic": "/ˈmɪdnaɪt/",
+    "example": {
+      "en": "The midnight is an important part of university life.",
+      "zh": "午夜是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 572,
+    "word": "transfer",
+    "translation": "转换",
+    "phonetic": "/trænsˈfɜː(r)/",
+    "example": {
+      "en": "The transfer is an important part of university life.",
+      "zh": "转换是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 573,
+    "word": "benefits",
+    "translation": "优势",
+    "phonetic": "/ˈbenɪfɪts/",
+    "example": {
+      "en": "The benefits is an important part of university life.",
+      "zh": "优势是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 574,
+    "word": "clubs",
+    "translation": "俱乐部",
+    "phonetic": "/klʌbz/",
+    "example": {
+      "en": "The clubs is an important part of university life.",
+      "zh": "俱乐部是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 575,
+    "word": "cover",
+    "translation": "包括",
+    "phonetic": "/ˈkʌvə(r)/",
+    "example": {
+      "en": "The cover is an important part of university life.",
+      "zh": "包括是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 576,
+    "word": "drop-off",
+    "translation": "放下",
+    "phonetic": "/drɒp ɒf/",
+    "example": {
+      "en": "The drop-off is an important part of university life.",
+      "zh": "放下是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 577,
+    "word": "pictures",
+    "translation": "图片",
+    "phonetic": "/ˈpɪktʃəz/",
+    "example": {
+      "en": "The pictures is an important part of university life.",
+      "zh": "图片是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 578,
+    "word": "intelligence",
+    "translation": "智力",
+    "phonetic": "/ɪnˈtelɪdʒəns/",
+    "example": {
+      "en": "The intelligence is an important part of university life.",
+      "zh": "智力是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 579,
+    "word": "educational",
+    "translation": "教育的",
+    "phonetic": "/ˌedjuˈkeɪʃnəl/",
+    "example": {
+      "en": "The educational is an important part of university life.",
+      "zh": "教育的是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 580,
+    "word": "method",
+    "translation": "方法",
+    "phonetic": "/ˈmeθəd/",
+    "example": {
+      "en": "The method is an important part of university life.",
+      "zh": "方法是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 581,
+    "word": "journal",
+    "translation": "学术期刊",
+    "phonetic": "/ˈdʒɜːnl/",
+    "example": {
+      "en": "The journal is an important part of university life.",
+      "zh": "学术期刊是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 582,
+    "word": "organizer",
+    "translation": "组织者",
+    "phonetic": "/ˈɔːɡənaɪzə(r)/",
+    "example": {
+      "en": "The organizer is an important part of university life.",
+      "zh": "组织者是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 583,
+    "word": "engineer",
+    "translation": "工程师",
+    "phonetic": "/ˌendʒɪˈnɪə(r)/",
+    "example": {
+      "en": "The engineer is an important part of university life.",
+      "zh": "工程师是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 584,
+    "word": "export",
+    "translation": "出口",
+    "phonetic": "/ˈekspɔːt/",
+    "example": {
+      "en": "The export is an important part of university life.",
+      "zh": "出口是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 585,
+    "word": "register",
+    "translation": "注册",
+    "phonetic": "/ˈredʒɪstə(r)/",
+    "example": {
+      "en": "The register is an important part of university life.",
+      "zh": "注册是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 586,
+    "word": "debt",
+    "translation": "债务",
+    "phonetic": "/det/",
+    "example": {
+      "en": "The debt is an important part of university life.",
+      "zh": "债务是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 587,
+    "word": "strategy",
+    "translation": "策略",
+    "phonetic": "/ˈstrætədʒi/",
+    "example": {
+      "en": "The strategy is an important part of university life.",
+      "zh": "策略是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 588,
+    "word": "simple",
+    "translation": "简单的",
+    "phonetic": "/ˈsɪmpl/",
+    "example": {
+      "en": "The simple is an important part of university life.",
+      "zh": "简单的是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 589,
+    "word": "sweater",
+    "translation": "毛衣",
+    "phonetic": "/ˈswetə(r)/",
+    "example": {
+      "en": "The sweater is an important part of university life.",
+      "zh": "毛衣是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 590,
+    "word": "wise",
+    "translation": "明智的",
+    "phonetic": "/waɪz/",
+    "example": {
+      "en": "The wise is an important part of university life.",
+      "zh": "明智的是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 591,
+    "word": "dangerous",
+    "translation": "危险的",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "example": {
+      "en": "The dangerous is an important part of university life.",
+      "zh": "危险的是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 592,
+    "word": "causes",
+    "translation": "原因",
+    "phonetic": "/ˈkɔːzɪz/",
+    "example": {
+      "en": "The causes is an important part of university life.",
+      "zh": "原因是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 593,
+    "word": "retirement",
+    "translation": "退休",
+    "phonetic": "/rɪˈtaɪəmənt/",
+    "example": {
+      "en": "The retirement is an important part of university life.",
+      "zh": "退休是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 594,
+    "word": "amount",
+    "translation": "数量",
+    "phonetic": "/əˈmaʊnt/",
+    "example": {
+      "en": "The amount is an important part of university life.",
+      "zh": "数量是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 595,
+    "word": "teeth",
+    "translation": "牙齿",
+    "phonetic": "/tiːθ/",
+    "example": {
+      "en": "The teeth is an important part of university life.",
+      "zh": "牙齿是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 596,
+    "word": "product",
+    "translation": "产品",
+    "phonetic": "/ˈprɒdʌkt/",
+    "example": {
+      "en": "The product is an important part of university life.",
+      "zh": "产品是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 597,
+    "word": "guidance",
+    "translation": "指导",
+    "phonetic": "/ˈɡaɪdns/",
+    "example": {
+      "en": "The guidance is an important part of university life.",
+      "zh": "指导是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 598,
+    "word": "average",
+    "translation": "平均",
+    "phonetic": "/ˈævərɪdʒ/",
+    "example": {
+      "en": "The average is an important part of university life.",
+      "zh": "平均是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 599,
+    "word": "parking",
+    "translation": "停车",
+    "phonetic": "/ˈpɑːkɪŋ/",
+    "example": {
+      "en": "The parking is an important part of university life.",
+      "zh": "停车是大学生活的重要组成部分。"
+    },
+    "day": 14
+  },
+  {
+    "id": 600,
+    "word": "speech",
+    "translation": "演讲",
+    "phonetic": "/spiːtʃ/",
+    "example": {
+      "en": "The speech is an important part of university life.",
+      "zh": "演讲是大学生活的重要组成部分。"
+    },
+    "day": 14
   }
 ]
