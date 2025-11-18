@@ -3,45 +3,79 @@
 import { useState, useEffect } from 'react';
 import { Moon, Sun, Volume2, Target, Trash2, AlertCircle } from 'lucide-react';
 import { SpeechRate } from '@/types';
-import { getUserSettings, saveUserSettings, clearLearnData, clearAllData } from '@/lib/storage';
+import { useSettings } from '@/hooks/useSettings';
+import { clearLearnData, clearAllData } from '@/lib/storage';
 
 export default function SettingsPage() {
-  const [settings, setSettings] = useState(getUserSettings());
+  const { settings, loading, updateSettings } = useSettings();
+  const [darkMode, setDarkMode] = useState(false);
   const [showClearConfirm, setShowClearConfirm] = useState(false);
   const [showClearAllConfirm, setShowClearAllConfirm] = useState(false);
 
+  // Load dark mode from localStorage on mount
+  useEffect(() => {
+    const savedDarkMode = localStorage.getItem('darkMode') === 'true';
+    setDarkMode(savedDarkMode);
+    if (savedDarkMode) {
+      document.documentElement.classList.add('dark');
+    }
+  }, []);
+
   useEffect(() => {
     // 应用暗色模式
-    if (settings.darkMode) {
+    if (darkMode) {
       document.documentElement.classList.add('dark');
     } else {
       document.documentElement.classList.remove('dark');
     }
-  }, [settings.darkMode]);
+  }, [darkMode]);
 
   const handleDarkModeToggle = () => {
-    const newSettings = { ...settings, darkMode: !settings.darkMode };
-    setSettings(newSettings);
-    saveUserSettings(newSettings);
+    const newDarkMode = !darkMode;
+    setDarkMode(newDarkMode);
+    localStorage.setItem('darkMode', String(newDarkMode));
   };
 
-  const handleVoiceAccentChange = (accent: 'GB' | 'US') => {
-    const newSettings = { ...settings, voiceAccent: accent };
-    setSettings(newSettings);
-    saveUserSettings(newSettings);
+  const handleVoiceAccentChange = async (accent: 'GB' | 'US') => {
+    try {
+      await updateSettings({ voice_accent: accent });
+    } catch (error) {
+      alert('更新设置失败，请重试');
+    }
   };
 
-  const handleDailyLimitChange = (limit: number) => {
-    const newSettings = { ...settings, dailyWordLimit: limit };
-    setSettings(newSettings);
-    saveUserSettings(newSettings);
+  const handleDailyLimitChange = async (limit: number) => {
+    try {
+      await updateSettings({ daily_goal: limit });
+    } catch (error) {
+      alert('更新设置失败，请重试');
+    }
   };
 
-  const handleSpeechRateChange = (rate: SpeechRate) => {
-    const newSettings = { ...settings, speechRate: rate };
-    setSettings(newSettings);
-    saveUserSettings(newSettings);
+  const handleSpeechRateChange = async (rate: SpeechRate) => {
+    const rateMap = { slow: 0.7, normal: 0.9, fast: 1.1 };
+    try {
+      await updateSettings({ speech_rate: rateMap[rate] });
+    } catch (error) {
+      alert('更新设置失败，请重试');
+    }
   };
+
+  // Helper function to convert numeric speech_rate to SpeechRate type
+  const getSpeechRateType = (rate: number): SpeechRate => {
+    if (rate <= 0.8) return 'slow';
+    if (rate <= 1.0) return 'normal';
+    return 'fast';
+  };
+
+  // Show loading state
+  if (loading || !settings) {
+    return (
+      <div className="min-h-screen max-w-4xl mx-auto p-4 flex items-center justify-center">
+        <div className="text-gray-600 dark:text-gray-300">加载中...</div>
+      </div>
+    );
+  }
 
   const handleClearLearnData = () => {
     clearLearnData();
@@ -89,15 +123,15 @@ export default function SettingsPage() {
           <button
             onClick={handleDarkModeToggle}
             className={`relative inline-flex h-8 w-14 items-center rounded-full transition-colors ${
-              settings.darkMode ? 'bg-blue-500' : 'bg-gray-300'
+              darkMode ? 'bg-blue-500' : 'bg-gray-300'
             }`}
           >
             <span
               className={`inline-block h-6 w-6 transform rounded-full bg-white transition-transform ${
-                settings.darkMode ? 'translate-x-7' : 'translate-x-1'
+                darkMode ? 'translate-x-7' : 'translate-x-1'
               }`}
             >
-              {settings.darkMode ? (
+              {darkMode ? (
                 <Moon className="w-4 h-4 text-blue-500 m-1" />
               ) : (
                 <Sun className="w-4 h-4 text-yellow-500 m-1" />
@@ -122,7 +156,7 @@ export default function SettingsPage() {
             <button
               onClick={() => handleVoiceAccentChange('GB')}
               className={`p-4 rounded-lg border-2 transition-all ${
-                settings.voiceAccent === 'GB'
+                settings.voice_accent === 'GB'
                   ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
                   : 'border-gray-200 dark:border-gray-700'
               }`}
@@ -141,7 +175,7 @@ export default function SettingsPage() {
             <button
               onClick={() => handleVoiceAccentChange('US')}
               className={`p-4 rounded-lg border-2 transition-all ${
-                settings.voiceAccent === 'US'
+                settings.voice_accent === 'US'
                   ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
                   : 'border-gray-200 dark:border-gray-700'
               }`}
@@ -168,7 +202,7 @@ export default function SettingsPage() {
             <button
               onClick={() => handleSpeechRateChange('slow')}
               className={`p-4 rounded-lg border-2 transition-all ${
-                settings.speechRate === 'slow'
+                getSpeechRateType(settings.speech_rate) === 'slow'
                   ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
                   : 'border-gray-200 dark:border-gray-700'
               }`}
@@ -187,7 +221,7 @@ export default function SettingsPage() {
             <button
               onClick={() => handleSpeechRateChange('normal')}
               className={`p-4 rounded-lg border-2 transition-all ${
-                settings.speechRate === 'normal'
+                getSpeechRateType(settings.speech_rate) === 'normal'
                   ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
                   : 'border-gray-200 dark:border-gray-700'
               }`}
@@ -206,7 +240,7 @@ export default function SettingsPage() {
             <button
               onClick={() => handleSpeechRateChange('fast')}
               className={`p-4 rounded-lg border-2 transition-all ${
-                settings.speechRate === 'fast'
+                getSpeechRateType(settings.speech_rate) === 'fast'
                   ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
                   : 'border-gray-200 dark:border-gray-700'
               }`}
@@ -242,7 +276,7 @@ export default function SettingsPage() {
                 key={limit}
                 onClick={() => handleDailyLimitChange(limit)}
                 className={`p-4 rounded-lg border-2 transition-all ${
-                  settings.dailyWordLimit === limit
+                  settings.daily_goal === limit
                     ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
                     : 'border-gray-200 dark:border-gray-700'
                 }`}
